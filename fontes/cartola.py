@@ -10,7 +10,7 @@ conf = SparkConf().setAppName('Cartola')
 spark = SparkSession.builder.config(conf=conf).enableHiveSupport().getOrCreate()
 
 # Diretórios
-base = '/home/marcelio/Git/test_local/cartola'
+base = '/home/marcelio/Git/dev_local/cartola'
 base_atleta = base + '/bases/atletas'
 base_scout = base + '/bases/scouts'
 base_time = base + '/bases/times'
@@ -274,15 +274,15 @@ try:
 
     # Gravando arquivos com resultados
     df_pd_scouts = df.toPandas()
-    df_pd_scouts.to_csv(path_or_buf='/home/marcelio/Git/test_local/cartola/bases/resultados/scout.csv', \
+    df_pd_scouts.to_csv(path_or_buf='/home/marcelio/Git/dev_local/cartola/bases/resultados/scout.csv', \
                      sep=';',header=True, mode='w')
 
     df_pd_times = df_times.toPandas()
-    df_pd_times.to_csv(path_or_buf='/home/marcelio/Git/test_local/cartola/bases/resultados/times.csv', \
+    df_pd_times.to_csv(path_or_buf='/home/marcelio/Git/dev_local/cartola/bases/resultados/times.csv', \
                      sep=';',header=True, mode='w')
 
     df_pd_atletas = df_atletas.toPandas()
-    df_pd_atletas.to_csv(path_or_buf='/home/marcelio/Git/test_local/cartola/bases/resultados/atletas.csv', \
+    df_pd_atletas.to_csv(path_or_buf='/home/marcelio/Git/dev_local/cartola/bases/resultados/atletas.csv', \
                      sep=';',header=True, mode='w')
 
 except:
