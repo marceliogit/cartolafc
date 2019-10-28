@@ -1,0 +1,3812 @@
+;id_atleta;atleta;id_clube;id_posicao;ano;posicao
+0;84104;Luizinho;294.0;4;2014;Meia
+1;87230;Robson;265.0;3;2014;Zagueiro
+2;70944;Bruno Henrique;264.0;4;2014;Meia
+3;71581;Léo Costa;287.0;4;2014;Meia
+4;89156;Nathan;275.0;3;2015;Zagueiro
+5;78718;Michel;;5;2015;Atacante
+6;79042;Tiago ;282.0;3;2016;Zagueiro
+7;68952;Marinho;287.0;5;2016;Atacante
+8;90764;Luis Gustavo;292.0;3;2016;Zagueiro
+9;62086;Pará;262.0;2;2016;Lateral
+10;85149;Ronaldo;292.0;4;2016;Meia
+11;92981;Ronaldo;262.0;4;2016;Meia
+12;90587;Cascardo;293.0;2;2016;Lateral
+13;90290;Jailson;284.0;4;2017;Meia
+14;95830;Emerson Cris;315.0;6;2017;Tecnico
+15;73531;Washington;275.0;4;2014;Meia
+16;69209;Diego Macedo;265.0;2;2014;Lateral
+17;62977;Paulo Henrique Ganso;276.0;4;2014;Meia
+18;82463;Otávio ;293.0;4;2014;Meia
+19;89227;Balbino;284.0;4;2014;Meia
+20;38374;Alessandro;265.0;5;2014;Atacante
+21;77967;Mena;283.0;2;2015;Lateral
+22;49675;Alexandre Pato;276.0;5;2015;Atacante
+23;90307;Juninho;293.0;5;2016;Atacante
+24;95121;Matheus Nogueira;284.0;1;2016;Goleiro
+25;37790;Ceará;285.0;2;2016;Lateral
+26;78994;Eduardo Henrique;285.0;4;2016;Meia
+27;38632;Matheus Ferraz;292.0;3;2016;Zagueiro
+28;71122;Matheus Menezes;263.0;3;2016;Zagueiro
+29;62136;Marcelo Oliveira;294.0;6;2017;Tecnico
+30;68698;Bruno Silva;263.0;4;2017;Meia
+31;80281;Cleberson;293.0;3;2017;Zagueiro
+32;83004;Otero;282.0;4;2017;Meia
+33;83433;Patrick;292.0;4;2017;Meia
+34;88597;Lucas Crispim;277.0;4;2017;Meia
+35;92497;Douglas;266.0;4;2017;Meia
+36;93806;Alison;373.0;5;2017;Atacante
+37;97528;Frazan;266.0;3;2017;Zagueiro
+38;50880;Keirrison;294.0;5;2014;Atacante
+39;73644;Ivan;294.0;2;2014;Lateral
+40;73417;Lima;290.0;2;2014;Lateral
+41;86491;Jonatha Fumaça;294.0;5;2014;Atacante
+42;68821;Rafael Galhardo;265.0;2;2014;Lateral
+43;86762;Tárik;293.0;3;2014;Zagueiro
+44;74017;Josa;287.0;4;2014;Meia
+45;71995;Hugo;265.0;5;2014;Atacante
+46;71631;Weverton;293.0;1;2015;Goleiro
+47;83688;Luan;316.0;4;2015;Meia
+48;90703;Matheuzinho;316.0;4;2015;Meia
+49;42225;Eusébio;;2;2015;Lateral
+50;92662;Denilson;284.0;3;2016;Zagueiro
+51;92291;Bruno Viana;283.0;3;2016;Zagueiro
+52;42247;Danny Morais;344.0;3;2016;Zagueiro
+53;92078;Wallace;292.0;5;2016;Atacante
+54;89343;Júnior Tavares;276.0;2;2016;Lateral
+55;38523;Edílson;284.0;2;2017;Lateral
+56;63013;Marcos Rocha;282.0;2;2017;Lateral
+57;69036;Eduardo;373.0;2;2017;Lateral
+58;78856;Marcão Silva;373.0;4;2017;Meia
+59;79343;Doriva;373.0;6;2017;Tecnico
+60;88323;Ángel Romero;264.0;5;2017;Atacante
+61;70046;Victor Ferraz;277.0;2;2014;Lateral
+62;87211;Eduardo Baptista;292.0;6;2014;Tecnico
+63;80913;Nixon;262.0;5;2014;Atacante
+64;37673;Alecsandro;262.0;5;2014;Atacante
+65;84707;Jonatan Lucca;293.0;4;2015;Meia
+66;91261;Bernardo;303.0;3;2015;Zagueiro
+67;92811;Bruno Rodrigues;;5;2015;Atacante
+68;87999;Gustavo Scarpa;266.0;4;2016;Meia
+69;78765;Alan Mineiro;264.0;4;2016;Meia
+70;74078;Hernani ;293.0;4;2016;Meia
+71;68930;Kieza;287.0;5;2016;Atacante
+72;84382;Danilo Barcelos;327.0;2;2016;Lateral
+73;84848;Erik;275.0;5;2017;Atacante
+74;37840;Gustavo;293.0;3;2014;Zagueiro
+75;38108;Jorge Henrique;285.0;5;2014;Atacante
+76;52618;Anderson Martins;264.0;3;2014;Zagueiro
+77;79066;Alex ;316.0;1;2014;Goleiro
+78;78946;Dória;263.0;3;2014;Zagueiro
+79;68911;Diego Souza;292.0;4;2015;Meia
+80;72943;Luís Cáceres;264.0;4;2015;Meia
+81;68873;Paulo Victor;262.0;1;2015;Goleiro
+82;82510;Romarinho;267.0;5;2015;Atacante
+83;49674;Fabrício;275.0;2;2016;Lateral
+84;90942;Walter Guimarães;344.0;3;2016;Zagueiro
+85;84917;Jeferson;303.0;2;2016;Lateral
+86;51705;Bruno Rodrigo;284.0;3;2017;Zagueiro
+87;63128;Douglas;276.0;3;2017;Zagueiro
+88;81770;Clayton;264.0;5;2017;Atacante
+89;84927;Dodô;315.0;4;2017;Meia
+90;80188;Marcos Junior;287.0;5;2014;Atacante
+91;78558;Romulo Cabral;293.0;5;2014;Atacante
+92;88056;Malcom;264.0;5;2015;Atacante
+93;72007;Uillian Correia;;4;2015;Meia
+94;63172;Paulão;285.0;3;2016;Zagueiro
+95;61985;Airton;263.0;4;2016;Meia
+96;85882;Diogo Mateus;287.0;2;2016;Lateral
+97;96788;Victor Feitosa;293.0;4;2016;Meia
+98;84861;Alex Silva;282.0;2;2016;Lateral
+99;38277;Thiago Neves;283.0;4;2017;Meia
+100;78086;César;262.0;1;2017;Goleiro
+101;82773;Gilvan;373.0;3;2017;Zagueiro
+102;92057;Gabriel Félix;267.0;1;2017;Goleiro
+103;93789;Caio Monteiro;267.0;5;2017;Atacante
+104;81952;Willian;292.0;4;2014;Meia
+105;73359;Roniery;265.0;2;2014;Lateral
+106;86928;David;288.0;1;2014;Goleiro
+107;72893;Eduardo Da Silva;262.0;5;2014;Atacante
+108;73890;Mário Sérgio;290.0;2;2014;Lateral
+109;38100;Durval;292.0;3;2015;Zagueiro
+110;38446;Nei;267.0;2;2015;Lateral
+111;73446;Éderson;;5;2015;Atacante
+112;72767;Julinho Camargo;;6;2015;Tecnico
+113;79400;Néstor Camacho;;4;2015;Meia
+114;89226;Iago Maidana;;3;2015;Zagueiro
+115;68928;Rafael;283.0;1;2016;Goleiro
+116;73992;Rodinei;262.0;2;2016;Lateral
+117;40179;Kleber;294.0;5;2016;Atacante
+118;91194;Thiago;262.0;1;2016;Goleiro
+119;87342;Kannemann;284.0;3;2016;Zagueiro
+120;72871;Cárdenas;287.0;4;2016;Meia
+121;52674;Gilson;263.0;2;2017;Lateral
+122;89150;Jean;267.0;4;2017;Meia
+123;38032;Cleber Santana;288.0;4;2014;Meia
+124;85399;Felipe Macedo;290.0;3;2014;Zagueiro
+125;83920;Wellington Neto;316.0;3;2014;Zagueiro
+126;68685;Alan Patrick;285.0;4;2014;Meia
+127;80370;Edson;266.0;4;2014;Meia
+128;84997;Paulo;290.0;5;2015;Atacante
+129;38508;Eder Luis;;5;2015;Atacante
+130;69141;Ricardo Bueno;;5;2015;Atacante
+131;93152;Tontini;;4;2015;Meia
+132;87420;Cristaldo;275.0;5;2016;Atacante
+133;95663;Vinícius;303.0;4;2016;Meia
+134;68929;Thiago Ribeiro;277.0;5;2017;Atacante
+135;73515;Gabriel;262.0;5;2017;Atacante
+136;77556;Bruno Brígido;294.0;1;2017;Goleiro
+137;89156;Nathan;315.0;3;2017;Zagueiro
+138;90569;Yuri;277.0;4;2017;Meia
+139;89157;Guilherme;275.0;2;2014;Lateral
+140;89493;Igor Rabello;263.0;3;2014;Zagueiro
+141;38523;Edílson;263.0;2;2014;Lateral
+142;68846;Thiago Humberto;288.0;4;2014;Meia
+143;37245;Guto Ferreira;316.0;6;2014;Tecnico
+144;60791;Derley;293.0;4;2014;Meia
+145;80370;Edson;266.0;4;2015;Meia
+146;68693;Armero;262.0;2;2015;Lateral
+147;38138;Jô;282.0;5;2015;Atacante
+148;77579;Dellatorre;293.0;5;2015;Atacante
+149;80583;Lucas Lima;277.0;4;2015;Meia
+150;86934;Túlio;290.0;4;2015;Meia
+151;87008;Léo;284.0;1;2015;Goleiro
+152;38768;Andrezinho;;4;2015;Meia
+153;93368;Lucas Veríssimo;;3;2015;Zagueiro
+154;87611;Tiago;284.0;1;2016;Goleiro
+155;38229;Fábio Santos;282.0;2;2016;Lateral
+156;51042;Apodi;292.0;2;2016;Lateral
+157;37984;Aranha;303.0;1;2017;Goleiro
+158;94894;Capixaba;282.0;5;2017;Atacante
+159;99883;Penilla;315.0;5;2017;Atacante
+160;88899;Charles Fabian;265.0;6;2014;Tecnico
+161;78965;Roni;294.0;4;2014;Meia
+162;84857;Rafael Tavares;290.0;4;2014;Meia
+163;89977;Bruno Santos;316.0;2;2014;Lateral
+164;50880;Keirrison;264.0;5;2015;Atacante
+165;37851;Maicosuel;282.0;4;2015;Meia
+166;70132;Alan Santos;264.0;4;2015;Meia
+167;71507;Edson Silva;276.0;3;2015;Zagueiro
+168;82737;Welinton Junior;317.0;5;2015;Atacante
+169;92696;Renato Kayzer;;5;2015;Atacante
+170;91101;Ronaldo;287.0;1;2016;Goleiro
+171;72605;Vitor Hugo;275.0;3;2016;Zagueiro
+172;69051;Danilo Fernandes;285.0;1;2016;Goleiro
+173;94930;Lucas Paquetá;262.0;4;2016;Meia
+174;37281;Mano Menezes;283.0;6;2016;Tecnico
+175;80189;Lucas Fonseca;265.0;3;2017;Zagueiro
+176;80171;Dedé;315.0;4;2014;Meia
+177;78117;Everaldo;316.0;5;2014;Atacante
+178;37816;Marco Antônio;316.0;4;2014;Meia
+179;89257;Breno;266.0;2;2014;Lateral
+180;37604;Paulo André;283.0;3;2015;Zagueiro
+181;80853;Pedro Geromel;284.0;3;2015;Zagueiro
+182;69019;Fabinho ;317.0;5;2015;Atacante
+183;91274;Marcelo Fernandes;277.0;6;2015;Tecnico
+184;70759;Martinuccio;266.0;5;2015;Atacante
+185;90319;André Baumer;317.0;3;2015;Zagueiro
+186;92504;Batista;;5;2015;Atacante
+187;37086;Artur Neto;;6;2015;Tecnico
+188;78605;Gabriel;275.0;4;2016;Meia
+189;91003;Alison;292.0;5;2016;Atacante
+190;88129;Lucas Gomes;344.0;4;2016;Meia
+191;78086;César;303.0;1;2016;Goleiro
+192;86143;Wanderson;293.0;3;2016;Zagueiro
+193;50454;Serginho;292.0;4;2016;Meia
+194;71656;Diego Torres ;316.0;4;2016;Meia
+195;39850;Vagner Mancini;315.0;6;2017;Tecnico
+196;68979;Giovanni;282.0;1;2017;Goleiro
+197;79887;Fabiano;275.0;2;2017;Lateral
+198;82625;Maurinho;314.0;5;2017;Atacante
+199;82817;Tomas Bastos;294.0;4;2017;Meia
+200;94249;Lourency;315.0;5;2017;Atacante
+201;70106;Mouche;275.0;5;2014;Atacante
+202;37770;Marcelo Grohe;284.0;1;2014;Goleiro
+203;82613;Alan;285.0;3;2014;Zagueiro
+204;63219;Luan;282.0;5;2015;Atacante
+205;37694;Henrique;283.0;4;2015;Meia
+206;82499;Christiano ;267.0;2;2015;Lateral
+207;89258;Daniel;262.0;1;2015;Goleiro
+208;60852;Uendel;264.0;2;2016;Lateral
+209;52950;Victor;282.0;1;2016;Goleiro
+210;91100;Alípio;287.0;4;2016;Meia
+211;73347;Elvis;316.0;4;2016;Meia
+212;38021;Wendel;303.0;4;2017;Meia
+213;99574;Robinho;266.0;5;2017;Atacante
+214;69141;Ricardo Bueno;316.0;5;2014;Atacante
+215;50295;Felipe Menezes;290.0;4;2015;Meia
+216;89695;Iury;314.0;5;2015;Atacante
+217;92094;Diogo Vitor;;2;2015;Lateral
+218;37613;Dagoberto;287.0;5;2016;Atacante
+219;93567;Pisano;344.0;4;2016;Meia
+220;70018;Nilson;327.0;5;2016;Atacante
+221;73991;Walisson Maia;294.0;3;2017;Zagueiro
+222;93790;Marlon Freitas;266.0;4;2017;Meia
+223;68690;André;282.0;5;2014;Atacante
+224;54424;Willians;285.0;4;2014;Meia
+225;79265;Renan;265.0;1;2014;Goleiro
+226;38138;Jô;282.0;5;2014;Atacante
+227;89677;Fernandinho;275.0;4;2014;Meia
+228;37653;Nilmar;285.0;5;2014;Atacante
+229;86229;Eduardo Hungaro;263.0;6;2014;Tecnico
+230;38986;Aílton;292.0;4;2014;Meia
+231;50877;Pedro Ken;264.0;4;2015;Meia
+232;91004;Kelvenny;292.0;5;2015;Atacante
+233;68922;Fabrício;;4;2015;Meia
+234;95820;Léo Santos;264.0;3;2016;Zagueiro
+235;38140;Fernando Prass;275.0;1;2017;Goleiro
+236;77579;Dellatorre;293.0;5;2014;Atacante
+237;61106;Cicinho;277.0;2;2014;Lateral
+238;52950;Victor;282.0;1;2014;Goleiro
+239;37684;Chicão;262.0;3;2014;Zagueiro
+240;88480;Ronan;284.0;5;2014;Atacante
+241;50413;Anderson Aquino;294.0;5;2014;Atacante
+242;68951;Josimar;275.0;4;2014;Meia
+243;80553;Guilherme Lazaroni;316.0;2;2015;Lateral
+244;72204;Diego Oliveira;303.0;5;2015;Atacante
+245;90916;Everton;290.0;2;2015;Lateral
+246;89285;Matheus Sales;;4;2015;Meia
+247;81950;Jefferson;316.0;4;2016;Meia
+248;91917;Silva;285.0;4;2016;Meia
+249;71724;Agenor;292.0;1;2016;Goleiro
+250;55519;Edmílson;292.0;5;2016;Atacante
+251;54424;Willians;264.0;4;2016;Meia
+252;53865;Léo Gamalho;303.0;5;2017;Atacante
+253;62009;Camilo;263.0;4;2017;Meia
+254;63158;Moisés;275.0;4;2017;Meia
+255;74060;Luiz Antonio ;315.0;4;2017;Meia
+256;86859;José Welison;287.0;4;2017;Meia
+257;94765;Léo Principe;264.0;2;2017;Lateral
+258;84927;Dodô;282.0;4;2014;Meia
+259;38074;Ygor;285.0;4;2014;Meia
+260;70216;Gustavo;287.0;1;2014;Goleiro
+261;68872;Marcelo Lomba;265.0;1;2014;Goleiro
+262;73879;Rogério;288.0;2;2014;Lateral
+263;37795;Jorge Wagner;263.0;4;2014;Meia
+264;72039;Ferron;316.0;3;2015;Zagueiro
+265;51042;Apodi;315.0;2;2015;Lateral
+266;78236;Danilo;290.0;5;2015;Atacante
+267;87999;Gustavo Scarpa;266.0;4;2015;Meia
+268;44857;Naldinho;292.0;4;2015;Meia
+269;90334;Araújo;284.0;4;2015;Meia
+270;72117;Victor Bolt;267.0;4;2015;Meia
+271;70173;Ederson;;4;2015;Meia
+272;92584;Milla;;4;2015;Meia
+273;61149;Lucca;;5;2015;Atacante
+274;37688;Cícero;266.0;4;2016;Meia
+275;95637;Banguelê;276.0;4;2016;Meia
+276;89342;Caju;277.0;2;2016;Lateral
+277;86932;Gustavo;264.0;5;2016;Atacante
+278;97437;Marquinhos;303.0;4;2016;Meia
+279;51413;Walter;264.0;1;2017;Goleiro
+280;51792;Kanu;287.0;3;2017;Zagueiro
+281;52253;Réver;262.0;3;2017;Zagueiro
+282;72362;Rodrigo Lindoso;263.0;4;2017;Meia
+283;78897;Naldo;303.0;4;2017;Meia
+284;84703;Niltinho;315.0;5;2017;Atacante
+285;41126;Rodrigo Gral;315.0;5;2014;Atacante
+286;89190;Judivan ;283.0;5;2014;Atacante
+287;91323;Luccas Barreto;264.0;4;2015;Meia
+288;80328;Jhonatan;317.0;1;2015;Goleiro
+289;86509;Ebert;;2;2015;Lateral
+290;93835;Kaike;285.0;2;2016;Lateral
+291;51702;Alison;327.0;3;2016;Zagueiro
+292;38530;Cleiton Xavier;287.0;4;2017;Meia
+293;69047;Paulo Roberto;264.0;4;2017;Meia
+294;69095;Montillo;263.0;4;2017;Meia
+295;94144;Thallyson;292.0;4;2017;Meia
+296;100652;Yuri Alberto;277.0;5;2017;Atacante
+297;84861;Alex Silva;282.0;2;2014;Lateral
+298;68945;Saimon;284.0;3;2014;Zagueiro
+299;68929;Thiago Ribeiro;277.0;5;2014;Atacante
+300;61149;Lucca;288.0;5;2014;Atacante
+301;78436;Renan Lemos;263.0;2;2014;Lateral
+302;38630;Rivaldo;316.0;4;2014;Meia
+303;52558;Bruno César;275.0;4;2014;Meia
+304;82458;Erwin;293.0;3;2014;Zagueiro
+305;83506;Vítor Michels;288.0;4;2014;Meia
+306;83257;Gabriel;277.0;5;2015;Atacante
+307;81612;Fernando Viana;317.0;5;2015;Atacante
+308;86391;Sander;314.0;2;2015;Lateral
+309;60784;Rafael Carioca;282.0;4;2015;Meia
+310;85004;Marcos Felipe ;266.0;1;2015;Goleiro
+311;63133;Elias;316.0;5;2015;Atacante
+312;91156;Jesiel;282.0;3;2016;Zagueiro
+313;71709;Cuéllar;262.0;4;2016;Meia
+314;68901;Rodrigo Pimpão;263.0;5;2016;Atacante
+315;52950;Victor;282.0;1;2017;Goleiro
+316;79701;Lucas Silva;283.0;4;2017;Meia
+317;50346;Guilherme Santos;265.0;2;2014;Lateral
+318;72133;Ednei;287.0;3;2014;Zagueiro
+319;68689;Anderson Uchoa;288.0;4;2014;Meia
+320;69249;Martín Silva;267.0;1;2015;Goleiro
+321;78977;Bruno Mendes;314.0;5;2015;Atacante
+322;88002;Serginho;277.0;4;2015;Meia
+323;92662;Denilson;;3;2015;Zagueiro
+324;92497;Douglas;266.0;4;2016;Meia
+325;72037;Renan Fonseca;263.0;3;2016;Zagueiro
+326;80287;Luciano;264.0;5;2016;Atacante
+327;38530;Cleiton Xavier;275.0;4;2016;Meia
+328;97431;Diego;327.0;2;2016;Lateral
+329;68911;Diego Souza;292.0;4;2017;Meia
+330;70916;Diogo Barbosa;283.0;2;2017;Lateral
+331;78605;Gabriel;264.0;4;2017;Meia
+332;90303;Lincoln;284.0;4;2017;Meia
+333;93153;Pachequinho;294.0;6;2017;Tecnico
+334;50532;Maxi Biancucchi;265.0;5;2014;Atacante
+335;71041;Assuério;290.0;5;2014;Atacante
+336;86748;Breno;284.0;2;2014;Lateral
+337;63014;Gil;294.0;4;2014;Meia
+338;80949;Biro Biro;266.0;5;2014;Atacante
+339;87213;Pará;265.0;2;2014;Lateral
+340;89275;William;285.0;4;2014;Meia
+341;85004;Marcos Felipe ;266.0;1;2014;Goleiro
+342;82628;Tinga;284.0;2;2014;Lateral
+343;86760;Lucas Macanhan;293.0;1;2014;Goleiro
+344;68968;Adailton;287.0;5;2014;Atacante
+345;40025;Levir Culpi;282.0;6;2015;Tecnico
+346;38069;Richarlyson;315.0;4;2015;Meia
+347;69099;Seymour;283.0;4;2015;Meia
+348;37654;Rosinei;264.0;4;2015;Meia
+349;56102;João Paulo;264.0;4;2015;Meia
+350;69051;Danilo Fernandes;292.0;1;2015;Goleiro
+351;80188;Marcos Junior;266.0;5;2015;Atacante
+352;79432;Giovanni;293.0;4;2015;Meia
+353;81776;Bruno Nazário;283.0;4;2016;Meia
+354;95638;Marcelo;263.0;3;2016;Zagueiro
+355;77773;Vilches;293.0;3;2016;Zagueiro
+356;95841;Matheus Henrique;316.0;5;2016;Atacante
+357;73375;Felipe;264.0;3;2016;Zagueiro
+358;83028;Braian Rodríguez;284.0;5;2016;Atacante
+359;82411;Cueva;276.0;4;2017;Meia
+360;84917;Jeferson;303.0;2;2017;Lateral
+361;87393;Gabriel;282.0;3;2017;Zagueiro
+362;38960;Zé Eduardo;294.0;5;2014;Atacante
+363;38515;Marquinhos;316.0;3;2014;Zagueiro
+364;86314;Alex Santos;263.0;2;2014;Lateral
+365;63018;Guilherme Andrade;264.0;2;2014;Lateral
+366;88651;Vinícius;263.0;5;2014;Atacante
+367;38579;Rodrigo Mancha;292.0;4;2014;Meia
+368;50324;Hudson;276.0;4;2014;Meia
+369;85423;Valdivia;285.0;4;2015;Meia
+370;81845;Alisson;283.0;5;2015;Atacante
+371;68938;Giovanni Augusto;282.0;4;2015;Meia
+372;71971;Reynaldo ;303.0;1;2015;Goleiro
+373;90420;William Schuster ;;4;2015;Meia
+374;95659;Artur;276.0;4;2016;Meia
+375;68958;Wallace Reis ;284.0;3;2016;Zagueiro
+376;69343;Mark González;292.0;4;2016;Meia
+377;95335;Matheus Jesus;303.0;4;2016;Meia
+378;61211;Carlos Cesar;282.0;2;2017;Lateral
+379;90959;Esteban Pavez;293.0;4;2017;Meia
+380;42116;Willian;283.0;5;2014;Atacante
+381;69014;Manoel;283.0;3;2014;Zagueiro
+382;62047;Jean;266.0;4;2014;Meia
+383;63172;Paulão;285.0;3;2015;Zagueiro
+384;69041;Muriel;285.0;1;2015;Goleiro
+385;63418;Leandro Silva;264.0;3;2015;Zagueiro
+386;93885;Maktom;327.0;4;2016;Meia
+387;97460;João Victor;344.0;4;2016;Meia
+388;62128;Walter;373.0;5;2017;Atacante
+389;73721;Marcos Vinícius;263.0;4;2017;Meia
+390;85425;João Paulo;277.0;1;2017;Goleiro
+391;100763;Gabriel;276.0;4;2017;Meia
+392;40130;Silvio;315.0;1;2014;Goleiro
+393;68887;Gum;266.0;3;2014;Zagueiro
+394;68738;Eli Sabiá;288.0;3;2014;Zagueiro
+395;71560;Luis Ramírez;263.0;4;2014;Meia
+396;73025;Geovane;277.0;5;2014;Atacante
+397;82466;Bruno Pelissari;293.0;4;2014;Meia
+398;71618;Anderson Conceição;265.0;3;2014;Zagueiro
+399;84860;Abner;294.0;2;2014;Lateral
+400;81148;Ronaldo Mendes;288.0;4;2014;Meia
+401;73051;Robert Flores;292.0;4;2014;Meia
+402;89694;James Dean;292.0;5;2014;Atacante
+403;52950;Victor;282.0;1;2015;Goleiro
+404;78850;Reinaldo;276.0;2;2015;Lateral
+405;80913;Nixon;262.0;5;2015;Atacante
+406;81914;Léo Lisboa;316.0;4;2015;Meia
+407;54797;Túlio De Melo;;5;2015;Atacante
+408;94207;Guilherme;284.0;5;2016;Atacante
+409;86765;Bruno Mota;293.0;4;2016;Meia
+410;90265;Tiaguinho;315.0;5;2016;Atacante
+411;94765;Léo Principe;264.0;2;2016;Lateral
+412;85425;João Paulo;277.0;1;2016;Goleiro
+413;37655;Rafael Moura;282.0;5;2017;Atacante
+414;77529;Leandro Silva;314.0;2;2017;Lateral
+415;81914;Léo Lisboa;316.0;4;2014;Meia
+416;73771;Mineiro;287.0;4;2014;Meia
+417;71602;João Paulo;262.0;2;2014;Lateral
+418;88065;Jorge;262.0;2;2014;Lateral
+419;79022;Yguinho;263.0;5;2014;Atacante
+420;81770;Clayton;316.0;5;2014;Atacante
+421;88056;Malcom;264.0;5;2014;Atacante
+422;83872;Erick;265.0;5;2014;Atacante
+423;73481;Gilmar Dal Pozzo;288.0;6;2014;Tecnico
+424;80660;Lucas Farias;276.0;2;2014;Lateral
+425;68953;Leandro Damião;283.0;5;2015;Atacante
+426;50459;Léo;283.0;3;2015;Zagueiro
+427;38150;Marquinhos;314.0;4;2015;Meia
+428;91194;Thiago;;1;2015;Goleiro
+429;37662;Jonathan;;2;2015;Lateral
+430;80318;Ezequiel ;283.0;2;2016;Lateral
+431;79578;Sassá;263.0;5;2016;Atacante
+432;83048;Rafael Thyere;284.0;3;2016;Zagueiro
+433;88848;Júnior Oliveira;316.0;1;2016;Goleiro
+434;37798;Rafael Sobis;283.0;5;2016;Atacante
+435;56102;João Paulo;294.0;4;2016;Meia
+436;86970;Eduardo;285.0;3;2016;Zagueiro
+437;38910;Ricardo Oliveira;277.0;5;2017;Atacante
+438;70173;Ederson;262.0;4;2017;Meia
+439;79892;Nenén;315.0;4;2017;Meia
+440;89815;Gustavo Ferrareis;265.0;4;2017;Meia
+441;86932;Gustavo;288.0;5;2014;Atacante
+442;50418;Dinei;287.0;5;2014;Atacante
+443;36940;Oswaldo De Oliveira;277.0;6;2014;Tecnico
+444;72159;Serginho;275.0;4;2014;Meia
+445;73806;Samuel ;292.0;5;2015;Atacante
+446;79710;Caíque;293.0;5;2015;Atacante
+447;73644;Ivan;264.0;2;2015;Lateral
+448;86757;Everton;284.0;5;2015;Atacante
+449;91495;Arancibia;275.0;4;2015;Meia
+450;40130;Silvio;315.0;1;2015;Goleiro
+451;90290;Jajá;315.0;4;2015;Meia
+452;81772;Tauã;;5;2015;Atacante
+453;92764;Bruno Baio;;5;2015;Atacante
+454;90651;Rodrigão;277.0;5;2016;Atacante
+455;78548;Jean Mota;277.0;4;2016;Meia
+456;60969;Patric;282.0;2;2016;Lateral
+457;74074;Claudio Winck;315.0;2;2016;Lateral
+458;53148;Ytalo;276.0;5;2016;Atacante
+459;94931;Lucas Fernandes;276.0;4;2016;Meia
+460;38311;Márcio Araújo;262.0;4;2016;Meia
+461;38748;Maicon;314.0;2;2017;Lateral
+462;51299;Emerson Silva;263.0;3;2017;Zagueiro
+463;54395;Elias;282.0;4;2017;Meia
+464;72879;Vladimir Hernández;277.0;5;2017;Atacante
+465;93788;Evander;267.0;4;2017;Meia
+466;68953;Leandro Damião;277.0;5;2014;Atacante
+467;51299;Emerson;282.0;3;2014;Zagueiro
+468;79048;Elisson;283.0;1;2014;Goleiro
+469;68702;Bruno Collaço;315.0;2;2014;Lateral
+470;63034;Douglas;287.0;1;2014;Goleiro
+471;78967;Dudu;316.0;5;2014;Atacante
+472;84896;Lucas Otávio;277.0;4;2014;Meia
+473;42145;Egídio;275.0;2;2015;Lateral
+474;62004;Bruno Aguiar;317.0;3;2015;Zagueiro
+475;91001;Evandro;292.0;2;2015;Lateral
+476;71549;Kelvin;275.0;5;2015;Atacante
+477;80129;Jadson;344.0;4;2016;Meia
+478;81091;Jair;285.0;4;2016;Meia
+479;92501;Lucas Lovat;284.0;2;2016;Lateral
+480;51792;Kanu;287.0;3;2016;Zagueiro
+481;62974;Werley;316.0;3;2016;Zagueiro
+482;62136;Marcelo Oliveira;282.0;6;2016;Tecnico
+483;73806;Samuel ;266.0;5;2016;Atacante
+484;86760;Lucas Macanhan;293.0;1;2016;Goleiro
+485;84718;Denilson;276.0;5;2017;Atacante
+486;94154;Maycon;264.0;4;2017;Meia
+487;99915;Ezequiel;263.0;4;2017;Meia
+488;37694;Henrique;283.0;4;2014;Meia
+489;78236;Danilo;290.0;5;2014;Atacante
+490;71668;Anderson Carvalho;277.0;4;2014;Meia
+491;37718;Arouca;275.0;4;2015;Meia
+492;83528;Léo Pereira;293.0;3;2015;Zagueiro
+493;91808;Caique;264.0;1;2015;Goleiro
+494;88224;Paulo Ricardo;277.0;3;2015;Zagueiro
+495;38219;Alex;285.0;4;2016;Meia
+496;95829;Rak;285.0;3;2016;Zagueiro
+497;38394;Thiago Heleno;293.0;3;2016;Zagueiro
+498;84684;Lucas Gomes;315.0;5;2016;Atacante
+499;82613;Alan Costa;285.0;3;2016;Zagueiro
+500;80537;Michael;327.0;5;2016;Atacante
+501;91094;Ábila;283.0;5;2017;Atacante
+502;91573;Arboleda;276.0;3;2017;Zagueiro
+503;87225;Pedro Henrique;264.0;3;2014;Zagueiro
+504;80774;Alan Pinheiro;287.0;5;2014;Atacante
+505;73617;Emerson;277.0;2;2014;Lateral
+506;68808;Nino Paraíba;287.0;2;2014;Lateral
+507;61033;Rodriguinho;284.0;4;2014;Meia
+508;83963;Leandro Canhoto;284.0;4;2014;Meia
+509;50421;Wesley;276.0;4;2015;Meia
+510;36790;Josué;282.0;4;2015;Meia
+511;83395;Wanderson;303.0;5;2015;Atacante
+512;83615;Thiago Martins;275.0;3;2016;Zagueiro
+513;37701;Léo Moura;344.0;2;2016;Lateral
+514;37894;Danilo Dias;327.0;5;2016;Atacante
+515;51707;Cardoso;327.0;3;2016;Zagueiro
+516;78497;Arnaldo;263.0;2;2017;Lateral
+517;81241;Oswaldo Henríquez;292.0;3;2017;Zagueiro
+518;99615;Bruno Cosendey;267.0;4;2017;Meia
+519;69090;Matías Rodríguez;284.0;2;2014;Lateral
+520;82502;Rafinha;265.0;5;2014;Atacante
+521;50317;David Braz;277.0;3;2014;Zagueiro
+522;78648;Dráusio;293.0;3;2014;Zagueiro
+523;87741;Joelinton;292.0;5;2014;Atacante
+524;88686;Leandro Ávila;293.0;6;2014;Tecnico
+525;81905;Henrique Dourado;283.0;5;2015;Atacante
+526;70121;Rafael Costa;317.0;5;2015;Atacante
+527;88225;Daniel Guedes ;277.0;2;2015;Lateral
+528;89904;Rafael Furlan;317.0;5;2015;Atacante
+529;87201;Igor ;315.0;3;2015;Zagueiro
+530;95626;Matheus;344.0;4;2016;Meia
+531;83004;Otero;282.0;4;2016;Meia
+532;68744;Emerson Sheik;303.0;5;2017;Atacante
+533;81903;Wellington Simião;314.0;4;2017;Meia
+534;88417;Iago;294.0;5;2017;Atacante
+535;96831;Carlinhos;264.0;5;2017;Atacante
+536;73085;Leandro;275.0;5;2014;Atacante
+537;89479;Gustavo Tocantins;264.0;5;2014;Atacante
+538;37983;Ricardo Conceição;315.0;4;2014;Meia
+539;42232;Amaral;290.0;4;2014;Meia
+540;85121;Robert ;266.0;4;2014;Meia
+541;83511;Érico Júnior;292.0;5;2014;Atacante
+542;84262;Wallace;283.0;3;2014;Zagueiro
+543;38852;Anderson;285.0;4;2015;Meia
+544;85629;Daniel;276.0;4;2015;Meia
+545;88850;Marco Damasceno ;293.0;5;2015;Atacante
+546;78865;Rodrigo Dourado;285.0;4;2015;Meia
+547;91264;Matheus Sávio;262.0;5;2015;Atacante
+548;86943;Liniker;290.0;4;2015;Meia
+549;82461;Danrlei;317.0;3;2015;Zagueiro
+550;86615;Malcoon;303.0;2;2015;Lateral
+551;88393;Ayrton ;;2;2015;Lateral
+552;73281;Renê Júnior;303.0;4;2016;Meia
+553;82570;Gabriel Esteves;316.0;5;2016;Atacante
+554;37652;Carlos Alberto;293.0;4;2017;Meia
+555;68895;Wellington Silva;266.0;5;2017;Atacante
+556;82647;Régis;265.0;4;2017;Meia
+557;97769;Yuri;303.0;5;2017;Atacante
+558;99721;Mascarenhas;266.0;2;2017;Lateral
+559;69782;Dener Assunção;294.0;2;2014;Lateral
+560;38021;Wendel;292.0;4;2014;Meia
+561;79038;Murilo;263.0;5;2014;Atacante
+562;50328;Marcelo Oliveira;275.0;4;2014;Meia
+563;86942;Abuda;290.0;4;2014;Meia
+564;82469;Douglas Coutinho ;293.0;5;2015;Atacante
+565;38194;Antônio Carlos;266.0;3;2015;Zagueiro
+566;62129;Wellington;285.0;4;2015;Meia
+567;78556;Lucas;267.0;4;2015;Meia
+568;61188;Gilberto;267.0;5;2015;Atacante
+569;80394;Matheus Inácio;303.0;1;2015;Goleiro
+570;80036;Alex Alves;290.0;3;2015;Zagueiro
+571;83255;Giva;264.0;5;2015;Atacante
+572;73318;Daniel Borges;293.0;2;2015;Lateral
+573;91267;Jarlan;290.0;5;2015;Atacante
+574;78464;Fábio Braga;294.0;4;2016;Meia
+575;89924;Bruno Ramires;283.0;4;2016;Meia
+576;78117;Everaldo;344.0;5;2016;Atacante
+577;91519;Kazim;294.0;5;2016;Atacante
+578;40025;Levir Culpi;266.0;6;2016;Tecnico
+579;82474;Gegê;263.0;4;2016;Meia
+580;86629;Arthur Henrique;262.0;2;2016;Lateral
+581;87872;Fernando Guerrero;315.0;4;2017;Meia
+582;95820;Léo Santos;264.0;3;2017;Zagueiro
+583;99892;Luis Ali;303.0;5;2017;Atacante
+584;89306;Paulinho;282.0;4;2014;Meia
+585;79701;Lucas Silva;283.0;4;2014;Meia
+586;82525;Rodrigo Biro;315.0;2;2014;Lateral
+587;80399;Higor;288.0;4;2014;Meia
+588;71042;Augusto;292.0;4;2014;Meia
+589;71093;Baraka;294.0;4;2014;Meia
+590;82657;Miguel Ángel Portuga;293.0;6;2014;Tecnico
+591;40179;Kleber;284.0;5;2014;Atacante
+592;38055;Rogério Ceni;276.0;1;2015;Goleiro
+593;87863;De Arrascaeta;283.0;4;2015;Meia
+594;62119;Tiago Luis;317.0;5;2015;Atacante
+595;61241;Wellington Saci;317.0;2;2015;Lateral
+596;70928;William Henrique;317.0;5;2015;Atacante
+597;90566;Rafael Longuine;277.0;4;2015;Meia
+598;86970;Eduardo;;3;2015;Zagueiro
+599;37623;Rafael Marques;;3;2015;Zagueiro
+600;38960;Zé Eduardo;;5;2015;Atacante
+601;73863;Claudinei;327.0;4;2016;Meia
+602;91664;Adryelson;292.0;3;2016;Zagueiro
+603;82626;Thales ;285.0;3;2016;Zagueiro
+604;60780;Vinícius Eutrópio;315.0;6;2017;Tecnico
+605;69018;Deivid;293.0;4;2017;Meia
+606;81223;Erazo;282.0;3;2017;Zagueiro
+607;81121;Mugni;262.0;4;2014;Meia
+608;68723;Demerson;265.0;3;2014;Zagueiro
+609;84887;Dener;316.0;4;2014;Meia
+610;82641;Ronan;266.0;2;2014;Lateral
+611;37790;Ceará;283.0;2;2015;Lateral
+612;60794;Pablo;314.0;2;2015;Lateral
+613;92981;Ronaldo;;4;2015;Meia
+614;87552;Vitor Bueno;277.0;4;2016;Meia
+615;72168;João Paulo;344.0;4;2016;Meia
+616;79437;Roger Machado ;284.0;6;2016;Tecnico
+617;72488;Follmann ;315.0;1;2016;Goleiro
+618;90777;Caixinha;315.0;2;2016;Lateral
+619;38162;Fred;282.0;5;2017;Atacante
+620;50294;Guilherme;293.0;4;2017;Meia
+621;62121;Vanderlei;277.0;1;2017;Goleiro
+622;68950;Ronaldo Alves;292.0;3;2017;Zagueiro
+623;90566;Rafael Longuine;277.0;4;2017;Meia
+624;95638;Marcelo;263.0;3;2017;Zagueiro
+625;61135;Ananias;292.0;5;2014;Atacante
+626;68950;Ronaldo Alves;288.0;3;2014;Zagueiro
+627;79287;Enrique Meza;315.0;3;2014;Zagueiro
+628;78968;Leandro;315.0;5;2014;Atacante
+629;80552;Marquinhos Pedroso;316.0;2;2014;Lateral
+630;39137;Adaílton;265.0;3;2014;Zagueiro
+631;88670;Hyago;292.0;3;2014;Zagueiro
+632;68954;Marquinhos Gabriel;277.0;4;2015;Meia
+633;69782;Dener Assunção;315.0;2;2015;Lateral
+634;52897;Nivaldo;315.0;1;2015;Goleiro
+635;82634;Matheus Galdezani;292.0;4;2015;Meia
+636;79035;Luiz Felipe;277.0;3;2016;Zagueiro
+637;72896;Paulo Cezar;285.0;2;2016;Lateral
+638;78584;Douglas Friedrich;264.0;1;2016;Goleiro
+639;96966;Arthur Gomes;277.0;5;2016;Atacante
+640;37673;Alecsandro;294.0;5;2017;Atacante
+641;83817;Clayson;264.0;5;2017;Atacante
+642;87008;Léo;284.0;1;2017;Goleiro
+643;93369;Rodrigo Becão;265.0;3;2017;Zagueiro
+644;73855;Jubal;277.0;3;2014;Zagueiro
+645;86927;Nadson;265.0;5;2014;Atacante
+646;86765;Bruno Mota;293.0;4;2014;Meia
+647;81151;Sandrinho;292.0;5;2014;Atacante
+648;37899;Renan;290.0;1;2015;Goleiro
+649;49641;Adriano;314.0;4;2015;Meia
+650;51476;Rafael Bastos;316.0;4;2015;Meia
+651;90297;Guilherme;264.0;1;2015;Goleiro
+652;73641;Robert;290.0;5;2015;Atacante
+653;92522;Deivid;;6;2015;Tecnico
+654;73580;Falcão;;6;2015;Tecnico
+655;95861;Thiago Ennes;262.0;2;2016;Lateral
+656;77529;Leandro Silva;316.0;2;2016;Lateral
+657;90334;Araújo;284.0;4;2016;Meia
+658;63014;Gil;315.0;4;2016;Meia
+659;73513;Maranhão;266.0;5;2017;Atacante
+660;73876;Jomar;267.0;3;2017;Zagueiro
+661;78584;Douglas Friedrich;314.0;1;2017;Goleiro
+662;81798;Rossi;315.0;5;2017;Atacante
+663;88651;Vinícius Tanque;263.0;5;2017;Atacante
+664;93551;Igor;373.0;4;2017;Meia
+665;80163;Railan;265.0;2;2014;Lateral
+666;87101;Stéfano Yuri;277.0;5;2014;Atacante
+667;71055;Pato Rodríguez;277.0;4;2014;Meia
+668;89444;Hugo Ragelli;283.0;5;2014;Atacante
+669;86144;Luizinho Mello;288.0;4;2014;Meia
+670;62977;Ganso;276.0;4;2015;Meia
+671;69240;Dátolo;282.0;4;2015;Meia
+672;91186;Romeo Fernandes;293.0;5;2015;Atacante
+673;81121;Lucas Mugni;262.0;4;2015;Meia
+674;91387;Sinho;292.0;2;2015;Lateral
+675;89190;Judivan ;283.0;5;2016;Atacante
+676;88540;Auro;276.0;2;2016;Lateral
+677;79276;Nery Bareiro;294.0;3;2016;Zagueiro
+678;69177;Léo;293.0;2;2016;Lateral
+679;95466;Igor;277.0;4;2016;Meia
+680;94985;Dodô;294.0;2;2016;Lateral
+681;51548;Giuliano;284.0;4;2016;Meia
+682;38960;Zé Eduardo;287.0;5;2016;Atacante
+683;37662;Jonathan;293.0;2;2017;Lateral
+684;70986;Léo Cittadini;277.0;4;2017;Meia
+685;94138;Felipe Vizeu;262.0;5;2017;Atacante
+686;60788;Marquinhos;283.0;5;2014;Atacante
+687;80853;Pedro Geromel;284.0;3;2014;Zagueiro
+688;70225;Luís Aguiar;287.0;4;2014;Meia
+689;86767;Dominic;293.0;5;2014;Atacante
+690;79334;Ricardo Silva;293.0;3;2015;Zagueiro
+691;49673;Júlio César;266.0;1;2015;Goleiro
+692;87228;Guilherme Arana;293.0;2;2015;Lateral
+693;68952;Marinho;;5;2015;Atacante
+694;68807;Neto Berola;294.0;5;2016;Atacante
+695;71123;Thiago Mendes;276.0;4;2016;Meia
+696;92085;Giovanny ;293.0;4;2016;Meia
+697;54395;Elias;264.0;4;2016;Meia
+698;86779;Allan ;344.0;2;2016;Lateral
+699;71818;Bruno Grassi;284.0;1;2017;Goleiro
+700;83263;Yuri;265.0;4;2017;Meia
+701;87999;Gustavo Scarpa;266.0;4;2017;Meia
+702;87399;Mário Sérgio;293.0;2;2014;Lateral
+703;37762;Souza;288.0;5;2014;Atacante
+704;72943;Luís Cáceres;287.0;4;2014;Meia
+705;71117;Vander;287.0;4;2014;Meia
+706;69155;Iberbia;294.0;2;2014;Lateral
+707;73851;Ronny;263.0;4;2014;Meia
+708;50645;Eduardo;293.0;2;2015;Lateral
+709;69090;Matías Rodríguez;284.0;2;2015;Lateral
+710;80576;Renato;275.0;4;2015;Meia
+711;87393;Gabriel;282.0;3;2015;Zagueiro
+712;50284;Wilson;;1;2015;Goleiro
+713;90535;Alex;283.0;4;2016;Meia
+714;84324;Octávio;263.0;4;2016;Meia
+715;45125;Tite;264.0;6;2016;Tecnico
+716;95625;Cleber;344.0;4;2016;Meia
+717;86686;Tchê Tchê;275.0;4;2016;Meia
+718;97133;Dudu;316.0;2;2016;Lateral
+719;37705;Juan;314.0;4;2017;Meia
+720;72290;Jailson;275.0;1;2017;Goleiro
+721;73800;Rodrigo Caio;276.0;3;2017;Zagueiro
+722;80313;Gilberto ;267.0;2;2017;Lateral
+723;60825;Felipe Azevedo;292.0;5;2014;Atacante
+724;62128;Walter;266.0;5;2014;Atacante
+725;38507;Rafael Miranda;265.0;4;2014;Meia
+726;80441;Bonfim ;294.0;3;2014;Zagueiro
+727;88000;Gabriel Ramos;265.0;4;2014;Meia
+728;36612;Zé Roberto;284.0;4;2014;Meia
+729;89885;Leandro;263.0;4;2014;Meia
+730;60853;Julio Dos Santos;267.0;4;2015;Meia
+731;37917;Elano;277.0;4;2015;Meia
+732;70046;Victor Ferraz;277.0;2;2015;Lateral
+733;73620;Bruno Alves;316.0;3;2015;Zagueiro
+734;38523;Edílson;264.0;2;2015;Lateral
+735;86449;Samuel;264.0;1;2015;Goleiro
+736;87391;Allano;;5;2015;Atacante
+737;92085;Giovanny ;;4;2015;Meia
+738;60802;Bruno Gallo;;4;2015;Meia
+739;85297;Guisao ;;4;2015;Meia
+740;92702;Daniel Paulista;;6;2015;Tecnico
+741;71571;Fernando Miguel;287.0;1;2016;Goleiro
+742;41946;Caio Júnior;315.0;6;2016;Tecnico
+743;90302;Pedro Rocha;284.0;5;2016;Atacante
+744;83255;Giva;303.0;5;2016;Atacante
+745;97436;Handerson;303.0;3;2016;Zagueiro
+746;70132;Alan Santos;294.0;4;2017;Meia
+747;73992;Rodinei;262.0;2;2017;Lateral
+748;90366;Luiz Fernando ;266.0;4;2017;Meia
+749;95127;Nicolas;293.0;2;2017;Lateral
+750;63283;Esquerdinha;290.0;2;2014;Lateral
+751;50909;Bruno Mineiro;290.0;5;2014;Atacante
+752;50454;Serginho;288.0;4;2014;Meia
+753;43618;Luiz Felipe Scolari;284.0;6;2014;Tecnico
+754;50321;Vitor Júnior;316.0;4;2014;Meia
+755;50462;Leandro Almeida;264.0;3;2015;Zagueiro
+756;68711;Chiquinho;277.0;2;2015;Lateral
+757;84318;Samir ;262.0;3;2015;Zagueiro
+758;88054;Diogo Sodré;264.0;4;2015;Meia
+759;87611;Tiago;284.0;1;2015;Goleiro
+760;87742;Neto;292.0;4;2015;Meia
+761;78371;Miller Bolaños;284.0;5;2016;Atacante
+762;86766;Matheus Rossetto;293.0;4;2016;Meia
+763;79334;Ricardo Silva;293.0;3;2016;Zagueiro
+764;62069;Maikon Leite;265.0;5;2017;Atacante
+765;85607;Léo Ceará;287.0;5;2014;Atacante
+766;80777;Wellington;287.0;5;2014;Atacante
+767;81845;Alisson;283.0;4;2014;Meia
+768;39572;Renato;266.0;2;2014;Lateral
+769;88782;Andrew;288.0;5;2014;Atacante
+770;86934;Túlio;290.0;4;2014;Meia
+771;37941;Borges;303.0;5;2015;Atacante
+772;68830;Ricardinho;316.0;4;2015;Meia
+773;70986;Léo Cittadini;277.0;4;2015;Meia
+774;38482;Marcos Aurélio;;4;2015;Meia
+775;73529;Jackson;;4;2015;Meia
+776;50361;Rafael Lima;315.0;3;2016;Zagueiro
+777;85629;Daniel;276.0;4;2016;Meia
+778;95770;Vitinho;275.0;4;2016;Meia
+779;96831;Carlinhos;264.0;5;2016;Atacante
+780;79437;Roger Machado ;282.0;6;2017;Tecnico
+781;86970;Eduardo Gabriel;373.0;3;2017;Zagueiro
+782;88002;Serginho;277.0;4;2017;Meia
+783;87747;Yago;316.0;4;2014;Meia
+784;38055;Rogério Ceni;276.0;1;2014;Goleiro
+785;38435;Valdivia;275.0;4;2014;Meia
+786;60858;Moacir;294.0;2;2014;Lateral
+787;70058;Tiago Real;290.0;4;2014;Meia
+788;78176;Harrison;293.0;4;2015;Meia
+789;86409;Lucas Olaza;293.0;2;2015;Lateral
+790;70951;Fabio;275.0;1;2015;Goleiro
+791;89479;Gustavo Tocantins;;5;2015;Atacante
+792;38109;Jefferson;263.0;1;2016;Goleiro
+793;37705;Juan;294.0;4;2016;Meia
+794;70986;Léo Cittadini;277.0;4;2016;Meia
+795;80370;Edson;266.0;4;2016;Meia
+796;54797;Túlio de Melo;292.0;5;2016;Atacante
+797;96328;Matheus Oliveira;277.0;4;2016;Meia
+798;68749;Everton Heleno;373.0;4;2017;Meia
+799;78990;Lucas Alves;293.0;3;2014;Zagueiro
+800;38394;Thiago Heleno;316.0;3;2014;Zagueiro
+801;78414;Rafael Donato;288.0;3;2014;Zagueiro
+802;78379;Barcos;284.0;5;2014;Atacante
+803;80944;Marlone;283.0;4;2014;Meia
+804;84314;Ítalo Melo;265.0;4;2014;Meia
+805;80318;Ezequiel;288.0;2;2014;Lateral
+806;73635;Rildo;303.0;5;2015;Atacante
+807;90031;Mendoza;264.0;5;2015;Atacante
+808;79193;Abuda;315.0;4;2015;Meia
+809;83101;Alef;317.0;3;2015;Zagueiro
+810;72603;William Menezes;264.0;1;2015;Goleiro
+811;38032;Cleber Santana;;4;2015;Meia
+812;42236;Bruno Teles;;2;2015;Lateral
+813;90309;David;287.0;4;2016;Meia
+814;89444;Hugo Ragelli;283.0;5;2016;Atacante
+815;73317;Argel Fucks;287.0;6;2016;Tecnico
+816;42234;Cássio;264.0;1;2016;Goleiro
+817;50645;Eduardo;265.0;2;2017;Lateral
+818;69016;Paulinho;373.0;4;2017;Meia
+819;71920;Michel ;284.0;4;2017;Meia
+820;80129;Jadson;303.0;4;2017;Meia
+821;80370;Edson;265.0;4;2017;Meia
+822;82787;Joel;314.0;5;2017;Atacante
+823;37958;Felipe;262.0;1;2014;Goleiro
+824;68696;Bergson;315.0;5;2014;Atacante
+825;73383;Rafael Costa;288.0;4;2014;Meia
+826;74060;Luiz Antonio ;262.0;4;2014;Meia
+827;38219;Alex;285.0;4;2014;Meia
+828;70951;Fabio;275.0;1;2014;Goleiro
+829;78422;Oswaldo;292.0;3;2014;Zagueiro
+830;80320;Diego Oliveira;288.0;4;2014;Meia
+831;79345;Danilo Alves;288.0;5;2014;Atacante
+832;72386;Hernane;292.0;5;2015;Atacante
+833;38573;Nilton;285.0;4;2015;Meia
+834;62127;Wallyson;264.0;5;2015;Atacante
+835;37993;Almir;262.0;4;2015;Meia
+836;84381;Rafinha;293.0;4;2015;Meia
+837;85149;Ronaldo;292.0;4;2015;Meia
+838;62107;Rudnei;314.0;4;2015;Meia
+839;90777;Michel;315.0;2;2015;Lateral
+840;73889;Wallace;;1;2015;Goleiro
+841;92837;Sergio Vieira;;6;2015;Tecnico
+842;80552;Marquinhos Pedroso;316.0;2;2016;Lateral
+843;72297;Airton ;314.0;3;2017;Zagueiro
+844;74134;Arroyo;284.0;5;2017;Atacante
+845;80583;Lucas Lima;277.0;4;2014;Meia
+846;82457;Jean Felipe;293.0;2;2014;Lateral
+847;79401;Paulo Otávio;294.0;2;2014;Lateral
+848;69012;Santos;293.0;1;2014;Goleiro
+849;37919;Luis Fabiano;276.0;5;2014;Atacante
+850;88917;Murilo Henrique;290.0;4;2014;Meia
+851;86931;Ruan;288.0;4;2014;Meia
+852;89154;Gabriel Fernando;275.0;5;2014;Atacante
+853;88898;André Jardine;284.0;6;2014;Tecnico
+854;70163;Milton Cruz;276.0;6;2015;Tecnico
+855;60859;Jael;317.0;5;2015;Atacante
+856;86841;Boschilia;276.0;4;2015;Meia
+857;82306;Douglas Silva;267.0;3;2015;Zagueiro
+858;79702;Antônio Carlos ;314.0;3;2015;Zagueiro
+859;80721;Ryder;275.0;4;2015;Meia
+860;37306;Gilson Kleina;314.0;6;2015;Tecnico
+861;87399;Mário Sérgio;317.0;2;2015;Lateral
+862;82749;Eberson;264.0;3;2015;Zagueiro
+863;77895;Emerson Conceição;282.0;2;2015;Lateral
+864;92434;Daniel;;4;2015;Meia
+865;92192;Evandro;294.0;5;2016;Atacante
+866;72334;Ayrton;316.0;2;2016;Lateral
+867;94228;Iago;284.0;2;2016;Lateral
+868;85297;Wilder;276.0;5;2016;Atacante
+869;62047;Jean;275.0;4;2016;Meia
+870;82567;Moisés;284.0;4;2016;Meia
+871;37644;Rodrigo;303.0;3;2017;Zagueiro
+872;38431;Diego Cavalieri;266.0;1;2017;Goleiro
+873;72386;Hernane;265.0;5;2017;Atacante
+874;98184;Rodrigo Pelezinho;315.0;5;2017;Atacante
+875;41327;Vanderlei Luxemburgo;262.0;6;2014;Tecnico
+876;82768;Danilo;315.0;1;2014;Goleiro
+877;88866;Eduardo Junior;275.0;4;2014;Meia
+878;87401;Eurico;283.0;4;2014;Meia
+879;88224;Paulo Ricardo;277.0;3;2014;Zagueiro
+880;38184;André Santos;262.0;2;2014;Lateral
+881;78891;Petros;264.0;4;2015;Meia
+882;62997;João Paulo;303.0;2;2015;Lateral
+883;38186;Adrianinho;303.0;4;2015;Meia
+884;92057;Gabriel Félix;;1;2015;Goleiro
+885;90320;Igor;262.0;3;2016;Zagueiro
+886;37601;Tiago Cardoso;344.0;1;2016;Goleiro
+887;68920;Dudu;275.0;5;2016;Atacante
+888;86410;Victor Luis;263.0;2;2016;Lateral
+889;38822;Leandro Guerreiro;327.0;4;2016;Meia
+890;90290;Jailson;284.0;4;2016;Meia
+891;38440;Pierre;266.0;4;2017;Meia
+892;71572;Gabriel;284.0;3;2014;Zagueiro
+893;42490;Jajá;294.0;4;2014;Meia
+894;86929;Ronaldo;288.0;1;2014;Goleiro
+895;73760;Wallinson;290.0;3;2014;Zagueiro
+896;87273;Carlinhos;285.0;4;2014;Meia
+897;36943;Paulo Autuori;282.0;6;2014;Tecnico
+898;68744;Emerson;264.0;5;2015;Atacante
+899;80538;Marlon;266.0;3;2015;Zagueiro
+900;74060;Luiz Antonio ;262.0;4;2015;Meia
+901;73384;Samuel Xavier;292.0;2;2015;Lateral
+902;86776;Jordi;267.0;1;2015;Goleiro
+903;91842;Breno;293.0;2;2015;Lateral
+904;40990;Dorival Júnior;;6;2015;Tecnico
+905;92225;Thiago Lopes;;4;2015;Meia
+906;79553;Mansur;;2;2015;Lateral
+907;70916;Diogo Barbosa;263.0;2;2016;Lateral
+908;92811;Bruno Rodrigues;293.0;5;2016;Atacante
+909;89839;Andres Chavez;276.0;5;2016;Atacante
+910;79066;Alex Muralha;262.0;1;2017;Goleiro
+911;82515;Reginaldo;266.0;3;2017;Zagueiro
+912;86410;Victor Luis;275.0;2;2014;Lateral
+913;40006;Abel Braga;285.0;6;2014;Tecnico
+914;89226;Iago;288.0;3;2014;Zagueiro
+915;78500;Sérgio Manoel;294.0;4;2014;Meia
+916;80795;Dieguinho;315.0;4;2014;Meia
+917;68888;Leandro Euzébio;266.0;3;2014;Zagueiro
+918;70116;Fellipe Bastos;284.0;4;2015;Meia
+919;79339;Dankler;317.0;3;2015;Zagueiro
+920;87810;Gabriel Leite;275.0;4;2015;Meia
+921;38425;Fábio Ferreira;;3;2015;Zagueiro
+922;38100;Durval;292.0;3;2016;Zagueiro
+923;79553;Mansur;292.0;2;2016;Lateral
+924;70132;Alan Santos;294.0;4;2016;Meia
+925;79947;Marion;344.0;5;2016;Atacante
+926;63082;Rodolfo;293.0;1;2016;Goleiro
+927;79973;Helton Leite;263.0;1;2016;Goleiro
+928;82754;André Castro;373.0;4;2017;Meia
+929;86711;Richard;266.0;4;2017;Meia
+930;97449;Vitor Carvalho;294.0;4;2017;Meia
+931;78604;Andrey;263.0;1;2014;Goleiro
+932;37848;Leonardo;292.0;5;2014;Atacante
+933;73806;Samuel ;290.0;5;2014;Atacante
+934;88717;Celso Rodrigues;315.0;6;2014;Tecnico
+935;78422;Oswaldo;292.0;3;2015;Zagueiro
+936;87192;Zeca;277.0;2;2015;Lateral
+937;87747;Yago;316.0;4;2015;Meia
+938;91664;Adryelson;292.0;3;2015;Zagueiro
+939;80335;Vitor;317.0;1;2015;Goleiro
+940;77773;Vilches;;3;2015;Zagueiro
+941;89493;Igor Rabello;263.0;3;2016;Zagueiro
+942;37659;Lauro;282.0;1;2016;Goleiro
+943;37657;Edu Dracena;275.0;3;2016;Zagueiro
+944;37245;Guto Ferreira;315.0;6;2016;Tecnico
+945;49673;Júlio César;266.0;1;2016;Goleiro
+946;70046;Victor Ferraz;277.0;2;2016;Lateral
+947;92518;Marcílio;344.0;4;2016;Meia
+948;80431;Maicon Silva;287.0;2;2016;Lateral
+949;41218;Magrão;292.0;1;2016;Goleiro
+950;50417;Valencia;277.0;4;2016;Meia
+951;37424;Pintado;276.0;6;2016;Tecnico
+952;37246;Ney Franco;294.0;6;2017;Tecnico
+953;73635;Rildo;294.0;5;2017;Atacante
+954;99959;Lucas Formiga;303.0;5;2017;Atacante
+955;86334;Roni;315.0;5;2014;Atacante
+956;38315;Jadson;264.0;4;2014;Meia
+957;82453;Tadeu;294.0;1;2014;Goleiro
+958;63326;Rychely ;315.0;5;2014;Atacante
+959;73876;Jomar;267.0;3;2015;Zagueiro
+960;62976;Everton Silva;314.0;2;2015;Lateral
+961;90890;Paulo Victor ;264.0;5;2015;Atacante
+962;90331;Vitor;284.0;1;2015;Goleiro
+963;88479;Walace;284.0;4;2016;Meia
+964;78151;Vagner;275.0;1;2016;Goleiro
+965;88597;Lucas Crispim;277.0;4;2016;Meia
+966;68954;Marquinhos Gabriel;264.0;4;2016;Meia
+967;87008;Léo;284.0;1;2016;Goleiro
+968;80171;Dedé;344.0;4;2016;Meia
+969;87398;Rodrigão;282.0;3;2017;Zagueiro
+970;97322;Gabriel Furtado;275.0;4;2017;Meia
+971;84318;Samir ;262.0;3;2014;Zagueiro
+972;41218;Magrão;292.0;1;2014;Goleiro
+973;62086;Pará;284.0;2;2014;Lateral
+974;89466;Horácio;292.0;4;2014;Meia
+975;80576;Renato;275.0;4;2014;Meia
+976;68883;Caio;287.0;5;2014;Atacante
+977;73684;Mirabaje;293.0;4;2014;Meia
+978;70111;Guilherme Mattis;266.0;3;2015;Zagueiro
+979;73502;Revson;314.0;4;2015;Meia
+980;84896;Lucas Otávio ;277.0;4;2015;Meia
+981;91128;Bruninho;266.0;5;2015;Atacante
+982;89275;William;285.0;2;2015;Lateral
+983;82457;Jean Felipe;293.0;2;2015;Lateral
+984;92189;Samuel ;;2;2015;Lateral
+985;91260;Lucas Perri;276.0;1;2016;Goleiro
+986;68910;Anselmo;285.0;4;2016;Meia
+987;68925;Leonardo Silva;282.0;3;2016;Zagueiro
+988;70009;Romulo;262.0;4;2017;Meia
+989;79334;Ricardo Silva;373.0;3;2017;Zagueiro
+990;91706;Marlon;266.0;2;2017;Lateral
+991;74014;Alemão;287.0;3;2014;Zagueiro
+992;38369;Ibson;292.0;4;2014;Meia
+993;84851;Lucas Cândido;282.0;4;2014;Meia
+994;73338;Djair;294.0;4;2014;Meia
+995;77529;Leandro Silva;316.0;2;2014;Lateral
+996;40990;Dorival Júnior;275.0;6;2014;Tecnico
+997;37246;Ney Franco;287.0;6;2014;Tecnico
+998;80337;Arthur ;262.0;5;2014;Atacante
+999;71507;Edson Silva;276.0;3;2014;Zagueiro
+1000;89100;Éder Bastos;287.0;6;2014;Tecnico
+1001;36792;Araújo;290.0;5;2014;Atacante
+1002;68834;Rithely;292.0;4;2015;Meia
+1003;60819;Dedé;283.0;3;2015;Zagueiro
+1004;38021;Wendel;292.0;4;2015;Meia
+1005;50427;Kadu;293.0;3;2015;Zagueiro
+1006;91687;João Pedro;293.0;4;2015;Meia
+1007;37705;Juan;;2;2015;Lateral
+1008;91714;Marciel;264.0;4;2016;Meia
+1009;92661;Matheus Oliveira;285.0;2;2016;Lateral
+1010;95465;Matheus Nolasco;277.0;5;2016;Atacante
+1011;84558;Lucas Romero;283.0;4;2016;Meia
+1012;71227;Maicon;276.0;3;2017;Zagueiro
+1013;96832;Rodrigo Figueiredo;264.0;4;2017;Meia
+1014;98706;Pedrinho;264.0;5;2017;Atacante
+1015;87400;Alex;283.0;3;2014;Zagueiro
+1016;80164;Jussandro;315.0;2;2014;Lateral
+1017;68987;João Vitor;288.0;4;2014;Meia
+1018;73446;Éderson;293.0;5;2014;Atacante
+1019;42500;Fagner;264.0;2;2015;Lateral
+1020;37281;Mano Menezes;;6;2015;Tecnico
+1021;86820;Reginaldo ;294.0;2;2016;Lateral
+1022;82653;Victor Rangel;327.0;5;2016;Atacante
+1023;82584;Marquinho;263.0;4;2016;Meia
+1024;50408;Breno;267.0;3;2017;Zagueiro
+1025;53669;Lins;303.0;5;2017;Atacante
+1026;62129;Wellington;267.0;4;2017;Meia
+1027;72007;Uillian Correia;287.0;4;2017;Meia
+1028;82567;Moisés;315.0;4;2017;Meia
+1029;84313;Feijão;265.0;4;2017;Meia
+1030;85241;Yerry Mina;275.0;3;2017;Zagueiro
+1031;89695;Iury;314.0;5;2017;Atacante
+1032;94509;Raphael Veiga;275.0;4;2017;Meia
+1033;83258;Filipe Ramon;294.0;2;2014;Lateral
+1034;50358;Marcelo Moreno;283.0;5;2014;Atacante
+1035;77777;João Schmidt ;276.0;4;2014;Meia
+1036;71113;Felipe ;293.0;4;2015;Meia
+1037;87401;Eurico;283.0;4;2015;Meia
+1038;68779;Johnathan Goiano;292.0;5;2016;Atacante
+1039;72007;Uillian Correia;344.0;4;2016;Meia
+1040;92630;Claudinho;264.0;5;2016;Atacante
+1041;77556;Bruno Brígido;294.0;1;2016;Goleiro
+1042;87225;Pedro Henrique;264.0;3;2017;Zagueiro
+1043;91102;Flávio;287.0;4;2017;Meia
+1044;97443;Romercio;294.0;3;2017;Zagueiro
+1045;69088;Victorino;275.0;3;2014;Zagueiro
+1046;62137;Enderson Moreira;277.0;6;2014;Tecnico
+1047;71123;Thiago Mendes;290.0;4;2014;Meia
+1048;82632;Lucas Coelho;284.0;5;2014;Atacante
+1049;79030;Fabinho Gaúcho;315.0;2;2014;Lateral
+1050;83439;Maykon;294.0;5;2014;Atacante
+1051;71571;Fernando;287.0;1;2014;Goleiro
+1052;37281;Mano Menezes;264.0;6;2014;Tecnico
+1053;69219;Otamendi;282.0;3;2014;Zagueiro
+1054;62101;Renan Rocha;293.0;1;2014;Goleiro
+1055;73896;Geuvânio;277.0;5;2015;Atacante
+1056;72023;Sueliton;317.0;2;2015;Lateral
+1057;38451;Carlinhos;276.0;2;2015;Lateral
+1058;81952;Willian;292.0;4;2015;Meia
+1059;87211;Eduardo Baptista;292.0;6;2015;Tecnico
+1060;89606;Felipe Saturnino;290.0;2;2015;Lateral
+1061;88233;Marquinhos;267.0;5;2015;Atacante
+1062;81794;Cláudio Prates;327.0;6;2016;Tecnico
+1063;94288;Lima;315.0;4;2016;Meia
+1064;83434;Pedrinho;344.0;4;2016;Meia
+1065;93883;Roger;327.0;3;2016;Zagueiro
+1066;69047;Paulo Roberto;292.0;4;2016;Meia
+1067;36540;Juan;262.0;3;2017;Zagueiro
+1068;71479;Lucho González;293.0;4;2017;Meia
+1069;91191;Gustavo Blanco;282.0;4;2017;Meia
+1070;98952;Léo Natel;276.0;5;2017;Atacante
+1071;42499;Bruno;266.0;2;2014;Lateral
+1072;79553;Mansur;287.0;2;2014;Lateral
+1073;38451;Carlinhos;266.0;2;2014;Lateral
+1074;80330;Jocinei;264.0;4;2014;Meia
+1075;68910;Anselmo;317.0;4;2015;Meia
+1076;78530;Matheus Bertotto;285.0;4;2015;Meia
+1077;84703;Niltinho;;5;2015;Atacante
+1078;69018;Deivid;293.0;4;2016;Meia
+1079;90635;Guilherme Xavier;327.0;4;2016;Meia
+1080;88269;Centurión;276.0;5;2016;Atacante
+1081;81770;Clayton;282.0;5;2016;Atacante
+1082;80913;Nixon;327.0;5;2016;Atacante
+1083;77959;Copete;277.0;5;2016;Atacante
+1084;89227;Balbino;284.0;4;2016;Meia
+1085;96201;Marcus Índio;316.0;5;2016;Atacante
+1086;74017;Josa;316.0;4;2016;Meia
+1087;92702;Daniel Paulista;292.0;6;2016;Tecnico
+1088;87211;Eduardo Baptista;293.0;6;2017;Tecnico
+1089;89190;Judivan ;283.0;5;2017;Atacante
+1090;92207;Caíque;287.0;1;2017;Goleiro
+1091;94583;Pedro;266.0;5;2017;Atacante
+1092;68884;Klever;266.0;1;2014;Goleiro
+1093;72495;Moisés;290.0;2;2014;Lateral
+1094;73315;Jorginho;315.0;6;2014;Tecnico
+1095;37851;Maicosuel;282.0;4;2014;Meia
+1096;87200;Bruno ;315.0;3;2014;Zagueiro
+1097;81150;Mayke;283.0;2;2015;Lateral
+1098;78086;César;262.0;1;2015;Goleiro
+1099;92438;Matheus Phillipe;;1;2015;Goleiro
+1100;78500;Sérgio Manoel;315.0;4;2016;Meia
+1101;86486;Milton Mendes;344.0;6;2016;Tecnico
+1102;92145;Hyago;316.0;4;2016;Meia
+1103;73085;Leandro;294.0;5;2016;Atacante
+1104;84890;Euller ;287.0;2;2016;Lateral
+1105;40179;Kleber;294.0;5;2017;Atacante
+1106;71631;Weverton;293.0;1;2017;Goleiro
+1107;84761;Claudinei Oliveira;314.0;6;2017;Tecnico
+1108;87192;Zeca;277.0;2;2017;Lateral
+1109;95562;Messidoro;283.0;4;2017;Meia
+1110;73527;Willian Rocha;293.0;2;2014;Lateral
+1111;50459;Léo;283.0;3;2014;Zagueiro
+1112;73918;Canteros;262.0;4;2014;Meia
+1113;37592;Toninho Cecílio;288.0;6;2014;Tecnico
+1114;42234;Cássio;264.0;1;2014;Goleiro
+1115;50908;Wellington Bruno;288.0;4;2014;Meia
+1116;72334;Ayrton;287.0;2;2014;Lateral
+1117;51548;Giuliano;284.0;4;2014;Meia
+1118;68917;Vinícius;287.0;5;2014;Atacante
+1119;63283;Esquerdinha;290.0;4;2015;Meia
+1120;69048;Mazola;316.0;5;2015;Atacante
+1121;82939;Ruy;264.0;4;2015;Meia
+1122;37917;Elano;277.0;4;2016;Meia
+1123;95126;Yago;293.0;5;2016;Atacante
+1124;95464;Gregore;277.0;4;2016;Meia
+1125;90037;João Guima;303.0;4;2016;Meia
+1126;38508;Eder Luis;267.0;5;2017;Atacante
+1127;70222;Sidão;276.0;1;2017;Goleiro
+1128;73144;Jorge Mendoza;303.0;4;2017;Meia
+1129;87747;Yago;287.0;4;2017;Meia
+1130;89871;Pisculichi;287.0;4;2017;Meia
+1131;70116;Fellipe Bastos;284.0;4;2014;Meia
+1132;71742;Hiroshi;316.0;4;2014;Meia
+1133;86761;Gerson;293.0;3;2014;Zagueiro
+1134;86519;Everton Felipe;292.0;4;2014;Meia
+1135;89924;Bruno;283.0;4;2014;Meia
+1136;79535;Vaná;264.0;1;2015;Goleiro
+1137;63018;Guilherme Andrade;264.0;2;2015;Lateral
+1138;53865;Léo Gamalho;;5;2015;Atacante
+1139;38763;Marcinho;344.0;4;2016;Meia
+1140;80853;Pedro Geromel;284.0;3;2016;Zagueiro
+1141;79256;Sánchez Miño;283.0;2;2016;Lateral
+1142;69010;João Carlos;303.0;1;2016;Goleiro
+1143;95621;Danilo;277.0;4;2016;Meia
+1144;73515;Gabriel;262.0;4;2016;Meia
+1145;85004;Marcos Felipe ;266.0;1;2016;Goleiro
+1146;92692;Michel;327.0;2;2016;Lateral
+1147;69012;Santos;293.0;1;2017;Goleiro
+1148;79702;Antônio Carlos ;275.0;3;2017;Zagueiro
+1149;83869;Diego Tavares;314.0;2;2017;Lateral
+1150;90031;Mendoza;265.0;5;2017;Atacante
+1151;99817;Bremer;282.0;3;2017;Zagueiro
+1152;68979;Giovanni;282.0;1;2014;Goleiro
+1153;38196;Maicon;276.0;4;2014;Meia
+1154;36443;Dida;285.0;1;2014;Goleiro
+1155;82459;Rafael Zuchi;293.0;3;2014;Zagueiro
+1156;80570;Wendell;284.0;2;2014;Lateral
+1157;38219;Alex;285.0;4;2015;Meia
+1158;87400;Alex;283.0;3;2015;Zagueiro
+1159;94004;Andrei;315.0;4;2016;Meia
+1160;50427;Kadu;303.0;3;2016;Zagueiro
+1161;73344;Renatinho;344.0;2;2016;Lateral
+1162;62121;Vanderlei;277.0;1;2016;Goleiro
+1163;37608;Cristian;284.0;4;2017;Meia
+1164;37653;Nilmar;277.0;5;2017;Atacante
+1165;38196;Maicon;284.0;4;2017;Meia
+1166;70666;Marllon;303.0;3;2017;Zagueiro
+1167;95738;Trauco;262.0;2;2017;Lateral
+1168;97527;Matheus Alessandro;266.0;5;2017;Atacante
+1169;87743;Léo;292.0;4;2014;Meia
+1170;74085;Ademilson;276.0;5;2014;Atacante
+1171;88540;Auro;276.0;2;2014;Lateral
+1172;37613;Dagoberto;283.0;5;2014;Atacante
+1173;71631;Weverton;293.0;1;2014;Goleiro
+1174;79044;Wangler;265.0;4;2014;Meia
+1175;91761;Juninho;314.0;4;2015;Meia
+1176;85083;Vinícius Silvestre;275.0;1;2015;Goleiro
+1177;81847;Bruno Dybal;;4;2015;Meia
+1178;91740;Zé Arthur;;5;2015;Atacante
+1179;37085;René Simões;;6;2015;Tecnico
+1180;68685;Alan Patrick;262.0;4;2016;Meia
+1181;74140;Élber;283.0;4;2016;Meia
+1182;85930;Aylon;285.0;5;2016;Atacante
+1183;71915;Bruno Moraes;344.0;5;2016;Atacante
+1184;78968;Leandro Pereira;275.0;5;2016;Atacante
+1185;38852;Anderson;285.0;4;2016;Meia
+1186;84851;Lucas Cândido;282.0;4;2016;Meia
+1187;97444;Julio Rusch;294.0;4;2016;Meia
+1188;42500;Fagner;264.0;2;2017;Lateral
+1189;100065;Lincoln;262.0;5;2017;Atacante
+1190;89285;Matheus Sales;275.0;4;2014;Meia
+1191;80585;Otávio;285.0;4;2014;Meia
+1192;73962;Bruno Peres;277.0;2;2014;Lateral
+1193;71037;Clayton Sales;290.0;2;2015;Lateral
+1194;83048;Rafael Thyere;284.0;3;2015;Zagueiro
+1195;61033;Rodriguinho;;4;2015;Meia
+1196;90569;Yuri;277.0;4;2016;Meia
+1197;68956;Ernandes;327.0;4;2016;Meia
+1198;92574;Kaio;284.0;4;2016;Meia
+1199;93834;Keiller;285.0;1;2016;Goleiro
+1200;93282;Fábio;292.0;4;2016;Meia
+1201;93152;Tontini;284.0;4;2016;Meia
+1202;96532;Adson;282.0;2;2016;Lateral
+1203;84190;Guilherme Schettine;293.0;5;2016;Atacante
+1204;37657;Edu Dracena;275.0;3;2017;Zagueiro
+1205;42145;Egídio;275.0;2;2017;Lateral
+1206;86410;Victor Luis;263.0;2;2017;Lateral
+1207;86508;Jandrei;315.0;1;2017;Goleiro
+1208;95843;Sander;292.0;2;2017;Lateral
+1209;99630;Preto Casagrande;265.0;6;2017;Tecnico
+1210;70317;Eron;282.0;2;2014;Lateral
+1211;89371;Rômulo;265.0;4;2014;Meia
+1212;69018;Deivid;293.0;4;2015;Meia
+1213;78445;Renê;292.0;2;2015;Lateral
+1214;73527;Willian Rocha;314.0;2;2015;Lateral
+1215;39042;Hélio Dos Anjos;290.0;6;2015;Tecnico
+1216;62130;William Matheus;266.0;2;2016;Lateral
+1217;86485;Keno;344.0;5;2016;Atacante
+1218;97317;Zé Ricardo;327.0;4;2016;Meia
+1219;37792;Edinho;294.0;4;2017;Meia
+1220;68896;Ramon;267.0;2;2017;Lateral
+1221;84925;Elder Santana;282.0;5;2017;Atacante
+1222;86764;Sidcley;293.0;2;2017;Lateral
+1223;91714;Marciel;264.0;4;2017;Meia
+1224;91815;Nogueira;266.0;3;2017;Zagueiro
+1225;99616;Felipe Saraiva;303.0;4;2017;Meia
+1226;86744;Canavesio;284.0;3;2014;Zagueiro
+1227;50362;Lucas;263.0;2;2014;Lateral
+1228;68925;Leonardo Silva;282.0;3;2015;Zagueiro
+1229;73879;Rogério;317.0;2;2015;Lateral
+1230;69329;Cereceda;316.0;2;2015;Lateral
+1231;68758;Fernandinho;262.0;5;2016;Atacante
+1232;91970;James Freitas;284.0;6;2016;Tecnico
+1233;60819;Dedé;283.0;3;2016;Zagueiro
+1234;42232;Amaral;315.0;4;2017;Meia
+1235;50362;Lucas;266.0;2;2017;Lateral
+1236;71927;Diego Rosa;373.0;4;2017;Meia
+1237;84863;Alberto Valentim;275.0;6;2017;Tecnico
+1238;87679;Tréllez;287.0;5;2017;Atacante
+1239;89693;Leonan;282.0;2;2017;Lateral
+1240;92622;Jonata;283.0;5;2017;Atacante
+1241;70360;Eduardo Sasha;285.0;5;2014;Atacante
+1242;73910;Tobio;275.0;3;2014;Zagueiro
+1243;50284;Wilson;287.0;1;2014;Goleiro
+1244;68833;Ricardo Goulart;283.0;4;2014;Meia
+1245;89815;Gustavo Ferrareis;285.0;5;2015;Atacante
+1246;75295;Paolo Guerrero;262.0;5;2016;Atacante
+1247;78435;Vitinho;285.0;5;2016;Atacante
+1248;69008;Neto;315.0;3;2016;Zagueiro
+1249;51415;Roger Carvalho;275.0;3;2016;Zagueiro
+1250;38579;Rodrigo Mancha;292.0;4;2016;Meia
+1251;68690;André;292.0;5;2017;Atacante
+1252;78248;Gustavo Henrique;277.0;3;2014;Zagueiro
+1253;77599;Romário;287.0;2;2014;Lateral
+1254;87226;Fabiano;264.0;4;2014;Meia
+1255;69022;Marcelo Cirino;262.0;5;2015;Atacante
+1256;71162;Vinícius;266.0;4;2015;Meia
+1257;88379;Jean Patrick;267.0;4;2015;Meia
+1258;77556;Bruno;264.0;1;2015;Goleiro
+1259;71581;Léo Costa;;4;2015;Meia
+1260;63354;Rodrigo Moledo;;3;2015;Zagueiro
+1261;92273;Odair Hellmann;;6;2015;Tecnico
+1262;93697;Gervasio Núñez;263.0;4;2016;Meia
+1263;78445;Renê;292.0;2;2016;Lateral
+1264;60825;Felipe Azevedo;303.0;5;2016;Atacante
+1265;74060;Luiz Antonio ;292.0;4;2016;Meia
+1266;73511;Dudu;266.0;4;2016;Meia
+1267;73540;Rogério;292.0;5;2016;Atacante
+1268;63013;Marcos Rocha;282.0;2;2016;Lateral
+1269;71694;Jorge Ortega;294.0;5;2016;Atacante
+1270;84585;Allione;275.0;4;2016;Meia
+1271;87158;Cícero;282.0;4;2016;Meia
+1272;68925;Leonardo Silva;282.0;3;2017;Zagueiro
+1273;73384;Samuel Xavier;292.0;2;2017;Lateral
+1274;89839;Andres Chavez;276.0;5;2017;Atacante
+1275;92182;Juninho;275.0;3;2017;Zagueiro
+1276;93785;Alan Cardoso;267.0;2;2017;Lateral
+1277;51415;Roger Carvalho;287.0;3;2014;Zagueiro
+1278;78235;Leandrinho;277.0;4;2014;Meia
+1279;63110;Alan Ruschel;285.0;2;2014;Lateral
+1280;38525;Cléo;293.0;5;2014;Atacante
+1281;79334;Ricardo Silva;293.0;3;2014;Zagueiro
+1282;87199;Gustavo ;315.0;1;2014;Goleiro
+1283;74096;Saulo;292.0;1;2014;Goleiro
+1284;72084;França;316.0;4;2014;Meia
+1285;88870;Lula;293.0;3;2015;Zagueiro
+1286;91946;Eriks;;3;2015;Zagueiro
+1287;92291;Bruno Viana;;3;2015;Zagueiro
+1288;88140;Isaac;;5;2015;Atacante
+1289;74210;César González;294.0;4;2016;Meia
+1290;85083;Vinícius Silvestre;275.0;1;2016;Goleiro
+1291;93153;Pachequinho;294.0;6;2016;Tecnico
+1292;87391;Allano;283.0;5;2016;Atacante
+1293;97324;Matheus Roldan;282.0;4;2016;Meia
+1294;42330;Felipe Garcia;373.0;1;2017;Goleiro
+1295;74271;Edigar Junio;265.0;5;2017;Atacante
+1296;92702;Daniel Paulista;292.0;6;2017;Tecnico
+1297;82639;Marcelo Hermes;284.0;4;2014;Meia
+1298;38064;Denilson;276.0;4;2015;Meia
+1299;91003;Alisson;292.0;5;2015;Atacante
+1300;87229;Donato;282.0;3;2015;Zagueiro
+1301;87227;Zé Paulo;;4;2015;Meia
+1302;92623;Kauê;;5;2015;Atacante
+1303;81845;Alisson;283.0;5;2016;Atacante
+1304;91743;Wesley Natã;315.0;5;2016;Atacante
+1305;95619;Rafael Oller;277.0;4;2016;Meia
+1306;38067;Danilo;264.0;4;2016;Meia
+1307;72490;Fred;287.0;3;2017;Zagueiro
+1308;73649;Lucas Pratto;276.0;5;2017;Atacante
+1309;74140;Élber;283.0;4;2017;Meia
+1310;82455;Zé Rafael ;265.0;4;2017;Meia
+1311;89676;Nickson;287.0;4;2014;Meia
+1312;63003;Uelliton;265.0;4;2014;Meia
+1313;69268;Víctor Cáceres;262.0;4;2014;Meia
+1314;88225;Daniel Guedes ;277.0;2;2014;Lateral
+1315;71778;Bady;293.0;4;2014;Meia
+1316;83522;Fagner Alemão;315.0;3;2014;Zagueiro
+1317;78176;Harrison;293.0;4;2014;Meia
+1318;68872;Marcelo Lomba;303.0;1;2015;Goleiro
+1319;69268;Víctor Cáceres;262.0;4;2015;Meia
+1320;90917;Carlos;290.0;5;2015;Atacante
+1321;91815;Ygor Nogueira;266.0;3;2016;Zagueiro
+1322;70165;Maranhão;327.0;5;2016;Atacante
+1323;82939;Ruy;294.0;4;2016;Meia
+1324;88368;Gabriel Dias;275.0;3;2016;Zagueiro
+1325;50284;Wilson;294.0;1;2017;Goleiro
+1326;36522;Alex;294.0;4;2014;Meia
+1327;38365;Henrique;266.0;3;2014;Zagueiro
+1328;38431;Diego Cavalieri;266.0;1;2014;Goleiro
+1329;37678;Rodrigo Souto;263.0;4;2014;Meia
+1330;85626;Leonardo;266.0;2;2015;Lateral
+1331;51365;Hudson Coutinho;;6;2015;Tecnico
+1332;68787;Lincom;;5;2015;Atacante
+1333;74081;Guilherme Costa;;4;2015;Meia
+1334;93108;Mateus Vital;;4;2015;Meia
+1335;95830;Emerson Cris;315.0;6;2016;Tecnico
+1336;89637;Thiago Maia;277.0;4;2016;Meia
+1337;71631;Weverton;293.0;1;2016;Goleiro
+1338;92617;Léo Tilica;284.0;5;2016;Atacante
+1339;89492;Saulo;263.0;1;2016;Goleiro
+1340;94067;Matheus Fernandes;263.0;4;2016;Meia
+1341;52253;Réver;262.0;3;2016;Zagueiro
+1342;38230;Grafite;344.0;5;2016;Atacante
+1343;91866;Zé Ivaldo;293.0;3;2016;Zagueiro
+1344;89492;Saulo;263.0;1;2017;Goleiro
+1345;51193;Fabinho Alves;315.0;5;2014;Atacante
+1346;62003;Bruno;275.0;1;2014;Goleiro
+1347;80319;Raul;316.0;3;2014;Zagueiro
+1348;84188;Welton;292.0;4;2014;Meia
+1349;89341;Nicolas Careca;284.0;5;2014;Atacante
+1350;78977;Bruno Mendes;293.0;5;2014;Atacante
+1351;78435;Vitinho;285.0;5;2015;Atacante
+1352;60788;Marquinhos;283.0;5;2015;Atacante
+1353;89273;João Pedro ;275.0;2;2015;Lateral
+1354;86890;William Popp;317.0;5;2015;Atacante
+1355;89343;Júnior;284.0;2;2015;Lateral
+1356;90300;Julen;275.0;4;2015;Meia
+1357;84863;Alberto Valentim;;6;2015;Tecnico
+1358;50313;Elicarlos;316.0;4;2016;Meia
+1359;80281;Cleberson;293.0;3;2016;Zagueiro
+1360;38440;Pierre;266.0;4;2016;Meia
+1361;60802;Bruno Gallo;267.0;4;2017;Meia
+1362;91972;João Paulo;265.0;5;2017;Atacante
+1363;79594;Ednei;315.0;2;2014;Lateral
+1364;81150;Mayke;283.0;2;2014;Lateral
+1365;88366;Martín Luque;285.0;4;2014;Meia
+1366;42247;Danny Morais;315.0;3;2014;Zagueiro
+1367;80381;Cesinha;282.0;5;2014;Atacante
+1368;86411;Breno;283.0;2;2014;Lateral
+1369;72504;Denilson;316.0;5;2014;Atacante
+1370;85882;Diogo;285.0;2;2015;Lateral
+1371;91702;Leandro;303.0;5;2015;Atacante
+1372;80441;Bonfim ;264.0;3;2015;Zagueiro
+1373;84889;Victor Oliveira;266.0;3;2015;Zagueiro
+1374;74103;Frauches ;262.0;3;2015;Zagueiro
+1375;90332;Gabriel Silva;284.0;3;2015;Zagueiro
+1376;92193;Ravanelli;;5;2015;Atacante
+1377;93376;Wesley Souza;;4;2015;Meia
+1378;94336;Mateus;266.0;4;2016;Meia
+1379;87486;Matheus Reis;276.0;2;2016;Lateral
+1380;82411;Cueva;276.0;5;2016;Atacante
+1381;37941;Borges;327.0;5;2016;Atacante
+1382;82767;Vinícius Araújo;292.0;5;2016;Atacante
+1383;72932;César Benítez;294.0;2;2016;Lateral
+1384;41363;Alexandre Gallo;287.0;6;2017;Tecnico
+1385;50421;Wesley;276.0;4;2017;Meia
+1386;82634;Matheus Galdezani;294.0;4;2017;Meia
+1387;85211;Thalles;267.0;5;2017;Atacante
+1388;86797;Raniel;283.0;5;2017;Atacante
+1389;87877;Sornoza;266.0;4;2017;Meia
+1390;87946;Todinho;287.0;5;2017;Atacante
+1391;86189;Mosquito;293.0;5;2014;Atacante
+1392;68834;Rithely;292.0;4;2014;Meia
+1393;38038;Luiz;288.0;1;2014;Goleiro
+1394;83257;Gabriel;277.0;5;2014;Atacante
+1395;63031;Valmir Lucas;290.0;3;2015;Zagueiro
+1396;63005;Welinton;264.0;3;2015;Zagueiro
+1397;69015;Heracles;317.0;2;2015;Lateral
+1398;79401;Paulo Otávio;264.0;2;2015;Lateral
+1399;92604;Jeferson;;4;2015;Meia
+1400;85465;Alex Santana;;4;2015;Meia
+1401;90637;Renato Bruno;327.0;4;2016;Meia
+1402;93884;Danylo Fernandes;327.0;2;2016;Lateral
+1403;36940;Oswaldo de Oliveira;282.0;6;2017;Tecnico
+1404;70944;Bruno Henrique;275.0;4;2017;Meia
+1405;90455;Jefferson Nem;373.0;5;2017;Atacante
+1406;92630;Claudinho;303.0;5;2017;Atacante
+1407;93882;Cleiton;282.0;1;2017;Goleiro
+1408;99903;Lucas Campos;263.0;5;2017;Atacante
+1409;77895;Emerson Conceição;282.0;2;2014;Lateral
+1410;38279;Wellington Paulista;285.0;5;2014;Atacante
+1411;78423;Timbó;294.0;2;2014;Lateral
+1412;82419;Luan Sérgio;316.0;1;2014;Goleiro
+1413;63013;Marcos Rocha;282.0;2;2015;Lateral
+1414;84679;Emanuel Biancucchi;267.0;4;2015;Meia
+1415;84684;Lucas Gomes;266.0;5;2015;Atacante
+1416;37840;Gustavo;293.0;3;2015;Zagueiro
+1417;88072;Douglas Baggio;262.0;5;2015;Atacante
+1418;42236;Bruno Teles;327.0;2;2016;Lateral
+1419;71769;Guilherme Queiroz;316.0;5;2016;Atacante
+1420;87361;Eisner Loboa;327.0;4;2016;Meia
+1421;96870;Emerson;303.0;2;2016;Lateral
+1422;97138;Dida;284.0;1;2016;Goleiro
+1423;78891;Petros;276.0;4;2017;Meia
+1424;86713;Jonathan;373.0;2;2017;Lateral
+1425;87833;Luis Caicedo;283.0;3;2017;Zagueiro
+1426;79733;Leilson ;287.0;4;2014;Meia
+1427;85882;Diogo;285.0;2;2014;Lateral
+1428;85931;Hyoran;315.0;4;2014;Meia
+1429;85027;Carlos;282.0;5;2014;Atacante
+1430;88849;João Gabriel ;263.0;4;2014;Meia
+1431;80692;Luan;267.0;3;2015;Zagueiro
+1432;73513;Maranhão;315.0;4;2015;Meia
+1433;73855;Jubal;277.0;3;2015;Zagueiro
+1434;88430;Luiz Carlos ;292.0;1;2015;Goleiro
+1435;92182;Juninho;;3;2015;Zagueiro
+1436;70622;Paulo Bento;283.0;6;2016;Tecnico
+1437;94249;Lourency;315.0;5;2016;Atacante
+1438;80080;Brenner;285.0;5;2016;Atacante
+1439;63194;Carlinhos;294.0;2;2016;Lateral
+1440;91808;Caíque França;264.0;1;2016;Goleiro
+1441;95180;Índio;292.0;5;2016;Atacante
+1442;79892;Nenén;315.0;4;2016;Meia
+1443;95291;Eduardo;294.0;2;2016;Lateral
+1444;91359;Bruno Bispo;287.0;3;2017;Zagueiro
+1445;91388;Rodrigo Ramos;294.0;2;2017;Lateral
+1446;72079;Bruno Cortez;288.0;2;2014;Lateral
+1447;84918;Rafael Ratão;277.0;5;2014;Atacante
+1448;82474;Gegê;263.0;4;2014;Meia
+1449;77911;Jean Deretti;284.0;4;2014;Meia
+1450;38921;Júlio Baptista;283.0;4;2015;Meia
+1451;72893;Eduardo Da Silva;262.0;5;2015;Atacante
+1452;62139;Ricardo Drubscky;266.0;6;2015;Tecnico
+1453;82525;Rodrigo Biro;303.0;2;2015;Lateral
+1454;62971;Nirley;316.0;3;2015;Zagueiro
+1455;50408;Breno;276.0;3;2015;Zagueiro
+1456;91917;Silva;285.0;4;2015;Meia
+1457;81219;Thallyson;262.0;2;2015;Lateral
+1458;70515;Ledesma;;4;2015;Meia
+1459;87399;Mário Sérgio;344.0;2;2016;Lateral
+1460;62971;Nirley;316.0;3;2016;Zagueiro
+1461;95798;Gustavo Machado;263.0;4;2016;Meia
+1462;92054;Alemão;263.0;2;2016;Lateral
+1463;86759;Luan;284.0;5;2014;Atacante
+1464;37656;Fábio;283.0;1;2014;Goleiro
+1465;74087;Léo Bonatini;290.0;5;2014;Atacante
+1466;84848;Erik;290.0;5;2014;Atacante
+1467;69183;Lee;282.0;1;2014;Goleiro
+1468;68929;Thiago Ribeiro;282.0;5;2015;Atacante
+1469;51681;Hélder;264.0;4;2015;Meia
+1470;86485;Keno;;5;2015;Atacante
+1471;83760;Caramelo;315.0;2;2016;Lateral
+1472;95661;Pedro;276.0;5;2016;Atacante
+1473;37718;Arouca;275.0;4;2016;Meia
+1474;78248;Gustavo Henrique;277.0;3;2016;Zagueiro
+1475;50645;Eduardo;293.0;2;2016;Lateral
+1476;37656;Fábio;283.0;1;2016;Goleiro
+1477;42116;Willian;283.0;5;2016;Atacante
+1478;68895;Wellington;266.0;5;2016;Atacante
+1479;38225;Muriqui;267.0;5;2017;Atacante
+1480;51415;Roger Carvalho;373.0;3;2017;Zagueiro
+1481;80196;Yago Pikachu;267.0;2;2017;Lateral
+1482;90302;Pedro Rocha;284.0;5;2017;Atacante
+1483;95335;Matheus Jesus;277.0;4;2017;Meia
+1484;96328;Matheus Oliveira;277.0;4;2017;Meia
+1485;78530;Matheus Bertotto;285.0;4;2014;Meia
+1486;84263;Jemerson;282.0;3;2014;Zagueiro
+1487;89224;Barreto;288.0;4;2014;Meia
+1488;79019;Jayme De Almeida;262.0;6;2014;Tecnico
+1489;78414;Rafael Donato;317.0;3;2015;Zagueiro
+1490;88065;Jorge;262.0;2;2016;Lateral
+1491;68744;Emerson;262.0;5;2016;Atacante
+1492;61211;Carlos Cesar;282.0;2;2016;Lateral
+1493;60780;Vinícius Eutrópio;316.0;6;2016;Tecnico
+1494;82381;Juninho;327.0;4;2016;Meia
+1495;93378;Augusto;275.0;3;2016;Zagueiro
+1496;93151;Thiago Santos;262.0;5;2016;Atacante
+1497;91359;Bruno;287.0;3;2016;Zagueiro
+1498;41929;Renato Gaúcho;284.0;6;2016;Tecnico
+1499;83786;Neris;292.0;3;2017;Zagueiro
+1500;84855;Raul Prata;292.0;2;2017;Lateral
+1501;90444;Moisés;264.0;2;2017;Lateral
+1502;93108;Mateus Pet;267.0;4;2017;Meia
+1503;70992;Juliano;290.0;4;2014;Meia
+1504;82128;Ferrugem;264.0;4;2014;Meia
+1505;72281;Artur;316.0;2;2014;Lateral
+1506;79343;Doriva;267.0;6;2015;Tecnico
+1507;71778;Bady;293.0;4;2015;Meia
+1508;37695;Diego;314.0;1;2015;Goleiro
+1509;37662;Jonathan;266.0;2;2016;Lateral
+1510;82627;Luiz Araújo;276.0;4;2016;Meia
+1511;50328;Marcelo Oliveira;284.0;2;2017;Lateral
+1512;86485;Keno;275.0;5;2017;Atacante
+1513;86874;Capa;314.0;2;2017;Lateral
+1514;89637;Thiago Maia;277.0;4;2017;Meia
+1515;92504;Batista;284.0;5;2017;Atacante
+1516;93368;Lucas Veríssimo;277.0;3;2017;Zagueiro
+1517;50453;Anderson Pico;262.0;2;2014;Lateral
+1518;69051;Danilo Fernandes;264.0;1;2014;Goleiro
+1519;51548;Giuliano;284.0;4;2015;Meia
+1520;51318;Leandro Donizete;282.0;4;2015;Meia
+1521;82896;Alisson Becker;285.0;1;2015;Goleiro
+1522;83189;Riascos;283.0;5;2015;Atacante
+1523;37663;Julio Cesar;267.0;2;2015;Lateral
+1524;80276;Alexandre Cajuru;293.0;1;2015;Goleiro
+1525;38247;William;;5;2015;Atacante
+1526;90336;Jean;263.0;2;2016;Lateral
+1527;81923;Donatti;262.0;3;2016;Zagueiro
+1528;86725;Rafael Silva;316.0;5;2016;Atacante
+1529;69014;Manoel;283.0;3;2017;Zagueiro
+1530;37941;Borges;283.0;5;2014;Atacante
+1531;50425;Roger Gaúcho;288.0;4;2014;Meia
+1532;62012;Ciro;316.0;5;2014;Atacante
+1533;88323;Ángel Romero;264.0;5;2014;Atacante
+1534;74086;Pedro Paulo ;293.0;5;2014;Atacante
+1535;85211;Thalles;267.0;5;2015;Atacante
+1536;74074;Claudio Winck;285.0;2;2015;Lateral
+1537;60852;Uendel;264.0;2;2015;Lateral
+1538;81951;Igor Julião;266.0;2;2016;Lateral
+1539;38196;Maicon;284.0;4;2016;Meia
+1540;81905;Henrique Dourado;266.0;5;2016;Atacante
+1541;94003;Scalon;315.0;3;2016;Zagueiro
+1542;73620;Bruno Alves;316.0;3;2016;Zagueiro
+1543;86527;Wellington Cézar;344.0;4;2016;Meia
+1544;86974;Caio César;314.0;4;2017;Meia
+1545;87267;Marcão;293.0;3;2017;Zagueiro
+1546;72491;Bressan;284.0;3;2014;Zagueiro
+1547;89637;Thiago Maia;277.0;4;2014;Meia
+1548;70055;Geraldo;294.0;5;2014;Atacante
+1549;63031;Valmir Lucas;290.0;3;2014;Zagueiro
+1550;41946;Caio Júnior;288.0;6;2014;Tecnico
+1551;77738;Romarinho;264.0;5;2014;Atacante
+1552;70133;Paulo Henrique;275.0;2;2014;Lateral
+1553;87420;Cristaldo;275.0;5;2015;Atacante
+1554;41387;Eduardo Costa;314.0;4;2015;Meia
+1555;61135;Ananias;315.0;5;2015;Atacante
+1556;53896;Sandro Silva;267.0;4;2015;Meia
+1557;79866;Hemerson Maria;317.0;6;2015;Tecnico
+1558;87601;Junio ;303.0;2;2015;Lateral
+1559;82750;Celsinho;;4;2015;Meia
+1560;93151;Thiago Santos;;5;2015;Atacante
+1561;95620;Bruno Leonardo;277.0;4;2016;Meia
+1562;38425;Fábio Ferreira;303.0;3;2016;Zagueiro
+1563;86189;Mosquito;293.0;5;2016;Atacante
+1564;89150;Jean;264.0;4;2016;Meia
+1565;38287;Roger;263.0;5;2017;Atacante
+1566;73281;Renê Júnior;265.0;4;2017;Meia
+1567;74061;Gatito Fernández;263.0;1;2017;Goleiro
+1568;80080;Brenner;263.0;5;2017;Atacante
+1569;71892;Wellington Silva;285.0;2;2014;Lateral
+1570;42540;Bileu;292.0;4;2014;Meia
+1571;50301;Everton;262.0;4;2015;Meia
+1572;80944;Marlone;266.0;4;2015;Meia
+1573;50346;Guilherme Santos;314.0;2;2015;Lateral
+1574;83760;Caramelo;315.0;2;2015;Lateral
+1575;88136;Ivan;303.0;1;2015;Goleiro
+1576;89637;Thiago Maia;277.0;4;2015;Meia
+1577;90370;Matheus Pereira;264.0;4;2016;Meia
+1578;78530;Matheus Bertotto;285.0;4;2016;Meia
+1579;96342;Charles;285.0;4;2016;Meia
+1580;90331;Vitor;284.0;1;2016;Goleiro
+1581;93317;Diogo Giacomini;282.0;6;2016;Tecnico
+1582;37623;Rafael Marques;267.0;3;2017;Zagueiro
+1583;68958;Wallace Reis ;287.0;3;2017;Zagueiro
+1584;82463;Otávio ;293.0;4;2017;Meia
+1585;88087;Ramon;287.0;3;2017;Zagueiro
+1586;90399;Fernandes;263.0;4;2017;Meia
+1587;91917;Silva;373.0;4;2017;Meia
+1588;69308;Álvaro Pereira;276.0;2;2014;Lateral
+1589;80324;Jaílton;315.0;3;2014;Zagueiro
+1590;71234;Cristian Rodríguez;284.0;4;2015;Meia
+1591;52253;Réver;285.0;3;2015;Zagueiro
+1592;38196;Maicon;284.0;4;2015;Meia
+1593;42232;Amaral;275.0;4;2015;Meia
+1594;71123;Thiago Mendes;276.0;4;2015;Meia
+1595;82566;Lucas Machado;315.0;4;2015;Meia
+1596;91916;Silas;285.0;4;2015;Meia
+1597;38913;Nenê;;5;2015;Atacante
+1598;68690;André;264.0;5;2016;Atacante
+1599;97349;Daniel;282.0;4;2016;Meia
+1600;50393;Thiego;315.0;3;2016;Zagueiro
+1601;94962;Lucão;283.0;1;2016;Goleiro
+1602;85423;Valdívia;285.0;4;2016;Meia
+1603;95627;Ailton ;344.0;5;2016;Atacante
+1604;84592;Salgueiro;263.0;5;2016;Atacante
+1605;68693;Armero;265.0;2;2017;Lateral
+1606;68773;Henrique;265.0;5;2014;Atacante
+1607;73863;Claudinei;282.0;4;2014;Meia
+1608;80573;Luiz Gustavo;287.0;3;2014;Zagueiro
+1609;37674;Wagner;266.0;4;2014;Meia
+1610;68946;Neuton;315.0;3;2014;Zagueiro
+1611;50461;Edson;290.0;1;2014;Goleiro
+1612;88147;Paulo Henrique;290.0;1;2014;Goleiro
+1613;86409;Lucas Olaza;293.0;2;2014;Lateral
+1614;84554;Lucão;276.0;3;2014;Zagueiro
+1615;83683;Andrei Girotto;275.0;4;2015;Meia
+1616;88540;Auro;276.0;2;2015;Lateral
+1617;91901;Kauê;303.0;4;2015;Meia
+1618;79585;Jonatas Paulista;267.0;4;2015;Meia
+1619;84993;Fabrício Baiano;264.0;4;2015;Meia
+1620;82767;Vinícius Araújo;;5;2015;Atacante
+1621;86764;Sidcley;;2;2015;Lateral
+1622;71116;Roberto;;2;2015;Lateral
+1623;93377;Jobson;;4;2015;Meia
+1624;72382;Marquinhos;277.0;5;2016;Atacante
+1625;80403;Maurides;316.0;5;2016;Atacante
+1626;68893;André Lima;293.0;5;2016;Atacante
+1627;85027;Carlos;282.0;5;2016;Atacante
+1628;83817;Clayson;303.0;4;2016;Meia
+1629;37851;Maicosuel;276.0;4;2017;Meia
+1630;50317;David Braz;277.0;3;2017;Zagueiro
+1631;50856;Henrique;266.0;3;2017;Zagueiro
+1632;54797;Túlio de Melo;315.0;5;2017;Atacante
+1633;63000;Victor Ramos;315.0;3;2017;Zagueiro
+1634;68745;Vecchio;277.0;4;2017;Meia
+1635;70987;Pablo Diogo;282.0;5;2017;Atacante
+1636;81905;Henrique Dourado;266.0;5;2017;Atacante
+1637;83772;Neilton;287.0;5;2017;Atacante
+1638;99535;Vinicius Júnior;262.0;5;2017;Atacante
+1639;86436;Alan Ruiz;284.0;4;2014;Meia
+1640;50353;Titi;265.0;3;2014;Zagueiro
+1641;73423;Rodrigo Defendi;287.0;3;2014;Zagueiro
+1642;73516;Rafael;265.0;5;2014;Atacante
+1643;78077;Madson;267.0;2;2015;Lateral
+1644;69014;Manoel;283.0;3;2015;Zagueiro
+1645;68827;Renato Chaves;303.0;3;2015;Zagueiro
+1646;86713;Jonathan;303.0;3;2015;Zagueiro
+1647;91970;James Freitas;;6;2015;Tecnico
+1648;41258;Adilson Batista;;6;2015;Tecnico
+1649;68725;Diego Renan;287.0;2;2016;Lateral
+1650;37851;Maicosuel;282.0;4;2016;Meia
+1651;69705;Nikão;293.0;4;2016;Meia
+1652;60788;Marquinhos;285.0;4;2016;Meia
+1653;95832;Marcão;284.0;3;2016;Zagueiro
+1654;69040;Vladimir;277.0;1;2016;Goleiro
+1655;70360;Eduardo Sasha;285.0;5;2016;Atacante
+1656;96024;Jonathan;283.0;1;2016;Goleiro
+1657;97441;Lukas Silva;344.0;1;2016;Goleiro
+1658;51042;Apodi;315.0;2;2017;Lateral
+1659;62997;João Paulo;314.0;2;2017;Lateral
+1660;77500;Yago;303.0;3;2017;Zagueiro
+1661;100695;Fernando;275.0;5;2017;Atacante
+1662;78850;Reinaldo;276.0;2;2014;Lateral
+1663;72071;Amaral;262.0;4;2014;Meia
+1664;84848;Erik;290.0;5;2015;Atacante
+1665;60825;Felipe Azevedo;303.0;5;2015;Atacante
+1666;51293;Wanderson;315.0;4;2015;Meia
+1667;73974;Alison;277.0;4;2015;Meia
+1668;70934;Jackson;275.0;3;2015;Zagueiro
+1669;78580;Jonathan Cafu;276.0;5;2015;Atacante
+1670;80363;Ariel Cabral;;4;2015;Meia
+1671;95855;Kady;294.0;4;2016;Meia
+1672;79066;Alex Muralha;262.0;1;2016;Goleiro
+1673;80393;Fabinho;285.0;4;2016;Meia
+1674;63110;Alan Ruschel;315.0;2;2016;Lateral
+1675;38957;Rafael Marques;275.0;5;2016;Atacante
+1676;62127;Wallyson;344.0;5;2016;Atacante
+1677;38431;Diego Cavalieri;266.0;1;2016;Goleiro
+1678;50408;Breno;276.0;3;2016;Zagueiro
+1679;87201;Igor ;315.0;3;2016;Zagueiro
+1680;72603;William Menezes;294.0;1;2016;Goleiro
+1681;97352;Pachu;263.0;4;2016;Meia
+1682;88069;Leonardo Cabeça;315.0;5;2014;Atacante
+1683;68753;Fabrício ;266.0;3;2014;Zagueiro
+1684;74059;Elivelton;266.0;3;2014;Zagueiro
+1685;63082;Rodolfo;293.0;1;2014;Goleiro
+1686;87185;Mario Risso;263.0;3;2014;Zagueiro
+1687;71032;Lucas Zen;287.0;4;2014;Meia
+1688;38246;Robinho;277.0;5;2015;Atacante
+1689;73766;Diego Aguirre;285.0;6;2015;Tecnico
+1690;77809;William Pottker;316.0;5;2015;Atacante
+1691;91509;Rodrigo Sam;264.0;3;2015;Zagueiro
+1692;91916;Silas;285.0;4;2016;Meia
+1693;78865;Rodrigo Dourado;285.0;4;2016;Meia
+1694;74061;Gatito Fernández;316.0;1;2016;Goleiro
+1695;68995;Régis Souza;265.0;2;2017;Lateral
+1696;78855;Thiago Santos;275.0;4;2017;Meia
+1697;83522;Fagner Alemão;314.0;2;2017;Lateral
+1698;74076;Misael;294.0;4;2014;Meia
+1699;37610;Ivan;316.0;2;2014;Lateral
+1700;82408;Bruninho;292.0;5;2014;Atacante
+1701;37644;Rodrigo;267.0;3;2015;Zagueiro
+1702;49674;Fabrício;283.0;2;2015;Lateral
+1703;73750;Nicolás Freitas;285.0;4;2015;Meia
+1704;90321;Kadu;317.0;4;2015;Meia
+1705;90481;Alisson Farias;285.0;4;2015;Meia
+1706;89275;William;285.0;2;2016;Lateral
+1707;73513;Maranhão;266.0;4;2016;Meia
+1708;38451;Carlinhos;276.0;2;2016;Lateral
+1709;82758;Hyuri;282.0;5;2016;Atacante
+1710;96468;Daniel;285.0;1;2016;Goleiro
+1711;60819;Dedé;283.0;3;2017;Zagueiro
+1712;85040;Gabriel Xavier;287.0;4;2017;Meia
+1713;90715;Luiz Fernando ;373.0;4;2017;Meia
+1714;97315;Mantuan;264.0;4;2017;Meia
+1715;50382;Charles;283.0;4;2014;Meia
+1716;91888;Kevin ;314.0;2;2015;Lateral
+1717;54422;Jéferson;;4;2015;Meia
+1718;78632;Bryan;283.0;2;2016;Lateral
+1719;85400;Marcelo;287.0;4;2016;Meia
+1720;96433;Ralph;282.0;4;2016;Meia
+1721;62130;William Matheus;294.0;2;2017;Lateral
+1722;71162;Vinícius;265.0;4;2017;Meia
+1723;87228;Guilherme Arana;264.0;2;2017;Lateral
+1724;92708;Deyverson;275.0;5;2017;Atacante
+1725;68697;Bernardo;275.0;4;2014;Meia
+1726;62121;Vanderlei;294.0;1;2014;Goleiro
+1727;88132;Nailson;277.0;3;2014;Zagueiro
+1728;73353;Eduardo;266.0;4;2014;Meia
+1729;63000;Victor Ramos;275.0;3;2015;Zagueiro
+1730;72871;Cárdenas;282.0;4;2015;Meia
+1731;85210;Jonatan Ponciano;316.0;5;2015;Atacante
+1732;68773;Henrique Almeida;284.0;5;2016;Atacante
+1733;68881;Rodrigo Andrade;315.0;4;2016;Meia
+1734;70222;Sidão;263.0;1;2016;Goleiro
+1735;70162;Jackson Caucaia;316.0;4;2016;Meia
+1736;63058;Willian Farias;287.0;4;2016;Meia
+1737;96340;Lima;284.0;4;2016;Meia
+1738;70958;Jean Carlos;276.0;4;2016;Meia
+1739;38852;Anderson;294.0;4;2017;Meia
+1740;83266;Marcos Guilherme ;276.0;4;2017;Meia
+1741;68920;Dudu;284.0;5;2014;Atacante
+1742;82787;Joel;294.0;5;2014;Atacante
+1743;68805;Neneca;316.0;1;2014;Goleiro
+1744;88478;Darlan;287.0;4;2014;Meia
+1745;37306;Gilson Kleina;265.0;6;2014;Tecnico
+1746;89896;Cleiton;288.0;2;2014;Lateral
+1747;50294;Guilherme;282.0;4;2015;Meia
+1748;90303;Lincoln;284.0;4;2015;Meia
+1749;90532;Arthur;284.0;4;2015;Meia
+1750;85425;João Paulo;277.0;1;2015;Goleiro
+1751;60752;Cristóvão Borges;;6;2015;Tecnico
+1752;82341;Luiz Gustavo;;3;2015;Zagueiro
+1753;70928;William Henrique;287.0;5;2016;Atacante
+1754;38573;Nilton;285.0;4;2016;Meia
+1755;51495;Tiago Alves;303.0;3;2016;Zagueiro
+1756;72588;Lisca;285.0;6;2016;Tecnico
+1757;37604;Paulo André;293.0;3;2017;Zagueiro
+1758;38230;Grafite;293.0;5;2017;Atacante
+1759;50880;Keirrison;294.0;5;2017;Atacante
+1760;78994;Eduardo Henrique;293.0;4;2017;Meia
+1761;91203;Éder ;265.0;3;2017;Zagueiro
+1762;42118;Neto Baiano;292.0;5;2014;Atacante
+1763;78895;Marcelo;262.0;3;2014;Zagueiro
+1764;78445;Renê;292.0;2;2014;Lateral
+1765;38243;Léo;277.0;4;2014;Meia
+1766;60803;Souza;276.0;4;2015;Meia
+1767;82381;Juninho;303.0;4;2015;Meia
+1768;92192;Evandro;;5;2015;Atacante
+1769;37652;Carlos Alberto;316.0;4;2016;Meia
+1770;81881;João Ricardo;327.0;1;2016;Goleiro
+1771;86861;Vinicius;287.0;3;2016;Zagueiro
+1772;71032;Lucas Zen;263.0;4;2016;Meia
+1773;90768;Fabrício Bruno;283.0;3;2016;Zagueiro
+1774;71892;Wellington Silva;266.0;2;2016;Lateral
+1775;38909;Diego;262.0;4;2016;Meia
+1776;72167;Mazinho;344.0;5;2016;Atacante
+1777;56102;João Paulo;294.0;4;2017;Meia
+1778;61033;Rodriguinho;264.0;4;2017;Meia
+1779;68773;Henrique Almeida;294.0;5;2017;Atacante
+1780;68954;Marquinhos Gabriel;264.0;4;2017;Meia
+1781;89273;João Pedro ;275.0;2;2014;Lateral
+1782;77912;Neto;316.0;1;2014;Goleiro
+1783;72603;William Menezes;294.0;1;2014;Goleiro
+1784;88075;Jeam;265.0;5;2014;Atacante
+1785;81236;Ferreyra;263.0;5;2014;Atacante
+1786;50362;Lucas;275.0;2;2015;Lateral
+1787;72097;Giovanni;266.0;2;2015;Lateral
+1788;78151;Vagner;314.0;1;2015;Goleiro
+1789;40179;Kleber;;5;2015;Atacante
+1790;90566;Rafael Longuine;277.0;4;2016;Meia
+1791;91204;Warleson;293.0;1;2016;Goleiro
+1792;50307;Adilson;282.0;4;2017;Meia
+1793;50402;Kayke;277.0;5;2017;Atacante
+1794;99900;Luan Pereira;314.0;4;2017;Meia
+1795;37826;Paulo Baier;288.0;4;2014;Meia
+1796;68904;Vítor;292.0;2;2014;Lateral
+1797;38357;Martinez;288.0;4;2014;Meia
+1798;84761;Claudinei Oliveira;293.0;6;2014;Tecnico
+1799;37984;Aranha;277.0;1;2014;Goleiro
+1800;69186;Branquinho;265.0;4;2014;Meia
+1801;62976;Everton Silva;315.0;2;2014;Lateral
+1802;79045;Wellington Carvalho;266.0;3;2014;Zagueiro
+1803;89815;Gustavo Ferrareis;285.0;4;2014;Meia
+1804;89932;JacÃ³;265.0;5;2014;Atacante
+1805;68893;André Lima;314.0;5;2015;Atacante
+1806;38525;Cléo;293.0;5;2015;Atacante
+1807;50454;Serginho;267.0;4;2015;Meia
+1808;91866;José Ivaldo;293.0;3;2015;Zagueiro
+1809;82567;Moisés;;4;2015;Meia
+1810;92207;Caíque;287.0;1;2016;Goleiro
+1811;90303;Lincoln;284.0;4;2016;Meia
+1812;82128;Ferrugem;316.0;4;2016;Meia
+1813;51319;Renato Cajá;303.0;4;2017;Meia
+1814;62024;Edimar;276.0;2;2017;Lateral
+1815;73540;Rogério;292.0;5;2017;Atacante
+1816;73027;Potita;265.0;5;2014;Atacante
+1817;68928;Rafael;283.0;1;2014;Goleiro
+1818;69153;Clemente Rodríguez;276.0;2;2014;Lateral
+1819;70874;Rhayner;265.0;5;2014;Atacante
+1820;73009;Crislan;293.0;5;2014;Atacante
+1821;51705;Bruno Rodrigo;283.0;3;2015;Zagueiro
+1822;91228;Arthur;290.0;4;2015;Meia
+1823;74086;Pedro Paulo ;293.0;5;2015;Atacante
+1824;92661;Oliveira;;2;2015;Lateral
+1825;38062;Lugano;276.0;3;2016;Zagueiro
+1826;88430;Luiz Carlos ;292.0;1;2016;Goleiro
+1827;68917;Vinicius;294.0;5;2016;Atacante
+1828;86519;Everton Felipe;292.0;4;2016;Meia
+1829;85040;Gabriel Xavier;292.0;4;2016;Meia
+1830;51905;Leandro Salino;287.0;2;2017;Lateral
+1831;89930;Andrigo;373.0;4;2017;Meia
+1832;95539;Fabrício;292.0;4;2017;Meia
+1833;97445;Matheus Iacovelli;275.0;5;2017;Atacante
+1834;100839;Ericson;284.0;3;2017;Zagueiro
+1835;68938;Giovanni Augusto;316.0;4;2014;Meia
+1836;51705;Bruno Rodrigo;283.0;3;2014;Zagueiro
+1837;87201;Igor ;315.0;3;2014;Zagueiro
+1838;37688;Cícero;266.0;4;2014;Meia
+1839;82469;Douglas Coutinho ;293.0;5;2014;Atacante
+1840;60822;Renan Oliveira;292.0;4;2014;Meia
+1841;89930;Andrigo;285.0;4;2015;Meia
+1842;89976;Geferson;285.0;2;2015;Lateral
+1843;82775;Lucas Ramon ;;2;2015;Lateral
+1844;50402;Kayke;;5;2015;Atacante
+1845;93281;Adriano;;5;2015;Atacante
+1846;39152;Jonas;327.0;2;2016;Lateral
+1847;41929;Renato Gaúcho;284.0;6;2017;Tecnico
+1848;72150;Fernandinho;303.0;2;2017;Lateral
+1849;73446;Éderson;293.0;5;2017;Atacante
+1850;78968;Leandro Pereira;292.0;5;2017;Atacante
+1851;97520;Shaylon;276.0;4;2017;Meia
+1852;83134;Igor Sartori;262.0;5;2014;Atacante
+1853;75295;Paolo Guerrero;264.0;5;2014;Atacante
+1854;51985;Anderson Pedra;292.0;4;2014;Meia
+1855;73515;Gabriel;262.0;4;2014;Meia
+1856;84674;Lucas Evangelista;276.0;4;2014;Meia
+1857;37958;Felipe;316.0;1;2015;Goleiro
+1858;69177;Léo;285.0;2;2015;Lateral
+1859;80323;Marrone;314.0;2;2015;Lateral
+1860;62069;Maikon Leite;275.0;5;2015;Atacante
+1861;69016;Paulinho;303.0;4;2015;Meia
+1862;86771;Luiz Paulo ;293.0;2;2015;Lateral
+1863;89924;Bruno Edgar;283.0;4;2015;Meia
+1864;70162;Jackson Caucaia;;4;2015;Meia
+1865;63082;Rodolfo;;1;2015;Goleiro
+1866;50295;Felipe Menezes;303.0;4;2016;Meia
+1867;86411;Breno Lopes;303.0;2;2016;Lateral
+1868;68938;Giovanni Augusto;264.0;4;2016;Meia
+1869;93376;Wesley Souza;277.0;4;2016;Meia
+1870;37281;Mano Menezes;283.0;6;2017;Tecnico
+1871;73620;Bruno Alves;276.0;3;2017;Zagueiro
+1872;63172;Paulão;285.0;3;2014;Zagueiro
+1873;88146;Maranhão;294.0;4;2014;Meia
+1874;87192;Zeca;277.0;2;2014;Lateral
+1875;37621;Junior Cesar;263.0;2;2014;Lateral
+1876;80280;Taiberson;293.0;5;2014;Atacante
+1877;71090;João Filipe;266.0;3;2015;Zagueiro
+1878;86935;Rodrigo;290.0;4;2015;Meia
+1879;73445;Denner;314.0;4;2015;Meia
+1880;80400;Rafinha;266.0;4;2015;Meia
+1881;92290;Matheus Pato;;5;2015;Atacante
+1882;63219;Luan;282.0;5;2016;Atacante
+1883;68770;Camacho;264.0;4;2016;Meia
+1884;61188;Gilberto;276.0;5;2016;Atacante
+1885;68932;Renan Ribeiro;276.0;1;2016;Goleiro
+1886;71040;Felipe Amorim;294.0;4;2016;Meia
+1887;71066;Mancuello;262.0;4;2016;Meia
+1888;78991;Moisés;315.0;4;2016;Meia
+1889;79048;Elisson;283.0;1;2016;Goleiro
+1890;69282;Lucas Barrios;275.0;5;2016;Atacante
+1891;92193;Ravanelli;303.0;4;2016;Meia
+1892;80224;Lizio;263.0;4;2016;Meia
+1893;37701;Léo Moura;284.0;2;2017;Lateral
+1894;37798;Rafael Sobis;283.0;5;2017;Atacante
+1895;37840;Gustavo;314.0;3;2017;Zagueiro
+1896;99824;Douglas;265.0;5;2017;Atacante
+1897;79578;Sassá;263.0;5;2014;Atacante
+1898;79228;Bruno Furlan;293.0;5;2014;Atacante
+1899;73085;Leandro;275.0;5;2015;Atacante
+1900;68907;Wellington;275.0;3;2015;Zagueiro
+1901;87482;Gimenez;;2;2015;Lateral
+1902;92145;Hyago;;4;2015;Meia
+1903;92618;Wesley;;2;2015;Lateral
+1904;36540;Juan;262.0;3;2016;Zagueiro
+1905;74083;Adryan ;262.0;4;2016;Meia
+1906;78715;Ramiro;284.0;4;2016;Meia
+1907;51175;Denis;276.0;1;2016;Goleiro
+1908;94445;Juninho;292.0;4;2016;Meia
+1909;91946;Eriks;285.0;3;2016;Zagueiro
+1910;36943;Paulo Autuori;293.0;6;2017;Tecnico
+1911;78850;Reinaldo;315.0;2;2017;Lateral
+1912;83813;Júlio César ;315.0;5;2017;Atacante
+1913;79713;Carlos Alberto;293.0;4;2014;Meia
+1914;72745;Escudero;287.0;4;2014;Meia
+1915;70221;Bruno Uvini;277.0;3;2014;Zagueiro
+1916;51772;Éverton Ribeiro;283.0;4;2014;Meia
+1917;50427;Kadu;287.0;3;2014;Zagueiro
+1918;73800;Rodrigo Caio;276.0;3;2014;Zagueiro
+1919;72046;Rômulo;287.0;5;2014;Atacante
+1920;52190;Ralf;264.0;4;2015;Meia
+1921;45125;Tite;264.0;6;2015;Tecnico
+1922;84927;Dodô;282.0;4;2015;Meia
+1923;51413;Walter;264.0;1;2015;Goleiro
+1924;86486;Milton Mendes;293.0;6;2015;Tecnico
+1925;86837;Diego Cardoso;277.0;5;2015;Atacante
+1926;88597;Lucas Crispim;277.0;4;2015;Meia
+1927;83867;Erick Daltro;267.0;2;2015;Lateral
+1928;77777;João Schmidt ;;4;2015;Meia
+1929;69282;Lucas Barrios;;5;2015;Atacante
+1930;73544;Jorge Fellipe;293.0;3;2016;Zagueiro
+1931;70058;Tiago Real;294.0;4;2017;Meia
+1932;73340;Getterson;294.0;5;2017;Atacante
+1933;81219;Thallyson;287.0;2;2017;Lateral
+1934;93746;Lenis;292.0;5;2017;Atacante
+1935;83266;Marcos Guilherme ;293.0;4;2014;Meia
+1936;40025;Levir Culpi;282.0;6;2014;Tecnico
+1937;86935;Rodrigo;290.0;4;2014;Meia
+1938;72018;Tiago Volpi;316.0;1;2014;Goleiro
+1939;61985;Airton;263.0;4;2014;Meia
+1940;70218;Ernesto Farías;283.0;5;2014;Atacante
+1941;88538;Wilson Vaterkemper;288.0;6;2014;Tecnico
+1942;68920;Dudu;275.0;5;2015;Atacante
+1943;38435;Valdivia;275.0;4;2015;Meia
+1944;60822;Renan Oliveira;314.0;4;2015;Meia
+1945;50439;Vilson;315.0;3;2015;Zagueiro
+1946;87213;Pará;283.0;2;2015;Lateral
+1947;68979;Giovanni;282.0;1;2015;Goleiro
+1948;88147;Paulo Henrique;290.0;1;2015;Goleiro
+1949;69010;João Carlos;303.0;1;2015;Goleiro
+1950;68953;Leandro Damião;262.0;5;2016;Atacante
+1951;37694;Henrique;283.0;4;2016;Meia
+1952;62137;Enderson Moreira;327.0;6;2016;Tecnico
+1953;71116;Roberto;315.0;2;2017;Lateral
+1954;63008;Rafael Toloi;276.0;3;2014;Zagueiro
+1955;60784;Rafael Carioca;282.0;4;2014;Meia
+1956;79339;Dankler;263.0;3;2014;Zagueiro
+1957;70111;Guilherme Mattis;266.0;3;2014;Zagueiro
+1958;80779;Joílson;288.0;3;2014;Zagueiro
+1959;36856;Celso Roth;294.0;6;2014;Tecnico
+1960;83438;Guilherme Parede;;5;2015;Atacante
+1961;88087;Ramon;287.0;3;2016;Zagueiro
+1962;63133;Elias;316.0;5;2016;Atacante
+1963;86759;Luan;284.0;5;2016;Atacante
+1964;41273;Ricardo Gomes;276.0;6;2016;Tecnico
+1965;50407;Marquinho;266.0;4;2017;Meia
+1966;80318;Ezequiel ;283.0;2;2017;Lateral
+1967;83811;William Cordeiro;316.0;2;2014;Lateral
+1968;85400;Marcelo;287.0;4;2014;Meia
+1969;68909;Souza;277.0;4;2014;Meia
+1970;68887;Gum;266.0;3;2015;Zagueiro
+1971;71844;Thiago Galhardo;264.0;4;2015;Meia
+1972;73860;Thiago Carvalho;283.0;3;2015;Zagueiro
+1973;80280;Taiberson;285.0;5;2015;Atacante
+1974;71818;Bruno Grassi;284.0;1;2016;Goleiro
+1975;92631;Trindade;262.0;4;2016;Meia
+1976;79193;Abuda;303.0;4;2016;Meia
+1977;38246;Robinho;282.0;5;2017;Atacante
+1978;68807;Neto Berola;294.0;5;2017;Atacante
+1979;71549;Kelvin;267.0;5;2017;Atacante
+1980;71571;Fernando Miguel;287.0;1;2017;Goleiro
+1981;82469;Douglas Coutinho ;293.0;5;2017;Atacante
+1982;92081;Richarlison ;266.0;5;2017;Atacante
+1983;97879;Matheus Anjos;293.0;4;2017;Meia
+1984;88780;Leandro;285.0;5;2014;Atacante
+1985;74140;Elber;294.0;4;2014;Meia
+1986;77567;Zé Mário;292.0;4;2014;Meia
+1987;72375;Weldinho;275.0;2;2014;Lateral
+1988;37794;Tinga;283.0;4;2014;Meia
+1989;86512;Bruno Gomes;285.0;5;2014;Atacante
+1990;68894;Bruno Veiga;266.0;5;2014;Atacante
+1991;78241;Pabón;276.0;5;2014;Atacante
+1992;37770;Marcelo Grohe;284.0;1;2015;Goleiro
+1993;62121;Vanderlei;277.0;1;2015;Goleiro
+1994;71892;Wellington Silva;266.0;2;2015;Lateral
+1995;70929;Negueba;264.0;5;2015;Atacante
+1996;82639;Marcelo Hermes;284.0;2;2015;Lateral
+1997;73618;Léo Rodrigues;316.0;2;2015;Lateral
+1998;91972;João Paulo;;5;2015;Atacante
+1999;70018;Nilson;;5;2015;Atacante
+2000;68723;Demerson;315.0;3;2016;Zagueiro
+2001;88393;Ayrton ;266.0;2;2016;Lateral
+2002;94045;Diego Gomes;277.0;4;2016;Meia
+2003;62129;Wellington;276.0;4;2016;Meia
+2004;69022;Marcelo Cirino;262.0;5;2016;Atacante
+2005;71549;Kelvin;276.0;5;2016;Atacante
+2006;97342;João Pedro;316.0;4;2016;Meia
+2007;61149;Lucca;303.0;5;2017;Atacante
+2008;68827;Renato Chaves;266.0;3;2017;Zagueiro
+2009;78248;Gustavo Henrique;277.0;3;2017;Zagueiro
+2010;85931;Hyoran;275.0;4;2017;Meia
+2011;89341;Nicolas Careca;284.0;5;2017;Atacante
+2012;95876;Douglas;267.0;4;2017;Meia
+2013;72389;Mike;292.0;5;2014;Atacante
+2014;36540;Juan;285.0;3;2014;Zagueiro
+2015;83108;Heitor;288.0;3;2014;Zagueiro
+2016;73454;Cidinho;263.0;4;2014;Meia
+2017;89884;Kalil;288.0;5;2014;Atacante
+2018;37663;Julio Cesar;263.0;2;2014;Lateral
+2019;62086;Pará;262.0;2;2015;Lateral
+2020;83028;Braian Rodríguez;284.0;5;2015;Atacante
+2021;80381;Cesinha;303.0;5;2015;Atacante
+2022;37246;Ney Franco;;6;2015;Tecnico
+2023;68872;Marcelo Lomba;285.0;1;2016;Goleiro
+2024;73800;Rodrigo Caio;276.0;3;2016;Zagueiro
+2025;72717;Clayton;292.0;4;2016;Meia
+2026;82703;Matheus Biteco;315.0;4;2016;Meia
+2027;95260;Vitinho;283.0;2;2016;Lateral
+2028;38287;Roger;303.0;5;2016;Atacante
+2029;38910;Ricardo Oliveira;277.0;5;2016;Atacante
+2030;50324;Hudson;283.0;4;2017;Meia
+2031;71709;Cuéllar;262.0;4;2017;Meia
+2032;73421;Rafael Vaz;262.0;3;2017;Zagueiro
+2033;91318;João Paulo Sanches;373.0;6;2017;Tecnico
+2034;94445;Juninho;292.0;5;2017;Atacante
+2035;54395;Elias;264.0;4;2014;Meia
+2036;63013;Marcos Rocha;282.0;2;2014;Lateral
+2037;78086;César;262.0;1;2014;Goleiro
+2038;38315;Jadson;264.0;4;2015;Meia
+2039;84585;Allione;275.0;4;2015;Meia
+2040;37245;Guto Ferreira;303.0;6;2015;Tecnico
+2041;86189;Mosquito;267.0;5;2015;Atacante
+2042;88866;Juninho;275.0;4;2015;Meia
+2043;91273;Rodrigo Lobão;303.0;3;2015;Zagueiro
+2044;90370;Matheus Pereira;264.0;4;2015;Meia
+2045;38278;William Kozlowski;290.0;4;2015;Meia
+2046;68907;Wellington;344.0;3;2016;Zagueiro
+2047;71572;Gabriel;284.0;3;2016;Zagueiro
+2048;95660;Felipe Araruna;276.0;2;2016;Lateral
+2049;93804;Maicon;292.0;2;2016;Lateral
+2050;62119;Tiago Luis;327.0;5;2016;Atacante
+2051;86764;Sidcley;293.0;2;2016;Lateral
+2052;85586;Jonas;303.0;4;2016;Meia
+2053;82403;César Martins;262.0;3;2016;Zagueiro
+2054;38064;Denilson;283.0;4;2016;Meia
+2055;97432;Victor Henrique;327.0;3;2016;Zagueiro
+2056;41218;Magrão;292.0;1;2017;Goleiro
+2057;61188;Gilberto;276.0;5;2017;Atacante
+2058;70581;Fillipe Soutto;287.0;4;2017;Meia
+2059;80692;Luan;275.0;3;2017;Zagueiro
+2060;89976;Geferson;287.0;2;2017;Lateral
+2061;91808;Caíque França;264.0;1;2017;Goleiro
+2062;87611;Tiago;284.0;1;2014;Goleiro
+2063;70759;Martinuccio;294.0;5;2014;Atacante
+2064;86264;Natanael;293.0;2;2014;Lateral
+2065;84794;Matteus ;293.0;4;2014;Meia
+2066;41327;Vanderlei Luxemburgo;262.0;6;2015;Tecnico
+2067;68904;Vítor;292.0;2;2015;Lateral
+2068;68918;Bruno Paulo;264.0;5;2016;Atacante
+2069;69014;Manoel;283.0;3;2016;Zagueiro
+2070;90532;Arthur;284.0;4;2016;Meia
+2071;61149;Lucca;264.0;5;2016;Atacante
+2072;95337;Léo Cereja;303.0;4;2016;Meia
+2073;87211;Eduardo Baptista;303.0;6;2016;Tecnico
+2074;38394;Thiago Heleno;293.0;3;2017;Zagueiro
+2075;78407;Douglas Grolli;315.0;3;2017;Zagueiro
+2076;80853;Pedro Geromel;284.0;3;2017;Zagueiro
+2077;84893;Henrique;267.0;2;2017;Lateral
+2078;85423;Valdívia;282.0;4;2017;Meia
+2079;37767;Galatto;288.0;1;2014;Goleiro
+2080;69240;Dátolo;282.0;4;2014;Meia
+2081;38440;Pierre;282.0;4;2014;Meia
+2082;38908;Renato;277.0;4;2014;Meia
+2083;80286;Matheus Vidotto;264.0;1;2014;Goleiro
+2084;68744;Emerson;263.0;5;2014;Atacante
+2085;74077;Maycon Canário;293.0;4;2014;Meia
+2086;70360;Eduardo Sasha;285.0;5;2015;Atacante
+2087;70933;Anderson Salles;267.0;3;2015;Zagueiro
+2088;79584;Yago;267.0;5;2015;Atacante
+2089;69165;Pablo;303.0;3;2015;Zagueiro
+2090;71601;João Paulo;315.0;1;2015;Goleiro
+2091;90259;Luiz Fernando;;4;2015;Meia
+2092;86935;Rodrigo;275.0;4;2016;Meia
+2093;77967;Mena;276.0;2;2016;Lateral
+2094;95997;Diego Lopes;327.0;4;2016;Meia
+2095;87350;Buffarini;276.0;2;2016;Lateral
+2096;38067;Danilo;264.0;4;2017;Meia
+2097;70323;Jorginho;265.0;6;2017;Tecnico
+2098;87863;Arrascaeta;283.0;4;2017;Meia
+2099;95022;Thalis ;282.0;4;2017;Meia
+2100;96055;Yan;294.0;4;2017;Meia
+2101;69008;Neto;277.0;3;2014;Zagueiro
+2102;79023;Mattheus;262.0;4;2014;Meia
+2103;38061;Edcarlos;282.0;3;2014;Zagueiro
+2104;73375;Felipe;264.0;3;2014;Zagueiro
+2105;89492;Saulo;263.0;1;2014;Goleiro
+2106;38738;Douglas;284.0;4;2015;Meia
+2107;74140;Élber;292.0;4;2015;Meia
+2108;37783;Ramon;290.0;4;2015;Meia
+2109;70916;Diogo Goiano;290.0;2;2015;Lateral
+2110;82764;Rafael Forster;290.0;2;2015;Lateral
+2111;91772;Deivid Duarte;290.0;3;2015;Zagueiro
+2112;79437;Roger Machado ;;6;2015;Tecnico
+2113;51705;Bruno Rodrigo;283.0;3;2016;Zagueiro
+2114;39144;Leandro Domingues;287.0;4;2016;Meia
+2115;84848;Erik;275.0;5;2016;Atacante
+2116;92762;Erick;303.0;4;2016;Meia
+2117;68725;Diego Renan;315.0;2;2017;Lateral
+2118;84523;Romarinho;266.0;5;2017;Atacante
+2119;89342;Caju;277.0;2;2017;Lateral
+2120;95332;Marcinho;276.0;5;2017;Atacante
+2121;60795;Renan;263.0;1;2014;Goleiro
+2122;68923;Gil;264.0;3;2014;Zagueiro
+2123;85083;Vinícius Silvestre;275.0;1;2014;Goleiro
+2124;74061;Roberto Fernández;287.0;1;2014;Goleiro
+2125;49641;Adriano;287.0;4;2014;Meia
+2126;51168;André Paulino;315.0;3;2014;Zagueiro
+2127;63008;Rafael Toloi;276.0;3;2015;Zagueiro
+2128;81770;Clayton;316.0;5;2015;Atacante
+2129;80281;Cleberson;293.0;3;2015;Zagueiro
+2130;49651;Ernando;285.0;3;2015;Zagueiro
+2131;82647;Régis;292.0;4;2015;Meia
+2132;70106;Mouche;275.0;5;2015;Atacante
+2133;51168;André Paulino;315.0;3;2015;Zagueiro
+2134;69012;Santos;293.0;1;2015;Goleiro
+2135;60797;Eduardo Neto;314.0;4;2015;Meia
+2136;86444;Pablo Dyego;266.0;5;2015;Atacante
+2137;86783;Henrique;;2;2015;Lateral
+2138;89466;Horácio;292.0;4;2016;Meia
+2139;95780;Zé Ricardo;262.0;6;2016;Tecnico
+2140;90311;Bryan Olivera;266.0;4;2016;Meia
+2141;94933;Vitinho;327.0;5;2016;Atacante
+2142;73635;Rildo;264.0;5;2016;Atacante
+2143;38928;Dudu Cearense;263.0;4;2017;Meia
+2144;84554;Lucão;276.0;3;2017;Zagueiro
+2145;89696;Romulo;314.0;5;2017;Atacante
+2146;87420;Cristaldo;275.0;5;2014;Atacante
+2147;86588;Ícaro;294.0;4;2014;Meia
+2148;84890;Euller ;287.0;2;2014;Lateral
+2149;71102;Omar;265.0;1;2014;Goleiro
+2150;38990;Alcides;288.0;3;2014;Zagueiro
+2151;54395;Elias;264.0;4;2015;Meia
+2152;38287;Roger;315.0;5;2015;Atacante
+2153;77911;Jean Deretti;316.0;4;2015;Meia
+2154;38745;Jéci;314.0;3;2015;Zagueiro
+2155;73721;Marcos Vinícius;283.0;4;2015;Meia
+2156;90335;Jeferson Negueba;284.0;4;2016;Meia
+2157;74014;Alemão;344.0;3;2016;Zagueiro
+2158;50462;Leandro Almeida;285.0;3;2016;Zagueiro
+2159;89977;Bruno Santos;316.0;2;2016;Lateral
+2160;60787;Willians;314.0;5;2017;Atacante
+2161;62047;Jean;275.0;2;2017;Lateral
+2162;79032;William Alves;373.0;3;2017;Zagueiro
+2163;89227;Balbino;284.0;4;2017;Meia
+2164;100132;Lucas Poletto;284.0;5;2017;Atacante
+2165;37607;Michel Bastos;276.0;2;2014;Lateral
+2166;50961;Léo Gago;265.0;4;2014;Meia
+2167;83048;Rafael Thyere;284.0;3;2014;Zagueiro
+2168;86759;Luan;284.0;5;2015;Atacante
+2169;86725;Rafael Silva;267.0;5;2015;Atacante
+2170;78235;Leandrinho;277.0;4;2015;Meia
+2171;78895;Marcelo;262.0;3;2015;Zagueiro
+2172;73336;Rafael Martins;294.0;1;2016;Goleiro
+2173;71885;Tiago Costa;344.0;2;2016;Lateral
+2174;92618;Wesley;284.0;2;2016;Lateral
+2175;70742;Seijas;315.0;4;2017;Meia
+2176;75295;Paolo Guerrero;262.0;5;2017;Atacante
+2177;78117;Everaldo;373.0;5;2017;Atacante
+2178;86143;Wanderson;293.0;3;2017;Zagueiro
+2179;84382;Danilo;292.0;2;2014;Lateral
+2180;80281;Cleberson;293.0;3;2014;Zagueiro
+2181;77967;Mena;277.0;2;2014;Lateral
+2182;79042;Tiago ;282.0;3;2014;Zagueiro
+2183;80400;Rafinha;266.0;4;2014;Meia
+2184;73635;Rildo;277.0;5;2014;Atacante
+2185;88850;Marco Damasceno ;293.0;5;2014;Atacante
+2186;50295;Felipe Menezes;275.0;4;2014;Meia
+2187;79892;Nenén;315.0;4;2014;Meia
+2188;69047;Paulo Roberto;316.0;4;2014;Meia
+2189;61211;Carlos Cesar;293.0;2;2014;Lateral
+2190;78946;Dória;276.0;3;2015;Zagueiro
+2191;78605;Gabriel;275.0;4;2015;Meia
+2192;68685;Alan Patrick;275.0;4;2015;Meia
+2193;82337;Geandro;317.0;4;2015;Meia
+2194;84314;Ítalo;317.0;4;2015;Meia
+2195;37792;Edinho;;4;2015;Meia
+2196;92574;Kaio;;4;2015;Meia
+2197;83335;Anderson Lopes;293.0;5;2016;Atacante
+2198;72362;Rodrigo Lindoso;263.0;4;2016;Meia
+2199;77500;Yago;264.0;3;2016;Zagueiro
+2200;38421;Rafinha;283.0;4;2016;Meia
+2201;52674;Gilson;327.0;2;2016;Lateral
+2202;80394;Matheus Inácio;303.0;1;2016;Goleiro
+2203;95950;Claudio Aquino;266.0;4;2016;Meia
+2204;68938;Giovanni Augusto;264.0;4;2017;Meia
+2205;61115;Jobson;263.0;5;2014;Atacante
+2206;71724;Agenor;285.0;1;2014;Goleiro
+2207;80538;Marlon;266.0;4;2014;Meia
+2208;78994;Eduardo;282.0;4;2014;Meia
+2209;55348;Luis Ricardo;276.0;2;2014;Lateral
+2210;68758;Fernandinho;284.0;5;2014;Atacante
+2211;73317;Argel Fucks;316.0;6;2014;Tecnico
+2212;38515;Marquinhos;316.0;3;2015;Zagueiro
+2213;42489;Cássio;314.0;3;2015;Zagueiro
+2214;37627;Diguinho;267.0;4;2015;Meia
+2215;69008;Neto;315.0;3;2015;Zagueiro
+2216;81091;Jair;285.0;4;2015;Meia
+2217;61986;Aislan;267.0;3;2015;Zagueiro
+2218;91234;Renan;314.0;4;2015;Meia
+2219;87265;Bocão;290.0;2;2015;Lateral
+2220;87483;Matheus Índio;267.0;4;2015;Meia
+2221;92146;André Luís;;5;2015;Atacante
+2222;83257;Gabriel;277.0;5;2016;Atacante
+2223;50439;Vilson;264.0;3;2016;Zagueiro
+2224;62009;Camilo;263.0;4;2016;Meia
+2225;38738;Douglas;284.0;4;2016;Meia
+2226;40990;Dorival Júnior;277.0;6;2016;Tecnico
+2227;72886;Luis Ruiz;292.0;5;2016;Atacante
+2228;69138;Pablo;293.0;5;2017;Atacante
+2229;84691;Judson;314.0;4;2017;Meia
+2230;86973;Léo Gomes;284.0;2;2017;Lateral
+2231;69006;Dão;287.0;3;2014;Zagueiro
+2232;38573;Nilton;283.0;4;2014;Meia
+2233;89681;Mateus Muller;275.0;2;2014;Lateral
+2234;62130;William Matheus;275.0;2;2014;Lateral
+2235;78458;João Afonso;315.0;4;2015;Meia
+2236;92631;Trindade;;4;2015;Meia
+2237;85465;Alex Santana;285.0;4;2016;Meia
+2238;78361;Edgardo Bauza;276.0;6;2016;Tecnico
+2239;89226;Iago Maidana;276.0;3;2016;Zagueiro
+2240;50856;Henrique;266.0;3;2016;Zagueiro
+2241;38365;Henrique;287.0;3;2016;Zagueiro
+2242;38957;Rafael Marques;283.0;5;2017;Atacante
+2243;68808;Nino Paraíba;303.0;2;2017;Lateral
+2244;79193;Abuda;373.0;4;2017;Meia
+2245;80337;Arthur ;315.0;5;2017;Atacante
+2246;99588;Paulo Vitor;267.0;5;2017;Atacante
+2247;36728;Índio;285.0;3;2014;Zagueiro
+2248;72023;Sueliton;293.0;2;2014;Lateral
+2249;38921;Júlio Baptista;283.0;4;2014;Meia
+2250;73649;Lucas Pratto;282.0;5;2015;Atacante
+2251;54424;Willians;283.0;4;2015;Meia
+2252;37674;Wagner;266.0;4;2015;Meia
+2253;80129;Jadson;293.0;4;2015;Meia
+2254;70944;Bruno Henrique;264.0;4;2015;Meia
+2255;78248;Gustavo Henrique;277.0;3;2015;Zagueiro
+2256;42501;Rhodolfo;284.0;3;2015;Zagueiro
+2257;80975;Romário ;314.0;2;2015;Lateral
+2258;86842;Ewandro;276.0;5;2015;Atacante
+2259;89466;Horácio;292.0;4;2015;Meia
+2260;89977;Bruno Santos;316.0;2;2015;Lateral
+2261;82397;Núbio Flávio ;;5;2015;Atacante
+2262;68945;Saimon;;3;2015;Zagueiro
+2263;72382;Marquinhos;;4;2015;Meia
+2264;68827;Renato Chaves;266.0;3;2016;Zagueiro
+2265;50362;Lucas;283.0;2;2016;Lateral
+2266;80363;Ariel Cabral;283.0;4;2016;Meia
+2267;80538;Marlon Santos;266.0;3;2016;Zagueiro
+2268;62024;Edimar;283.0;2;2016;Lateral
+2269;39355;Carpegiani;294.0;6;2016;Tecnico
+2270;73869;Lennon;283.0;2;2017;Lateral
+2271;82644;Léo Artur;303.0;4;2017;Meia
+2272;42330;Felipe Garcia;266.0;1;2014;Goleiro
+2273;38425;Fábio Ferreira;288.0;3;2014;Zagueiro
+2274;37792;Edinho;284.0;4;2014;Meia
+2275;79193;Abuda;315.0;4;2014;Meia
+2276;86861;Vinicius;287.0;3;2014;Zagueiro
+2277;61211;Carlos Cesar;282.0;2;2015;Lateral
+2278;72133;Ednei;;3;2015;Zagueiro
+2279;72724;Juba;;5;2015;Atacante
+2280;93317;Diogo Giacomini;;6;2015;Tecnico
+2281;70874;Rhayner;303.0;5;2016;Atacante
+2282;95539;Fabrício;292.0;4;2016;Meia
+2283;69041;Muriel;285.0;1;2016;Goleiro
+2284;89339;Adriano Teixeira;344.0;6;2016;Tecnico
+2285;74213;Alejandro Guerra;275.0;4;2017;Meia
+2286;79578;Sassá;283.0;5;2017;Atacante
+2287;91929;Everson;265.0;3;2017;Zagueiro
+2288;39850;Vagner Mancini;263.0;6;2014;Tecnico
+2289;70916;Diogo Goiano;294.0;2;2014;Lateral
+2290;82547;Sérgio Raphael;265.0;3;2014;Zagueiro
+2291;42234;Cássio;264.0;1;2015;Goleiro
+2292;78839;Gabriel Gasparotto;277.0;1;2015;Goleiro
+2293;92083;Augusto César;;6;2015;Tecnico
+2294;94894;Capixaba;282.0;5;2016;Atacante
+2295;74075;Wallace Oliveira;284.0;2;2016;Lateral
+2296;82469;Douglas Coutinho ;283.0;5;2016;Atacante
+2297;38632;Matheus Ferraz;292.0;3;2017;Zagueiro
+2298;77959;Copete;277.0;5;2017;Atacante
+2299;91508;Leonardo Valencia;263.0;4;2017;Meia
+2300;96433;Ralph;282.0;4;2017;Meia
+2301;77994;Mendieta;275.0;4;2014;Meia
+2302;37655;Rafael Moura;285.0;5;2014;Atacante
+2303;85066;Guillermo ;287.0;1;2014;Goleiro
+2304;73869;Lennon;263.0;2;2014;Lateral
+2305;78464;Fábio Braga;266.0;4;2014;Meia
+2306;63110;Alan Ruschel;285.0;2;2015;Lateral
+2307;91714;Marciel;264.0;4;2015;Meia
+2308;73769;Guilherme Batata;293.0;4;2015;Meia
+2309;87197;Matheus ;;5;2015;Atacante
+2310;79646;Bruno Pereirinha;;2;2015;Lateral
+2311;38246;Robinho;282.0;5;2016;Atacante
+2312;81543;Josué;287.0;3;2016;Zagueiro
+2313;71719;Elton;303.0;4;2016;Meia
+2314;38617;Danilinho;287.0;5;2017;Atacante
+2315;68928;Rafael;283.0;1;2017;Goleiro
+2316;74078;Hernani;293.0;4;2014;Meia
+2317;80374;Norberto ;294.0;4;2014;Meia
+2318;78647;Digão;262.0;2;2014;Lateral
+2319;80192;Hugo Gumiero;293.0;1;2014;Goleiro
+2320;78840;Pedro Castro;277.0;4;2014;Meia
+2321;51319;Renato Cajá;303.0;4;2015;Meia
+2322;72491;Bressan;262.0;3;2015;Zagueiro
+2323;84893;Henrique ;267.0;2;2015;Lateral
+2324;84887;Dener;316.0;4;2015;Meia
+2325;91920;Henrique;316.0;3;2015;Zagueiro
+2326;50284;Wilson;294.0;1;2016;Goleiro
+2327;62977;Ganso;276.0;4;2016;Meia
+2328;51683;Bruno Rangel;315.0;5;2016;Atacante
+2329;88030;Warian Santos ;264.0;4;2016;Meia
+2330;89343;Júnior Tavares;276.0;2;2017;Lateral
+2331;91156;Jesiel;282.0;3;2017;Zagueiro
+2332;98832;Jean Pyerre;284.0;4;2017;Meia
+2333;85424;Ailton;266.0;2;2014;Lateral
+2334;38398;Renato Augusto;264.0;4;2015;Meia
+2335;83335;Anderson Lopes;314.0;5;2015;Atacante
+2336;87750;Lorran;267.0;2;2015;Lateral
+2337;71799;Silvinho;;5;2015;Atacante
+2338;42411;Cuca;275.0;6;2016;Tecnico
+2339;70696;Fábio Carille;264.0;6;2016;Tecnico
+2340;94138;Felipe Vizeu;262.0;5;2016;Atacante
+2341;82775;Lucas Ramon ;344.0;2;2016;Lateral
+2342;91649;Pilar;327.0;5;2016;Atacante
+2343;81845;Alisson;283.0;4;2017;Meia
+2344;98402;Wendel;266.0;4;2017;Meia
+2345;78546;Bruninho;275.0;4;2014;Meia
+2346;38140;Fernando Prass;275.0;1;2014;Goleiro
+2347;73465;Luccas Claro;294.0;3;2014;Zagueiro
+2348;69180;Busatto;284.0;1;2014;Goleiro
+2349;38133;Julio Cesar;264.0;1;2014;Goleiro
+2350;60834;Luan;283.0;5;2014;Atacante
+2351;72731;Oliveira;317.0;1;2015;Goleiro
+2352;88323;Ángel Romero;264.0;5;2015;Atacante
+2353;74078;Hernani;293.0;4;2015;Meia
+2354;68987;João Vitor;;4;2015;Meia
+2355;37655;Rafael Moura;316.0;5;2016;Atacante
+2356;97350;Emiliano;327.0;4;2016;Meia
+2357;38768;Andrezinho;267.0;4;2017;Meia
+2358;60969;Patric;287.0;2;2017;Lateral
+2359;68884;Klever;373.0;1;2017;Goleiro
+2360;86766;Matheus Rossetto;293.0;4;2017;Meia
+2361;84997;Paulo;290.0;4;2014;Meia
+2362;87393;Gabriel;282.0;3;2014;Zagueiro
+2363;62136;Marcelo Oliveira;283.0;6;2014;Tecnico
+2364;37701;Léo Moura;262.0;2;2014;Lateral
+2365;79343;Doriva;293.0;6;2014;Tecnico
+2366;62009;Camilo;315.0;4;2015;Meia
+2367;73528;Guti;317.0;3;2015;Zagueiro
+2368;87214;Citta Júnior;303.0;4;2015;Meia
+2369;77567;Zé Mário;;4;2015;Meia
+2370;87860;Federico Gino;283.0;4;2016;Meia
+2371;88224;Paulo Ricardo;277.0;3;2016;Zagueiro
+2372;36943;Paulo Autuori;293.0;6;2016;Tecnico
+2373;93790;Marlon Freitas;266.0;4;2016;Meia
+2374;94924;Íkaro;293.0;4;2016;Meia
+2375;38913;Nenê;267.0;4;2017;Meia
+2376;85586;Jonas;294.0;4;2017;Meia
+2377;63208;Zezinho;315.0;4;2014;Meia
+2378;51175;Denis;276.0;1;2014;Goleiro
+2379;68914;Deola;275.0;1;2014;Goleiro
+2380;86859;José Welison;287.0;4;2014;Meia
+2381;38109;Jefferson;263.0;1;2014;Goleiro
+2382;82625;Maurinho;288.0;5;2014;Atacante
+2383;73633;Júnior Timbó;315.0;4;2014;Meia
+2384;36940;Oswaldo De Oliveira;275.0;6;2015;Tecnico
+2385;73375;Felipe;264.0;3;2015;Zagueiro
+2386;82613;Alan Costa;285.0;3;2015;Zagueiro
+2387;53669;Lins;316.0;5;2016;Atacante
+2388;95127;Nicolas;293.0;4;2016;Meia
+2389;86972;Emerson Santos;263.0;3;2016;Zagueiro
+2390;78478;Willian Arão;262.0;4;2016;Meia
+2391;42501;Rhodolfo;262.0;3;2017;Zagueiro
+2392;63177;Júnior Viçosa;373.0;5;2017;Atacante
+2393;80431;Maicon Silva;288.0;2;2014;Lateral
+2394;51293;Wanderson;315.0;4;2014;Meia
+2395;50439;Vilson;283.0;3;2014;Zagueiro
+2396;68954;Marquinhos Gabriel;275.0;4;2014;Meia
+2397;82821;Gabriel Soares;287.0;4;2014;Meia
+2398;78648;Dráusio;317.0;3;2015;Zagueiro
+2399;37187;Pc Gusmão;;6;2015;Tecnico
+2400;42140;Felipe Santana;282.0;3;2017;Zagueiro
+2401;51772;Éverton Ribeiro;262.0;4;2017;Meia
+2402;86686;Tchê Tchê;275.0;4;2017;Meia
+2403;51683;Bruno Rangel;315.0;5;2014;Atacante
+2404;69138;Pablo;316.0;5;2014;Atacante
+2405;52190;Ralf;264.0;4;2014;Meia
+2406;38763;Marcinho;287.0;4;2014;Meia
+2407;86860;Guilherme;287.0;2;2014;Lateral
+2408;89342;Caju;277.0;2;2014;Lateral
+2409;86315;Anderson Santos;263.0;2;2014;Lateral
+2410;83528;Léo Pereira;293.0;3;2014;Zagueiro
+2411;72488;Follmann ;284.0;1;2014;Goleiro
+2412;80572;Alex Santos;294.0;5;2014;Atacante
+2413;84530;Maxi Rodríguez;284.0;4;2014;Meia
+2414;86763;Jonathan Fernando;293.0;2;2014;Lateral
+2415;71495;Lisandro López;285.0;5;2015;Atacante
+2416;68698;Bruno Silva;315.0;4;2015;Meia
+2417;42213;Fernando Bob;303.0;4;2015;Meia
+2418;50328;Marcelo Oliveira;284.0;2;2015;Lateral
+2419;80552;Marquinhos Pedroso;316.0;2;2015;Lateral
+2420;88065;Jorge;262.0;2;2015;Lateral
+2421;91947;Gelson;;4;2015;Meia
+2422;73890;Mário Sérgio;;2;2015;Lateral
+2423;87266;Duda;;1;2015;Goleiro
+2424;70323;Jorginho;;6;2015;Tecnico
+2425;68711;Chiquinho;262.0;2;2016;Lateral
+2426;90531;Raul;284.0;2;2016;Lateral
+2427;81223;Erazo;282.0;3;2016;Zagueiro
+2428;71227;Maicon;276.0;3;2016;Zagueiro
+2429;78548;Jean Mota;277.0;4;2017;Meia
+2430;86120;Borja;275.0;5;2017;Atacante
+2431;90651;Rodrigão;277.0;5;2017;Atacante
+2432;92981;Ronaldo;373.0;4;2017;Meia
+2433;68908;Gualberto;288.0;3;2014;Zagueiro
+2434;90285;Bruno Henrique;290.0;5;2015;Atacante
+2435;50292;Paulinho Dias;293.0;4;2015;Meia
+2436;63058;Willian Farias;283.0;4;2015;Meia
+2437;88916;Luan Polli ;316.0;1;2015;Goleiro
+2438;92630;Claudinho;;5;2015;Atacante
+2439;68698;Bruno Silva;263.0;4;2016;Meia
+2440;70058;Tiago Real;287.0;4;2016;Meia
+2441;94044;John Victor;277.0;1;2016;Goleiro
+2442;38908;Renato;277.0;4;2017;Meia
+2443;41327;Vanderlei Luxemburgo;292.0;6;2017;Tecnico
+2444;72099;Wiliam Barbio;265.0;5;2014;Atacante
+2445;52897;Nivaldo;315.0;1;2014;Goleiro
+2446;62974;Werley;284.0;3;2014;Zagueiro
+2447;78478;Willian Arão;264.0;4;2014;Meia
+2448;73918;Canteros;262.0;4;2015;Meia
+2449;85027;Carlos;282.0;5;2015;Atacante
+2450;81031;Marquinhos Santos;264.0;6;2015;Tecnico
+2451;90872;Wagner;315.0;4;2015;Meia
+2452;38162;Fred;282.0;5;2016;Atacante
+2453;88136;Ivan;303.0;1;2016;Goleiro
+2454;68873;Paulo Victor;262.0;1;2016;Goleiro
+2455;94154;Maycon;303.0;4;2016;Meia
+2456;95181;Vinícius Bala;292.0;5;2016;Atacante
+2457;50413;Anderson Aquino;263.0;5;2016;Atacante
+2458;55348;Luis Ricardo;263.0;2;2016;Lateral
+2459;80280;Taiberson;285.0;5;2016;Atacante
+2460;84817;Robson;276.0;5;2016;Atacante
+2461;97448;Thalisson Kelven;294.0;3;2016;Zagueiro
+2462;73918;Canteros;315.0;4;2017;Meia
+2463;83615;Thiago Martins;265.0;3;2017;Zagueiro
+2464;91001;Evandro;292.0;2;2017;Lateral
+2465;91519;Kazim;264.0;5;2017;Atacante
+2466;81223;Erazo;262.0;3;2014;Zagueiro
+2467;86841;Boschilia;276.0;4;2014;Meia
+2468;86587;Igor Leandro;294.0;3;2014;Zagueiro
+2469;80769;Fernando Karanga;288.0;5;2014;Atacante
+2470;78578;Paulinho;262.0;5;2015;Atacante
+2471;88479;Walace;284.0;4;2015;Meia
+2472;85121;Robert ;266.0;4;2015;Meia
+2473;71121;Wesley;290.0;5;2015;Atacante
+2474;82459;Rafael Zuchi;293.0;3;2015;Zagueiro
+2475;73918;Canteros;262.0;4;2016;Meia
+2476;36940;Oswaldo de Oliveira;264.0;6;2016;Tecnico
+2477;80188;Marcos Junior;266.0;5;2016;Atacante
+2478;73974;Alison;277.0;4;2016;Meia
+2479;95978;Ty Sandows;284.0;5;2016;Atacante
+2480;60784;Rafael Carioca;282.0;4;2017;Meia
+2481;68821;Rafael Galhardo;283.0;2;2017;Lateral
+2482;86411;Breno Lopes;373.0;2;2017;Lateral
+2483;91687;João Pedro;293.0;4;2017;Meia
+2484;69292;Eguren;275.0;4;2014;Meia
+2485;38026;Kleber;316.0;2;2014;Lateral
+2486;36775;Marcos Assunção;316.0;4;2014;Meia
+2487;86264;Natanael;293.0;2;2015;Lateral
+2488;82616;Conrado;314.0;5;2015;Atacante
+2489;72334;Ayrton;275.0;2;2015;Lateral
+2490;87291;Danilo Pires;282.0;4;2015;Meia
+2491;91094;Ábila;283.0;5;2016;Atacante
+2492;85596;Gustavo Ramos;285.0;5;2016;Atacante
+2493;94930;Lucas Paquetá;262.0;4;2017;Meia
+2494;95126;Yago;293.0;5;2017;Atacante
+2495;95542;Orinho;277.0;2;2017;Lateral
+2496;77673;Patrick Vieira;275.0;4;2014;Meia
+2497;73517;Douglas Pires;265.0;1;2014;Goleiro
+2498;78578;Paulinho;262.0;5;2014;Atacante
+2499;38067;Danilo;264.0;4;2014;Meia
+2500;38362;Rodrigo Silva;288.0;5;2014;Atacante
+2501;79064;Guilherme Biteco;284.0;4;2014;Meia
+2502;37789;Bolívar;263.0;3;2014;Zagueiro
+2503;38108;Jorge Henrique;285.0;5;2015;Atacante
+2504;90304;Tinga;284.0;2;2015;Lateral
+2505;68807;Neto Berola;282.0;5;2015;Atacante
+2506;69033;Tony;327.0;4;2016;Meia
+2507;81150;Mayke;283.0;2;2016;Lateral
+2508;61135;Ananias;315.0;5;2016;Atacante
+2509;42500;Fagner;264.0;2;2016;Lateral
+2510;94144;Thallyson;292.0;5;2016;Atacante
+2511;37788;Marcelo Boeck;315.0;1;2016;Goleiro
+2512;73649;Lucas Pratto;282.0;5;2016;Atacante
+2513;84887;Dener;316.0;4;2016;Meia
+2514;95118;Thiago Henrique;282.0;1;2016;Goleiro
+2515;92193;Ravanelli;303.0;4;2017;Meia
+2516;92574;Kaio;284.0;4;2017;Meia
+2517;93739;Peu;266.0;5;2017;Atacante
+2518;99032;Lourenço;314.0;5;2017;Atacante
+2519;79535;Vaná;294.0;1;2014;Goleiro
+2520;85149;Ronaldo;292.0;4;2014;Meia
+2521;72376;Cléber;264.0;3;2014;Zagueiro
+2522;37653;Nilmar;285.0;5;2015;Atacante
+2523;86410;Victor Luis;275.0;4;2015;Meia
+2524;62120;Trípodi;317.0;5;2015;Atacante
+2525;51869;Edson Ratinho;;2;2015;Lateral
+2526;88651;Vinícius Tanque;263.0;5;2016;Atacante
+2527;78839;Gabriel Gasparotto;277.0;1;2016;Goleiro
+2528;68924;Leandrinho;344.0;4;2016;Meia
+2529;68821;Rafael Galhardo;293.0;2;2016;Lateral
+2530;52618;Anderson Martins;267.0;3;2017;Zagueiro
+2531;89493;Igor Rabello;263.0;3;2017;Zagueiro
+2532;90933;Jean;265.0;1;2017;Goleiro
+2533;94931;Lucas Fernandes;276.0;4;2017;Meia
+2534;97448;Thalisson Kelven;294.0;3;2017;Zagueiro
+2535;81007;Dedé;263.0;4;2014;Meia
+2536;83255;Giva;277.0;5;2014;Atacante
+2537;74103;Frauches ;262.0;3;2014;Zagueiro
+2538;50417;Valencia;266.0;4;2014;Meia
+2539;84707;Jonatan Lucca;293.0;4;2014;Meia
+2540;79335;Éverton;293.0;4;2014;Meia
+2541;60780;Vinícius Eutrópio;315.0;6;2015;Tecnico
+2542;92501;Lucas Lovat;;2;2015;Lateral
+2543;93566;Martín Alaníz;315.0;5;2016;Atacante
+2544;87291;Danilo Pires;344.0;4;2016;Meia
+2545;87747;Yago;316.0;4;2016;Meia
+2546;89840;Calleri;276.0;5;2016;Atacante
+2547;78979;Edson Kölln;344.0;1;2016;Goleiro
+2548;69782;Dener Assunção;315.0;2;2016;Lateral
+2549;92182;Juninho;294.0;3;2016;Zagueiro
+2550;83266;Marcos Guilherme ;293.0;4;2016;Meia
+2551;70173;Ederson;262.0;4;2016;Meia
+2552;96832;Rodrigo Figueiredo;264.0;4;2016;Meia
+2553;38150;Marquinhos;314.0;4;2017;Meia
+2554;50459;Léo;283.0;3;2017;Zagueiro
+2555;87742;Neto Moura;292.0;4;2017;Meia
+2556;89285;Matheus Sales;265.0;4;2017;Meia
+2557;90768;Fabrício Bruno;315.0;3;2017;Zagueiro
+2558;94068;Ribamar;293.0;5;2017;Atacante
+2559;94857;Jonatan Gomez;276.0;4;2017;Meia
+2560;69048;Mazola;316.0;5;2014;Atacante
+2561;70045;Vinicius Simon;277.0;3;2014;Zagueiro
+2562;80537;Michael;288.0;5;2014;Atacante
+2563;70986;Léo Cittadini;277.0;4;2014;Meia
+2564;82503;Rodolfo;262.0;4;2014;Meia
+2565;73673;Cañete;276.0;4;2014;Meia
+2566;38311;Márcio Araújo;262.0;4;2015;Meia
+2567;91263;Jajá;262.0;4;2015;Meia
+2568;86618;Vitor Xavier;303.0;5;2015;Atacante
+2569;91156;Jesiel;282.0;3;2015;Zagueiro
+2570;69070;Wagner;;3;2015;Zagueiro
+2571;86763;Jonathan ;;4;2015;Meia
+2572;38021;Wendel;303.0;4;2016;Meia
+2573;68745;Vecchio;277.0;4;2016;Meia
+2574;72491;Bressan;284.0;3;2016;Zagueiro
+2575;92764;Bruno Baio;285.0;5;2016;Atacante
+2576;71799;Silvinho;315.0;5;2016;Atacante
+2577;38350;Fernando Leal;327.0;1;2016;Goleiro
+2578;68910;Anselmo;292.0;4;2017;Meia
+2579;69160;Gastón Fernández;284.0;4;2017;Meia
+2580;88667;Igor;292.0;3;2017;Zagueiro
+2581;72290;Jailson;275.0;1;2014;Goleiro
+2582;78646;Fernando Fernandes;262.0;3;2014;Zagueiro
+2583;87742;Neto;292.0;4;2014;Meia
+2584;89258;Daniel;262.0;1;2014;Goleiro
+2585;88367;Chico;275.0;5;2014;Atacante
+2586;84863;Alberto Valentim;275.0;6;2014;Tecnico
+2587;73213;Miguel;275.0;5;2014;Atacante
+2588;41218;Magrão;292.0;1;2015;Goleiro
+2589;37781;Marcelo Costa;317.0;4;2015;Meia
+2590;73957;Ewerton Páscoa ;292.0;3;2015;Zagueiro
+2591;85399;Felipe Macedo;290.0;3;2015;Zagueiro
+2592;89694;James Dean;292.0;5;2015;Atacante
+2593;91712;Matheus Alves;;1;2015;Goleiro
+2594;79019;Jayme De Almeida;;6;2015;Tecnico
+2595;93282;Fabio;;4;2015;Meia
+2596;86588;Ícaro;294.0;4;2016;Meia
+2597;91950;Gabriel;287.0;4;2016;Meia
+2598;89256;Gerson;266.0;4;2016;Meia
+2599;82952;Ermel;316.0;5;2016;Atacante
+2600;50313;Elicarlos;315.0;4;2017;Meia
+2601;60859;Jael;284.0;5;2017;Atacante
+2602;63005;Welinton;294.0;3;2014;Zagueiro
+2603;89606;Felipe Saturnino;290.0;2;2014;Lateral
+2604;53472;Fahel;265.0;4;2014;Meia
+2605;38231;Diego Tardelli;282.0;5;2014;Atacante
+2606;85798;João Paulo Kuspiosz;262.0;1;2014;Goleiro
+2607;69041;Muriel;285.0;1;2014;Goleiro
+2608;78077;Madson;265.0;2;2014;Lateral
+2609;89897;Ronaldo;288.0;1;2014;Goleiro
+2610;89975;Rodolfo;282.0;1;2014;Goleiro
+2611;77772;Canales;263.0;5;2016;Atacante
+2612;91222;Dierson;263.0;4;2016;Meia
+2613;37306;Gilson Kleina;294.0;6;2016;Tecnico
+2614;86797;Raniel;283.0;4;2016;Meia
+2615;78850;Reinaldo;303.0;2;2016;Lateral
+2616;87267;Marcão;293.0;3;2016;Zagueiro
+2617;37984;Aranha;303.0;1;2016;Goleiro
+2618;97442;Léo Cotia;344.0;5;2016;Atacante
+2619;68784;Júnior Dutra;314.0;5;2017;Atacante
+2620;72168;João Paulo;263.0;4;2017;Meia
+2621;80140;Nadson;315.0;4;2017;Meia
+2622;85300;Berrío ;262.0;5;2017;Atacante
+2623;97856;Nonoca;283.0;4;2017;Meia
+2624;38919;Kaká;276.0;4;2014;Meia
+2625;51318;Leandro Donizete;282.0;4;2014;Meia
+2626;68830;Ricardinho;288.0;4;2014;Meia
+2627;74065;Zeballos;263.0;5;2014;Atacante
+2628;71947;Guilherme;263.0;2;2014;Lateral
+2629;50326;Éverton Santos;316.0;5;2014;Atacante
+2630;60780;Vinícius Eutrópio;316.0;6;2014;Tecnico
+2631;82381;Juninho;293.0;4;2014;Meia
+2632;69040;Vladimir;277.0;1;2015;Goleiro
+2633;68884;Klever;266.0;1;2015;Goleiro
+2634;87929;Matheus Vargas;;4;2015;Meia
+2635;82128;Ferrugem;;2;2015;Lateral
+2636;40758;Leandrão;;5;2015;Atacante
+2637;92617;Léo Tilica;;5;2015;Atacante
+2638;37837;Cristian;303.0;4;2016;Meia
+2639;87887;Balbuena;264.0;3;2016;Zagueiro
+2640;68834;Rithely;292.0;4;2016;Meia
+2641;88323;Ángel Romero;264.0;5;2016;Atacante
+2642;50326;Everton Santos;316.0;5;2016;Atacante
+2643;68962;Arthur Maia;315.0;4;2016;Meia
+2644;91783;Diego;263.0;2;2016;Lateral
+2645;63000;Victor Ramos;287.0;3;2016;Zagueiro
+2646;89693;Leonan;282.0;4;2016;Meia
+2647;93791;Danielzinho;266.0;4;2016;Meia
+2648;37688;Cícero;276.0;4;2017;Meia
+2649;86323;Walterson;373.0;5;2017;Atacante
+2650;86837;Diego Cardoso;277.0;5;2014;Atacante
+2651;60852;Uendel;264.0;2;2014;Lateral
+2652;73634;Felipe Lima;287.0;4;2014;Meia
+2653;84379;Raul;265.0;2;2014;Lateral
+2654;37613;Dagoberto;267.0;5;2015;Atacante
+2655;78965;Roni;303.0;4;2015;Meia
+2656;36650;Magno Alves;266.0;5;2015;Atacante
+2657;89154;Gabriel Jesus;275.0;5;2015;Atacante
+2658;73863;Claudinei;314.0;4;2015;Meia
+2659;82653;Vitinho;;5;2015;Atacante
+2660;71603;Luiz Eduardo;;3;2015;Zagueiro
+2661;50317;David Braz;277.0;3;2016;Zagueiro
+2662;73421;Rafael Vaz;262.0;3;2016;Zagueiro
+2663;79826;Douglas Santos;282.0;2;2016;Lateral
+2664;79887;Fabiano;275.0;2;2016;Lateral
+2665;90899;Lucas Fernandes;293.0;5;2016;Atacante
+2666;90486;Alan Fialho;266.0;2;2016;Lateral
+2667;50301;Everton;262.0;4;2017;Meia
+2668;50369;Carlos Eduardo;287.0;4;2017;Meia
+2669;68886;Digão;283.0;3;2017;Zagueiro
+2670;71724;Agenor;292.0;1;2017;Goleiro
+2671;73896;Geuvânio;262.0;5;2017;Atacante
+2672;81682;Cazares;282.0;4;2017;Meia
+2673;91973;Lucas Marques;315.0;4;2017;Meia
+2674;96340;Lima;284.0;4;2017;Meia
+2675;82472;Fabiano;263.0;4;2014;Meia
+2676;83130;Erik ;275.0;5;2014;Atacante
+2677;44857;Naldinho;292.0;4;2014;Meia
+2678;88054;Diogo Sodré;294.0;4;2014;Meia
+2679;83772;Neilton;283.0;5;2014;Atacante
+2680;86764;Sidcley;293.0;2;2014;Lateral
+2681;37657;Edu Dracena;264.0;3;2015;Zagueiro
+2682;91575;Mateus Oliveira;264.0;5;2015;Atacante
+2683;90311;Bryan Olivera;266.0;4;2015;Meia
+2684;89444;Hugo Ragelli;;5;2015;Atacante
+2685;71043;Leo;276.0;1;2016;Goleiro
+2686;95779;João Figueiredo;282.0;5;2016;Atacante
+2687;78407;Douglas Grolli;303.0;3;2016;Zagueiro
+2688;91710;Jacsson;285.0;1;2016;Goleiro
+2689;61238;Hélder;327.0;2;2016;Lateral
+2690;37245;Guto Ferreira;315.0;6;2017;Tecnico
+2691;49673;Júlio César;266.0;1;2017;Goleiro
+2692;60788;Marquinhos;292.0;5;2017;Atacante
+2693;77544;Jorginho;373.0;4;2017;Meia
+2694;80583;Lucas Lima;277.0;4;2017;Meia
+2695;38398;Renato Augusto;264.0;4;2014;Meia
+2696;50347;Alan Kardec;276.0;5;2014;Atacante
+2697;88987;Bruno Correa;263.0;5;2014;Atacante
+2698;79228;Bruno Furlan;317.0;5;2015;Atacante
+2699;89342;Caju;277.0;2;2015;Lateral
+2700;68932;Renan Ribeiro;276.0;1;2015;Goleiro
+2701;62131;Yuri;;4;2015;Meia
+2702;87225;Pedro Henrique;;3;2015;Zagueiro
+2703;37607;Michel Bastos;276.0;4;2016;Meia
+2704;92500;Rafael Dumas;262.0;3;2016;Zagueiro
+2705;92438;Matheus Phillipe;266.0;1;2016;Goleiro
+2706;80286;Matheus Vidotto;264.0;1;2016;Goleiro
+2707;73721;Marcos Vinícius;283.0;4;2016;Meia
+2708;40006;Abel Braga;266.0;6;2017;Tecnico
+2709;68758;Fernandinho;284.0;5;2017;Atacante
+2710;68873;Paulo Victor;284.0;1;2017;Goleiro
+2711;68893;André Lima;287.0;5;2017;Atacante
+2712;79035;Luiz Felipe;277.0;3;2017;Zagueiro
+2713;90285;Bruno Henrique;277.0;5;2017;Atacante
+2714;97352;Pachu;263.0;5;2017;Atacante
+2715;42222;Osvaldo;276.0;5;2014;Atacante
+2716;68711;Chiquinho;266.0;4;2014;Meia
+2717;42500;Fagner;264.0;2;2014;Lateral
+2718;72167;Mazinho;264.0;5;2015;Atacante
+2719;37656;Fábio;283.0;1;2015;Goleiro
+2720;50393;Thiego;315.0;3;2015;Zagueiro
+2721;71724;Agenor;317.0;1;2015;Goleiro
+2722;80537;Michael;266.0;5;2015;Atacante
+2723;91654;Daniel;316.0;5;2015;Atacante
+2724;91391;Juninho;317.0;4;2015;Meia
+2725;89816;Baiano;290.0;3;2015;Zagueiro
+2726;79048;Elisson;283.0;1;2015;Goleiro
+2727;78756;Alemão;;5;2015;Atacante
+2728;72071;Amaral;287.0;4;2016;Meia
+2729;71162;Vinícius;293.0;4;2016;Meia
+2730;84290;Ailton Canela;315.0;5;2016;Atacante
+2731;62128;Walter;293.0;5;2016;Atacante
+2732;38648;Hernanes;276.0;4;2017;Meia
+2733;40025;Levir Culpi;277.0;6;2017;Tecnico
+2734;68953;Leandro Damião;262.0;5;2017;Atacante
+2735;71799;Silvinho;288.0;5;2014;Atacante
+2736;37627;Diguinho;266.0;4;2014;Meia
+2737;69018;Deivid;293.0;4;2014;Meia
+2738;42501;Rhodolfo;284.0;3;2014;Zagueiro
+2739;71038;Pedro Henrique;290.0;3;2014;Zagueiro
+2740;85210;Jonatan Ponciano;316.0;5;2014;Atacante
+2741;62974;Werley;277.0;3;2015;Zagueiro
+2742;38061;Edcarlos;282.0;3;2015;Zagueiro
+2743;50407;Marquinho;266.0;4;2016;Meia
+2744;90481;Alisson Farias;285.0;4;2016;Meia
+2745;71829;Júnior Urso ;282.0;4;2016;Meia
+2746;70111;Guilherme Mattis;287.0;3;2016;Zagueiro
+2747;36612;Zé Roberto;275.0;4;2016;Meia
+2748;92623;Kauê;275.0;5;2016;Atacante
+2749;92225;Thiago Lopes;294.0;4;2016;Meia
+2750;95315;Índio;294.0;5;2016;Atacante
+2751;71778;Bady;316.0;4;2016;Meia
+2752;38909;Diego;262.0;4;2017;Meia
+2753;51318;Leandro Donizete;277.0;4;2017;Meia
+2754;81898;Osman;315.0;5;2017;Atacante
+2755;83683;Andrei Girotto;315.0;4;2017;Meia
+2756;86776;Jordi;267.0;1;2017;Goleiro
+2757;62139;Ricardo Drubscky;290.0;6;2014;Tecnico
+2758;85423;Valdivia;285.0;4;2014;Meia
+2759;38064;Denilson;276.0;4;2014;Meia
+2760;70311;Fran Mérida;293.0;4;2014;Meia
+2761;71602;João Paulo;275.0;2;2015;Lateral
+2762;82740;Artur;266.0;3;2015;Zagueiro
+2763;90531;Raul;284.0;2;2015;Lateral
+2764;71043;Leo;276.0;1;2015;Goleiro
+2765;84917;Jeferson;303.0;2;2015;Lateral
+2766;89641;Bruno Ferreira;;2;2015;Lateral
+2767;87742;Neto Moura;292.0;4;2016;Meia
+2768;73384;Samuel Xavier;292.0;2;2016;Lateral
+2769;94649;Maxi Rolón;277.0;5;2016;Atacante
+2770;69042;Ronaldo;282.0;3;2016;Zagueiro
+2771;92837;Sergio Vieira;327.0;6;2016;Tecnico
+2772;78578;Paulinho;277.0;5;2016;Atacante
+2773;81031;Marquinhos Santos;316.0;6;2016;Tecnico
+2774;78077;Madson;267.0;2;2017;Lateral
+2775;91866;Zé Ivaldo;293.0;3;2017;Zagueiro
+2776;94207;Guilherme;263.0;5;2017;Atacante
+2777;84791;Kenedy;266.0;5;2014;Atacante
+2778;74074;Claudio Winck;285.0;2;2014;Lateral
+2779;88874;Léo Cunha;275.0;2;2014;Lateral
+2780;51681;Hélder;294.0;4;2014;Meia
+2781;62104;Robinho;294.0;4;2014;Meia
+2782;73974;Alison;277.0;4;2014;Meia
+2783;38067;Danilo;264.0;4;2015;Meia
+2784;88269;Centurión;276.0;5;2015;Atacante
+2785;38632;Matheus Ferraz;292.0;3;2015;Zagueiro
+2786;79887;Fabiano;283.0;2;2015;Lateral
+2787;83433;Patrick;290.0;4;2015;Meia
+2788;91973;Lucas Marques;;4;2015;Meia
+2789;80288;Marcelinho;;4;2015;Meia
+2790;89285;Matheus Sales;275.0;4;2016;Meia
+2791;36856;Celso Roth;285.0;6;2016;Tecnico
+2792;37694;Henrique;283.0;4;2017;Meia
+2793;51700;Thiago Carleto;294.0;2;2017;Lateral
+2794;55348;Luis Ricardo;263.0;2;2017;Lateral
+2795;69705;Nikão;293.0;4;2017;Meia
+2796;82943;Matheus Ribeiro;277.0;2;2017;Lateral
+2797;72097;Giovanni;288.0;2;2014;Lateral
+2798;71113;Felipe ;316.0;4;2014;Meia
+2799;78891;Petros;264.0;4;2014;Meia
+2800;62104;Robinho;275.0;4;2015;Meia
+2801;50361;Rafael Lima;315.0;3;2015;Zagueiro
+2802;81369;Júnior De Barros;293.0;5;2015;Atacante
+2803;36591;Leonardo;277.0;3;2015;Zagueiro
+2804;62137;Enderson Moreira;;6;2015;Tecnico
+2805;37633;Lúcio Flávio;;4;2015;Meia
+2806;92087;Lyanco;;3;2015;Zagueiro
+2807;49737;Fernando Gabriel;344.0;4;2016;Meia
+2808;51549;Adalberto;327.0;3;2016;Zagueiro
+2809;42222;Osvaldo;266.0;5;2016;Atacante
+2810;91928;Christian Sávio;327.0;4;2016;Meia
+2811;96558;David Neres;276.0;5;2016;Atacante
+2812;38138;Jô;264.0;5;2017;Atacante
+2813;42234;Cássio;264.0;1;2017;Goleiro
+2814;98765;Marquinho;282.0;4;2017;Meia
+2815;99882;Fabiano Soares;293.0;6;2017;Tecnico
+2816;39230;Neto Coruja;287.0;4;2014;Meia
+2817;69232;Bolatti;263.0;4;2014;Meia
+2818;68698;Bruno Silva;315.0;4;2014;Meia
+2819;38431;Diego Cavalieri;266.0;1;2015;Goleiro
+2820;90317;Matheus;317.0;1;2015;Goleiro
+2821;88225;Daniel Guedes ;277.0;2;2016;Lateral
+2822;89273;João Pedro ;275.0;2;2016;Lateral
+2823;87213;Pará;316.0;2;2016;Lateral
+2824;87225;Pedro Henrique;264.0;3;2016;Zagueiro
+2825;96349;Geovane;294.0;3;2016;Zagueiro
+2826;55594;Xuxa;303.0;4;2017;Meia
+2827;78445;Renê;262.0;2;2017;Lateral
+2828;82627;Luiz Araújo;276.0;5;2017;Atacante
+2829;84926;Yago;282.0;4;2017;Meia
+2830;86757;Everton;284.0;5;2017;Atacante
+2831;99669;Elano;277.0;6;2017;Tecnico
+2832;80553;Guilherme Lazaroni;316.0;2;2014;Lateral
+2833;70915;Luis Felipe;288.0;2;2014;Lateral
+2834;68994;Wesley;316.0;4;2014;Meia
+2835;85403;Daniel;282.0;4;2014;Meia
+2836;38178;Roberto;314.0;5;2015;Atacante
+2837;84861;Alex Silva;292.0;2;2015;Lateral
+2838;90366;Luiz Fernando ;266.0;4;2015;Meia
+2839;86148;Ian;303.0;4;2015;Meia
+2840;87754;Diego;;2;2015;Lateral
+2841;92170;Gabriel Vasconcelos;;5;2015;Atacante
+2842;93283;Rafinha;;4;2015;Meia
+2843;77777;João Schmidt ;276.0;4;2016;Meia
+2844;93882;Cleiton;282.0;1;2016;Goleiro
+2845;97449;Carvalho;294.0;4;2016;Meia
+2846;62086;Pará;262.0;2;2017;Lateral
+2847;87350;Buffarini;276.0;2;2017;Lateral
+2848;99424;Éder Militão;276.0;4;2017;Meia
+2849;62119;Tiago Luis;315.0;5;2014;Atacante
+2850;49651;Ernando;285.0;3;2014;Zagueiro
+2851;77556;Bruno;288.0;1;2014;Goleiro
+2852;51779;Pedro Botelho;282.0;2;2014;Lateral
+2853;49675;Alexandre Pato;276.0;5;2014;Atacante
+2854;84545;Romulo;288.0;2;2014;Lateral
+2855;60969;Patric;282.0;2;2015;Lateral
+2856;88366;Martín Luque;285.0;4;2015;Meia
+2857;79892;Nenén;315.0;4;2015;Meia
+2858;82943;Matheus Ribeiro;293.0;2;2015;Lateral
+2859;82403;César Martins;;3;2015;Zagueiro
+2860;92190;Gustavo Viera;;4;2015;Meia
+2861;90406;Crysan;293.0;5;2016;Atacante
+2862;95799;Artur;275.0;5;2016;Atacante
+2863;94509;Raphael Veiga;294.0;4;2016;Meia
+2864;42213;Fernando Bob;303.0;4;2017;Meia
+2865;78632;Bryan;283.0;2;2017;Lateral
+2866;84585;Allione;265.0;4;2017;Meia
+2867;84890;Euller ;287.0;2;2017;Lateral
+2868;90587;Cascardo;293.0;2;2017;Lateral
+2869;82703;Matheus Biteco;284.0;4;2014;Meia
+2870;81950;Jefferson;316.0;4;2014;Meia
+2871;78605;Gabriel;263.0;4;2014;Meia
+2872;73336;Rafael Martins;294.0;1;2014;Goleiro
+2873;37718;Arouca;277.0;4;2014;Meia
+2874;80287;Luciano;264.0;5;2014;Atacante
+2875;82928;Edson;288.0;1;2014;Goleiro
+2876;81543;Josué;287.0;3;2014;Zagueiro
+2877;38910;Ricardo Oliveira;277.0;5;2015;Atacante
+2878;80949;Biro Biro;303.0;5;2015;Atacante
+2879;80287;Luciano;264.0;5;2015;Atacante
+2880;73317;Argel Fucks;316.0;6;2015;Tecnico
+2881;89975;Rodolfo;;1;2015;Goleiro
+2882;72290;Jailson;275.0;1;2016;Goleiro
+2883;37673;Alecsandro;275.0;5;2016;Atacante
+2884;77868;Filipe Machado;315.0;3;2016;Zagueiro
+2885;73991;Walisson Maia;294.0;3;2016;Zagueiro
+2886;80374;Norberto ;287.0;2;2016;Lateral
+2887;92614;Rafaelson;287.0;5;2016;Atacante
+2888;51413;Walter;264.0;1;2016;Goleiro
+2889;51476;Rafael Bastos;315.0;4;2016;Meia
+2890;80583;Lucas Lima;277.0;4;2016;Meia
+2891;40990;Dorival Júnior;277.0;6;2017;Tecnico
+2892;71389;Baumjohann;294.0;4;2017;Meia
+2893;86222;Rodolfo;275.0;5;2014;Atacante
+2894;77809;William Pottker;316.0;5;2014;Atacante
+2895;78012;Yuri Mamute;263.0;5;2014;Atacante
+2896;86836;Sidney;263.0;4;2014;Meia
+2897;87999;Gustavo Scarpa;266.0;4;2014;Meia
+2898;82455;Zé Rafael ;294.0;4;2014;Meia
+2899;82884;Matheus Gonzaga;316.0;4;2014;Meia
+2900;72167;Mazinho;275.0;4;2014;Meia
+2901;84263;Jemerson;282.0;3;2015;Zagueiro
+2902;68951;Josimar;303.0;4;2015;Meia
+2903;38763;Marcinho;267.0;4;2015;Meia
+2904;91815;Ygor Nogueira;266.0;3;2015;Zagueiro
+2905;90939;Wesley;315.0;2;2015;Lateral
+2906;84530;Maxi Rodríguez;;4;2015;Meia
+2907;80399;Higor Leite;;4;2015;Meia
+2908;93028;Danny Sergio;;6;2015;Tecnico
+2909;50421;Wesley;276.0;4;2016;Meia
+2910;61999;Ariel;285.0;5;2016;Atacante
+2911;70046;Victor Ferraz;277.0;2;2017;Lateral
+2912;72491;Bressan;284.0;3;2017;Zagueiro
+2913;87864;Felipe Gedoz ;293.0;4;2017;Meia
+2914;92614;Rafaelson;287.0;5;2017;Atacante
+2915;96966;Arthur Gomes;277.0;5;2017;Atacante
+2916;99474;Wenderson;263.0;4;2017;Meia
+2917;37654;Rosinei;294.0;4;2014;Meia
+2918;60752;Cristóvão Borges;266.0;6;2014;Tecnico
+2919;86754;Guilherme Amorim;284.0;4;2014;Meia
+2920;85418;Uilson;282.0;1;2014;Goleiro
+2921;69049;Leandro Amaro;315.0;3;2014;Zagueiro
+2922;82456;Rafhael Lucas;264.0;5;2015;Atacante
+2923;50453;Anderson Pico;262.0;2;2015;Lateral
+2924;81950;Jefferson;316.0;4;2015;Meia
+2925;73991;Walisson;264.0;3;2015;Zagueiro
+2926;68758;Fernandinho;;5;2015;Atacante
+2927;52897;Nivaldo;315.0;1;2016;Goleiro
+2928;73619;Wellington Nem;276.0;5;2017;Atacante
+2929;78478;Willian Arão;262.0;4;2017;Meia
+2930;87874;Orejuela;266.0;4;2017;Meia
+2931;80313;Gilberto ;285.0;2;2014;Lateral
+2932;51194;Rafael Pereira;288.0;3;2014;Zagueiro
+2933;71146;Léo Veloso;290.0;2;2014;Lateral
+2934;41357;Adriano;293.0;5;2014;Atacante
+2935;63119;Juninho;316.0;4;2015;Meia
+2936;37984;Aranha;275.0;1;2015;Goleiro
+2937;50417;Valencia;277.0;4;2015;Meia
+2938;89191;Felipe Zang;315.0;3;2015;Zagueiro
+2939;82641;Ronan;266.0;2;2015;Lateral
+2940;79947;Marion;;5;2015;Atacante
+2941;78497;Arnaldo;;2;2015;Lateral
+2942;93378;Augusto;;3;2015;Zagueiro
+2943;88002;Serginho;287.0;4;2016;Meia
+2944;37608;Cristian;264.0;4;2016;Meia
+2945;68979;Giovanni;282.0;1;2016;Goleiro
+2946;85984;Barrientos;293.0;4;2016;Meia
+2947;71055;Pato Rodríguez;277.0;4;2016;Meia
+2948;68770;Camacho;264.0;4;2017;Meia
+2949;68901;Rodrigo Pimpão;263.0;5;2017;Atacante
+2950;97863;Jhemerson;287.0;4;2017;Meia
+2951;62971;Nirley;316.0;3;2014;Zagueiro
+2952;70914;Raphael Luz;290.0;4;2014;Meia
+2953;68922;Fabrício;276.0;4;2014;Meia
+2954;86502;Jonathan Ferrari;287.0;3;2014;Zagueiro
+2955;69325;Aránguiz;285.0;4;2015;Meia
+2956;41859;Marcelinho Paraíba;317.0;4;2015;Meia
+2957;78652;Jhon Cley;267.0;4;2015;Meia
+2958;81223;Erazo;284.0;3;2015;Zagueiro
+2959;68690;André;282.0;5;2015;Atacante
+2960;81094;Vítor;314.0;1;2015;Goleiro
+2961;90320;Igor;317.0;3;2015;Zagueiro
+2962;92078;Wallace;;5;2015;Atacante
+2963;42222;Osvaldo;;5;2015;Atacante
+2964;73414;Thiago Rodrigues;316.0;1;2016;Goleiro
+2965;88916;Luan Polli ;316.0;1;2016;Goleiro
+2966;39431;Givanildo Oliveira;327.0;6;2016;Tecnico
+2967;79954;Romário;327.0;5;2016;Atacante
+2968;88898;André Jardine;276.0;6;2016;Tecnico
+2969;78578;Paulinho;287.0;5;2017;Atacante
+2970;82613;Alan Costa;287.0;3;2017;Zagueiro
+2971;37818;Hugo;287.0;4;2014;Meia
+2972;50645;Eduardo;288.0;2;2014;Lateral
+2973;68925;Leonardo Silva;282.0;3;2014;Zagueiro
+2974;51495;Tiago Alves;275.0;3;2014;Zagueiro
+2975;68923;Gil;264.0;3;2015;Zagueiro
+2976;51683;Bruno Rangel;315.0;5;2015;Atacante
+2977;86588;Ícaro;264.0;4;2015;Meia
+2978;78855;Thiago Santos;;4;2015;Meia
+2979;50294;Guilherme;264.0;4;2016;Meia
+2980;91251;Tonhão;283.0;3;2016;Zagueiro
+2981;81898;Osman;327.0;4;2016;Meia
+2982;42499;Bruno;276.0;2;2016;Lateral
+2983;88387;Sueliton;327.0;3;2016;Zagueiro
+2984;70929;Negueba;284.0;5;2016;Atacante
+2985;60784;Rafael Carioca;282.0;4;2016;Meia
+2986;78464;Fábio Braga;303.0;4;2017;Meia
+2987;90309;David;287.0;5;2017;Atacante
+2988;95780;Zé Ricardo;262.0;6;2017;Tecnico
+2989;70132;Alan Santos;277.0;4;2014;Meia
+2990;49673;Júlio César;266.0;1;2014;Goleiro
+2991;37749;Harlei;290.0;1;2014;Goleiro
+2992;69703;Diego Maurício;292.0;5;2014;Atacante
+2993;86411;Breno;283.0;2;2015;Lateral
+2994;91264;Matheus Sávio;262.0;5;2016;Atacante
+2995;93886;Matheusinho;327.0;4;2016;Meia
+2996;82787;Joel;277.0;5;2016;Atacante
+2997;83688;Luan;316.0;4;2016;Meia
+2998;88125;Yuri;263.0;4;2016;Meia
+2999;63119;Juninho;287.0;2;2017;Lateral
+3000;69165;Pablo;264.0;3;2017;Zagueiro
+3001;73978;René;287.0;3;2017;Zagueiro
+3002;77670;Gladestony;285.0;4;2014;Meia
+3003;38069;Richarlyson;287.0;2;2014;Lateral
+3004;50301;Everton;262.0;4;2014;Meia
+3005;69705;Nikão;293.0;4;2015;Meia
+3006;63020;Tinga;314.0;4;2015;Meia
+3007;82680;Nathan Índio;303.0;4;2015;Meia
+3008;89306;Paulinho;282.0;4;2015;Meia
+3009;92150;Daniel Hernández;;4;2015;Meia
+3010;38061;Edcarlos;282.0;3;2016;Zagueiro
+3011;87192;Zeca;277.0;2;2016;Lateral
+3012;78895;Marcelo;315.0;3;2016;Zagueiro
+3013;62056;Kempes;315.0;5;2016;Atacante
+3014;96055;Yan;294.0;4;2016;Meia
+3015;97315;Guilherme Mantuan;264.0;4;2016;Meia
+3016;37718;Arouca;275.0;4;2017;Meia
+3017;50427;Kadu;303.0;3;2017;Zagueiro
+3018;62104;Robinho;283.0;4;2017;Meia
+3019;71719;Elton;303.0;4;2017;Meia
+3020;89256;Gerson;266.0;4;2014;Meia
+3021;68827;Renato Chaves;293.0;3;2014;Zagueiro
+3022;68958;Wallace;262.0;3;2015;Zagueiro
+3023;71042;Augusto César;317.0;4;2015;Meia
+3024;70992;Juliano;290.0;4;2015;Meia
+3025;68962;Arthur Maia;262.0;4;2015;Meia
+3026;84851;Lucas Cândido;282.0;4;2015;Meia
+3027;91715;Matheus Cassini;264.0;4;2015;Meia
+3028;87268;Philipe Maia;314.0;3;2015;Zagueiro
+3029;73580;Falcão;285.0;6;2016;Tecnico
+3030;91687;João Pedro;293.0;4;2016;Meia
+3031;78868;Raphinha;285.0;2;2016;Lateral
+3032;84709;Nico López;285.0;5;2016;Atacante
+3033;92180;Jair Ventura;263.0;6;2016;Tecnico
+3034;37656;Fábio;283.0;1;2017;Goleiro
+3035;38109;Jefferson;263.0;1;2017;Goleiro
+3036;63219;Luan;282.0;5;2017;Atacante
+3037;79042;Tiago ;265.0;3;2017;Zagueiro
+3038;86972;Emerson Santos;263.0;3;2017;Zagueiro
+3039;91194;Thiago;262.0;1;2017;Goleiro
+3040;93787;Andrey;267.0;4;2017;Meia
+3041;97532;Jean Pineda;287.0;5;2017;Atacante
+3042;50421;Wesley;275.0;4;2014;Meia
+3043;78936;Rodrigo Souza;288.0;4;2014;Meia
+3044;70928;William Henrique;287.0;5;2014;Atacante
+3045;88156;Jean;316.0;1;2014;Goleiro
+3046;68824;Raphael Augusto;266.0;4;2014;Meia
+3047;71037;Clayton Sales;290.0;2;2014;Lateral
+3048;42116;Willian;283.0;5;2015;Atacante
+3049;78967;Dudu;316.0;5;2015;Atacante
+3050;71572;Gabriel;284.0;3;2015;Zagueiro
+3051;73717;Juan Carlos Osorio;;6;2015;Tecnico
+3052;83817;Clayson;;4;2015;Meia
+3053;38139;Bobô;284.0;5;2016;Atacante
+3054;70759;Martinuccio;315.0;4;2016;Meia
+3055;77895;Emerson Conceição;294.0;2;2016;Lateral
+3056;95624;Ortega;344.0;2;2016;Lateral
+3057;73353;Eduardo;266.0;4;2016;Meia
+3058;85591;Artur;285.0;2;2016;Lateral
+3059;87228;Guilherme Arana;264.0;2;2016;Lateral
+3060;68930;Kieza;287.0;5;2017;Atacante
+3061;100842;Ruan;284.0;3;2017;Zagueiro
+3062;72168;João Paulo;290.0;4;2014;Meia
+3063;62070;Marcelo Cordeiro;292.0;2;2014;Lateral
+3064;72386;Hernane;262.0;5;2014;Atacante
+3065;68974;Marcão;316.0;5;2015;Atacante
+3066;38579;Rodrigo Mancha;292.0;4;2015;Meia
+3067;78235;Leandrinho;277.0;4;2016;Meia
+3068;92087;Lyanco;276.0;3;2016;Zagueiro
+3069;85121;Robert ;266.0;4;2016;Meia
+3070;38515;Marquinhos;316.0;3;2016;Zagueiro
+3071;81682;Cazares;282.0;4;2016;Meia
+3072;92841;Fernando Medeiros;277.0;4;2016;Meia
+3073;37919;Luis Fabiano;267.0;5;2017;Atacante
+3074;68920;Dudu;275.0;5;2017;Atacante
+3075;93296;Aderllan Santos;276.0;3;2017;Zagueiro
+3076;99670;Arthur;283.0;3;2017;Zagueiro
+3077;84320;Recife;262.0;4;2014;Meia
+3078;63119;Juninho;275.0;2;2014;Lateral
+3079;49674;Fabrício;285.0;2;2014;Lateral
+3080;37798;Rafael Sobis;266.0;5;2014;Atacante
+3081;72605;Vitor Hugo;275.0;3;2015;Zagueiro
+3082;68817;Paulo Miranda;276.0;3;2015;Zagueiro
+3083;80286;Matheus Vidotto;264.0;1;2015;Goleiro
+3084;68773;Henrique;;5;2015;Atacante
+3085;72097;Giovanni;266.0;2;2016;Lateral
+3086;38908;Renato;277.0;4;2016;Meia
+3087;42499;Bruno;276.0;2;2017;Lateral
+3088;80124;Matheus Mancini;282.0;3;2017;Zagueiro
+3089;85626;Léo;266.0;2;2017;Lateral
+3090;92180;Jair Ventura;263.0;6;2017;Tecnico
+3091;86419;Jonathan;316.0;5;2014;Atacante
+3092;40904;Julio Cesar;294.0;5;2014;Atacante
+3093;88848;Júnior Oliveira;316.0;1;2014;Goleiro
+3094;88671;Guilherme;292.0;4;2014;Meia
+3095;73074;Rafael Copetti ;267.0;1;2015;Goleiro
+3096;92663;Murilo;;5;2015;Atacante
+3097;89154;Gabriel Jesus;275.0;5;2016;Atacante
+3098;89676;Nickson;287.0;5;2016;Atacante
+3099;89885;Leandrinho;263.0;4;2016;Meia
+3100;68911;Diego Souza;292.0;4;2016;Meia
+3101;92663;Murilo;276.0;5;2016;Atacante
+3102;86620;Rivaldinho;285.0;5;2016;Atacante
+3103;73854;Éder Lima;327.0;2;2016;Lateral
+3104;96633;Pablo;292.0;4;2016;Meia
+3105;100651;Rodrygo;277.0;5;2017;Atacante
+3106;68974;Marcão;316.0;5;2014;Atacante
+3107;50446;Chico;294.0;3;2014;Zagueiro
+3108;70581;Fillipe Soutto;282.0;4;2014;Meia
+3109;38370;André Bahia;263.0;3;2014;Zagueiro
+3110;89445;Yuri;315.0;5;2014;Atacante
+3111;89494;Leandro Vicentin;292.0;3;2014;Zagueiro
+3112;83614;Bruno Lopes;288.0;5;2014;Atacante
+3113;87228;Guilherme Arana;264.0;2;2014;Lateral
+3114;89898;Roger;288.0;5;2014;Atacante
+3115;72389;Mike;292.0;5;2015;Atacante
+3116;78897;Naldo;317.0;4;2015;Meia
+3117;79066;Alex ;316.0;1;2015;Goleiro
+3118;51820;Flavinho;;5;2015;Atacante
+3119;85418;Uilson;282.0;1;2016;Goleiro
+3120;70317;Eron;282.0;2;2016;Lateral
+3121;37646;Betão;314.0;3;2017;Zagueiro
+3122;71937;Juninho;265.0;4;2017;Meia
+3123;91264;Matheus Sávio;262.0;4;2017;Meia
+3124;95837;Fabián Noguera;277.0;3;2017;Zagueiro
+3125;81905;Henrique;275.0;5;2014;Atacante
+3126;60803;Souza;276.0;4;2014;Meia
+3127;63058;Willian Farias;283.0;4;2014;Meia
+3128;68746;Sergio Escudero;288.0;3;2014;Zagueiro
+3129;72490;Fred;290.0;3;2015;Zagueiro
+3130;73540;Rogério;;5;2015;Atacante
+3131;63158;Moisés;275.0;4;2016;Meia
+3132;79170;Rodrigo Ramallo;287.0;5;2016;Atacante
+3133;68987;João Vitor;303.0;4;2016;Meia
+3134;87863;Arrascaeta;283.0;4;2016;Meia
+3135;95794;Nathan;282.0;3;2016;Zagueiro
+3136;70057;Lelê;344.0;4;2016;Meia
+3137;94722;Yan Petter;285.0;4;2016;Meia
+3138;70216;Gustavo;287.0;1;2016;Goleiro
+3139;82499;Christiano ;292.0;2;2016;Lateral
+3140;92850;Alex Bolaño;344.0;4;2016;Meia
+3141;36612;Zé Roberto;275.0;2;2017;Lateral
+3142;68834;Rithely;292.0;4;2017;Meia
+3143;78495;Marcos;373.0;1;2017;Goleiro
+3144;80944;Marlone;282.0;4;2017;Meia
+3145;92191;Léo Jabá;264.0;5;2017;Atacante
+3146;95263;Luquinhas;266.0;4;2017;Meia
+3147;37790;Ceará;283.0;2;2014;Lateral
+3148;56102;João Paulo;293.0;4;2014;Meia
+3149;62009;Camilo;315.0;4;2014;Meia
+3150;88915;Douglas ;294.0;5;2014;Atacante
+3151;88479;Walace;284.0;4;2014;Meia
+3152;38613;Zé Carlos;288.0;5;2014;Atacante
+3153;80036;Alex Alves;290.0;3;2014;Zagueiro
+3154;38279;Wellington Paulista;264.0;5;2015;Atacante
+3155;55519;Edmílson;315.0;5;2015;Atacante
+3156;51175;Denis;276.0;1;2015;Goleiro
+3157;73336;Rafael Martins;264.0;1;2015;Goleiro
+3158;74076;Misael;;4;2015;Meia
+3159;37792;Edinho;294.0;4;2016;Meia
+3160;50301;Everton;262.0;4;2016;Meia
+3161;72943;Luís Cáceres;294.0;4;2016;Meia
+3162;89930;Andrigo;285.0;4;2016;Meia
+3163;38356;Jussiê;293.0;5;2016;Atacante
+3164;77967;Mena;292.0;2;2017;Lateral
+3165;37657;Edu Dracena;277.0;3;2014;Zagueiro
+3166;84313;Feijão;265.0;4;2014;Meia
+3167;68995;Régis Souza;263.0;2;2014;Lateral
+3168;88166;Felipe Caldeira;316.0;4;2014;Meia
+3169;73530;Wilson Pittoni;265.0;4;2014;Meia
+3170;38229;Fábio Santos;264.0;2;2015;Lateral
+3171;73515;Gabriel;262.0;4;2015;Meia
+3172;54250;Maylson;315.0;4;2015;Meia
+3173;90406;Crysan;293.0;5;2015;Atacante
+3174;91002;Ítalo;292.0;5;2015;Atacante
+3175;91260;Lucas Perri;276.0;1;2015;Goleiro
+3176;71117;Vander;287.0;5;2016;Atacante
+3177;69012;Santos;293.0;1;2016;Goleiro
+3178;94583;Pedro;266.0;5;2016;Atacante
+3179;90892;Wallace;287.0;1;2016;Goleiro
+3180;38315;Jadson;264.0;4;2017;Meia
+3181;39572;Renato;266.0;2;2017;Lateral
+3182;63172;Paulão;267.0;3;2017;Zagueiro
+3183;73974;Alison;277.0;4;2017;Meia
+3184;94067;Matheus Fernandes;263.0;4;2017;Meia
+3185;67953;Riveros;284.0;4;2014;Meia
+3186;79826;Douglas Santos;282.0;2;2014;Lateral
+3187;86517;Flavio;292.0;1;2014;Goleiro
+3188;51781;Ávine;265.0;2;2014;Lateral
+3189;38638;Germano;294.0;4;2014;Meia
+3190;86842;Ewandro;276.0;5;2014;Atacante
+3191;72039;Ferron;292.0;3;2014;Zagueiro
+3192;84312;Anderson Mello;265.0;4;2014;Meia
+3193;82503;Rodolfo;264.0;4;2015;Meia
+3194;83772;Neilton;283.0;5;2015;Atacante
+3195;36802;Ronaldinho Gaúcho;;4;2015;Meia
+3196;85984;Barrientos;;4;2015;Meia
+3197;88165;Wilker;;5;2015;Atacante
+3198;72490;Fred;284.0;3;2016;Zagueiro
+3199;89898;Róger Guedes;275.0;5;2016;Atacante
+3200;83528;Léo Pereira;293.0;3;2016;Zagueiro
+3201;87393;Gabriel;282.0;3;2016;Zagueiro
+3202;68932;Renan Ribeiro;276.0;1;2017;Goleiro
+3203;70526;Rogério Micale;282.0;6;2017;Tecnico
+3204;84558;Lucas Romero;283.0;4;2017;Meia
+3205;90532;Arthur;284.0;4;2017;Meia
+3206;99789;Brenner;276.0;5;2017;Atacante
+3207;38588;Elton;262.0;5;2014;Atacante
+3208;63194;Carlinhos;294.0;2;2014;Lateral
+3209;80403;Maurides;285.0;5;2014;Atacante
+3210;82769;Alan;283.0;1;2014;Goleiro
+3211;86820;Reginaldo ;294.0;2;2014;Lateral
+3212;38194;Antônio Carlos;276.0;3;2014;Zagueiro
+3213;50317;David Braz;277.0;3;2015;Zagueiro
+3214;38440;Pierre;266.0;4;2015;Meia
+3215;71995;Hugo;314.0;5;2015;Atacante
+3216;82455;Zé Rafael ;264.0;4;2015;Meia
+3217;71818;Bruno Grassi;284.0;1;2015;Goleiro
+3218;91099;Willian ;315.0;1;2015;Goleiro
+3219;95662;Lucas Kal;276.0;3;2016;Zagueiro
+3220;79646;Bruno Pereirinha;293.0;2;2016;Lateral
+3221;60791;Derley;344.0;4;2016;Meia
+3222;71844;Thiago Galhardo;303.0;4;2016;Meia
+3223;97233;Eduardo Silva;344.0;2;2016;Lateral
+3224;38001;Anderson;265.0;1;2017;Goleiro
+3225;50348;Conca;262.0;4;2017;Meia
+3226;77551;Thomás;292.0;4;2017;Meia
+3227;94985;Dodô;294.0;2;2017;Lateral
+3228;99818;Paulinho;267.0;5;2017;Atacante
+3229;50348;Conca;266.0;4;2014;Meia
+3230;87202;Lucas ;315.0;4;2014;Meia
+3231;87227;Zé Paulo;293.0;4;2014;Meia
+3232;38602;Edno;287.0;5;2014;Atacante
+3233;37659;Lauro;315.0;1;2014;Goleiro
+3234;80667;Fernando;266.0;2;2014;Lateral
+3235;82468;Willyan Sotto;293.0;4;2014;Meia
+3236;50329;Lulinha;288.0;4;2014;Meia
+3237;71100;Márcio Araújo;265.0;6;2014;Tecnico
+3238;82632;Lucas Coelho;290.0;5;2015;Atacante
+3239;78117;Everaldo;316.0;5;2015;Atacante
+3240;89227;Balbino;284.0;4;2015;Meia
+3241;84098;Gustavo Marmentini;293.0;4;2015;Meia
+3242;60834;Luan;293.0;5;2016;Atacante
+3243;93797;Marcinho;263.0;2;2016;Lateral
+3244;91920;Henrique Trevisan;316.0;3;2016;Zagueiro
+3245;84927;Dodô;316.0;4;2016;Meia
+3246;69282;Lucas Barrios;284.0;5;2017;Atacante
+3247;83048;Rafael Thyere;284.0;3;2017;Zagueiro
+3248;88933;Bruno Paulista;267.0;4;2017;Meia
+3249;95543;Renan Gorne;263.0;5;2017;Atacante
+3250;88916;Luan Polli ;316.0;1;2014;Goleiro
+3251;68728;Douglas;276.0;2;2014;Lateral
+3252;51495;Tiago Alves;303.0;3;2015;Zagueiro
+3253;82787;Joel;283.0;5;2015;Atacante
+3254;71593;Henrique Mattos;292.0;3;2015;Zagueiro
+3255;91710;Jacsson;;1;2015;Goleiro
+3256;69138;Pablo;293.0;5;2016;Atacante
+3257;89640;Williams;344.0;4;2016;Meia
+3258;94013;Guilherme Morassi;316.0;2;2016;Lateral
+3259;73465;Luccas Claro;294.0;3;2016;Zagueiro
+3260;95937;Alexis Rojas;266.0;5;2016;Atacante
+3261;69486;Reinaldo Rueda;262.0;6;2017;Tecnico
+3262;94286;Perotti;315.0;5;2017;Atacante
+3263;37645;Marcelo Mattos;263.0;4;2014;Meia
+3264;41519;Lúcio;275.0;3;2014;Zagueiro
+3265;89343;Júnior;284.0;2;2014;Lateral
+3266;54250;Maylson;288.0;4;2014;Meia
+3267;89921;Maikon;263.0;5;2014;Atacante
+3268;37607;Michel Bastos;276.0;4;2015;Meia
+3269;53148;Ytalo;;5;2015;Atacante
+3270;92901;Felipe Moreira;;6;2015;Tecnico
+3271;93733;Ítalo Borges;344.0;5;2016;Atacante
+3272;38032;Cleber Santana;315.0;4;2016;Meia
+3273;61033;Rodriguinho;264.0;4;2016;Meia
+3274;94068;Ribamar;263.0;5;2016;Atacante
+3275;84555;Glauco;327.0;1;2016;Goleiro
+3276;93414;Joel Carli;263.0;3;2016;Zagueiro
+3277;63128;Douglas;276.0;3;2016;Zagueiro
+3278;97438;Lyncon;303.0;5;2016;Atacante
+3279;70116;Fellipe Bastos;264.0;4;2017;Meia
+3280;94336;Mateus Norton;266.0;4;2017;Meia
+3281;97653;Murilo;283.0;3;2017;Zagueiro
+3282;100648;John Kleber;303.0;5;2017;Atacante
+3283;50666;Diogo;275.0;5;2014;Atacante
+3284;84679;Emanuel Biancucchi;265.0;4;2014;Meia
+3285;50533;Guiñazu;267.0;4;2015;Meia
+3286;68697;Bernardo;267.0;4;2015;Meia
+3287;68900;Geovane Maranhão;263.0;5;2016;Atacante
+3288;92290;Matheus Pato;266.0;5;2016;Atacante
+3289;78967;Dudu;316.0;5;2016;Atacante
+3290;71634;Jaime;316.0;3;2016;Zagueiro
+3291;50459;Léo;283.0;3;2016;Zagueiro
+3292;82768;Danilo;315.0;1;2016;Goleiro
+3293;42213;Fernando Bob;285.0;4;2016;Meia
+3294;97451;Talysson Lalau;294.0;4;2016;Meia
+3295;49674;Fabrício;293.0;2;2017;Lateral
+3296;87342;Kannemann;284.0;3;2017;Zagueiro
+3297;38229;Fábio Santos;264.0;2;2014;Lateral
+3298;82626;Thales ;285.0;3;2014;Zagueiro
+3299;78716;Nem;316.0;4;2014;Meia
+3300;79973;Helton Leite;263.0;1;2014;Goleiro
+3301;88617;Carlos Amadeu;287.0;6;2014;Tecnico
+3302;38957;Rafael Marques;275.0;5;2015;Atacante
+3303;73800;Rodrigo Caio;276.0;4;2015;Meia
+3304;71885;Tiago Costa;;2;2015;Lateral
+3305;50281;Wanderley Filho;;6;2015;Tecnico
+3306;92848;Breno Santos;;2;2015;Lateral
+3307;87613;Raul Cabral;;6;2015;Tecnico
+3308;89101;Sávio;327.0;5;2016;Atacante
+3309;50328;Marcelo Oliveira;284.0;2;2016;Lateral
+3310;83189;Riascos;283.0;5;2016;Atacante
+3311;38400;Vinícius Pacheco;314.0;4;2017;Meia
+3312;70929;Negueba;303.0;5;2017;Atacante
+3313;77777;João Schmidt ;276.0;4;2017;Meia
+3314;81150;Mayke;275.0;2;2017;Lateral
+3315;98352;Bruno Guimarães;293.0;4;2017;Meia
+3316;86444;Pablo Dyego;266.0;2;2014;Lateral
+3317;37899;Renan;290.0;1;2014;Goleiro
+3318;73857;Jackson;294.0;2;2014;Lateral
+3319;80076;Zé Roberto;265.0;5;2014;Atacante
+3320;37673;Alecsandro;262.0;5;2015;Atacante
+3321;73910;Tobio;275.0;3;2015;Zagueiro
+3322;85586;Jonas;262.0;4;2015;Meia
+3323;82463;Otávio ;293.0;4;2015;Meia
+3324;88848;Júnior;316.0;1;2015;Goleiro
+3325;41159;João Carlos;;3;2015;Zagueiro
+3326;95560;Joanderson;283.0;5;2016;Atacante
+3327;92094;Diogo Vitor;277.0;2;2016;Lateral
+3328;93368;Lucas Veríssimo;277.0;3;2016;Zagueiro
+3329;86754;Guilherme Amorim;284.0;4;2016;Meia
+3330;92191;Léo Jabá;264.0;5;2016;Atacante
+3331;74081;Guilherme Costa;267.0;4;2017;Meia
+3332;85629;Daniel;294.0;4;2017;Meia
+3333;99834;Dionathã;284.0;5;2017;Atacante
+3334;41364;Lincoln;265.0;4;2014;Meia
+3335;50366;Jean Carlos;316.0;5;2014;Atacante
+3336;71122;Matheus;263.0;3;2014;Zagueiro
+3337;68817;Paulo Miranda;276.0;3;2014;Zagueiro
+3338;38246;Robinho;277.0;5;2014;Atacante
+3339;78756;Alemão;315.0;5;2014;Atacante
+3340;84382;Danilo;292.0;4;2015;Meia
+3341;68808;Nino Paraíba;314.0;2;2015;Lateral
+3342;82769;Alan;283.0;1;2015;Goleiro
+3343;92293;Lucas Taylor ;;2;2015;Lateral
+3344;72565;Luan;314.0;4;2017;Meia
+3345;88225;Daniel Guedes ;277.0;2;2017;Lateral
+3346;89898;Róger Guedes;275.0;5;2017;Atacante
+3347;95288;Bruno Xavier;292.0;4;2017;Meia
+3348;42145;Egídio;283.0;2;2014;Lateral
+3349;62129;Wellington;285.0;4;2014;Meia
+3350;86943;Liniker;290.0;4;2014;Meia
+3351;70924;Matheus Carvalho;266.0;5;2014;Atacante
+3352;82737;Welinton Junior;290.0;5;2014;Atacante
+3353;86969;Rhuan;294.0;2;2014;Lateral
+3354;36612;Zé Roberto;275.0;2;2015;Lateral
+3355;43618;Luiz Felipe Scolari;284.0;6;2015;Tecnico
+3356;89190;Judivan ;283.0;5;2015;Atacante
+3357;71784;Júnior Lopes;290.0;3;2015;Zagueiro
+3358;90291;Pedro;315.0;2;2015;Lateral
+3359;83786;Neris;344.0;3;2016;Zagueiro
+3360;38229;Fábio Santos;282.0;2;2017;Lateral
+3361;71066;Mancuello;262.0;4;2017;Meia
+3362;79041;Thomaz;276.0;4;2017;Meia
+3363;84896;Lucas Otávio ;314.0;4;2017;Meia
+3364;86724;Luizão;294.0;3;2017;Zagueiro
+3365;78407;Douglas Grolli;315.0;3;2014;Zagueiro
+3366;37783;Ramon;290.0;4;2014;Meia
+3367;86143;Wanderson;264.0;3;2014;Zagueiro
+3368;38162;Fred;266.0;5;2015;Atacante
+3369;74271;Edigar Junio;293.0;5;2015;Atacante
+3370;79042;Tiago ;282.0;3;2015;Zagueiro
+3371;72529;Crystian;277.0;2;2015;Lateral
+3372;38187;Fellype Gabriel;;4;2015;Meia
+3373;72389;Mike;285.0;5;2016;Atacante
+3374;80944;Marlone;264.0;4;2016;Meia
+3375;50347;Alan Kardec;276.0;5;2016;Atacante
+3376;69240;Dátolo;282.0;4;2016;Meia
+3377;92128;Luis Henrique;263.0;5;2016;Atacante
+3378;86859;José Welison;287.0;4;2016;Meia
+3379;85069;Renan Paulino;293.0;4;2016;Meia
+3380;97450;Gustavo Mosquito;294.0;5;2016;Atacante
+3381;95180;Índio;292.0;5;2017;Atacante
+3382;82647;Régis;292.0;4;2014;Meia
+3383;88933;Bruno Paulista;265.0;4;2014;Meia
+3384;50462;Leandro Almeida;294.0;3;2014;Zagueiro
+3385;73708;Samudio;283.0;2;2014;Lateral
+3386;86449;Samuel;294.0;1;2014;Goleiro
+3387;84099;Anderson Talisca;265.0;4;2014;Meia
+3388;85931;Hyoran;315.0;4;2015;Meia
+3389;86765;Bruno Mota;293.0;4;2015;Meia
+3390;73992;Rodinei;303.0;2;2015;Lateral
+3391;39572;Renato;266.0;2;2015;Lateral
+3392;80393;Fabinho;316.0;4;2015;Meia
+3393;62011;Choco;;5;2015;Atacante
+3394;89258;Daniel;262.0;1;2016;Goleiro
+3395;68887;Gum;266.0;3;2016;Zagueiro
+3396;72099;Wiliam Barbio;327.0;5;2016;Atacante
+3397;36934;Muricy Ramalho;262.0;6;2016;Tecnico
+3398;49675;Alexandre Pato;264.0;5;2016;Atacante
+3399;39355;Carpegiani;265.0;6;2017;Tecnico
+3400;42411;Cuca;275.0;6;2017;Tecnico
+3401;99918;Patrick;284.0;4;2017;Meia
+3402;100742;Matheuzinho;284.0;4;2017;Meia
+3403;100800;Emerson Barbosa;277.0;2;2017;Lateral
+3404;73511;Dudu Figueiredo;294.0;4;2014;Meia
+3405;87586;Thiago Santana;316.0;5;2015;Atacante
+3406;63096;Maicon Talhetti;316.0;4;2015;Meia
+3407;89445;Yuri;315.0;5;2015;Atacante
+3408;94147;Lucas Ferreira;292.0;1;2016;Goleiro
+3409;88417;Iago;294.0;5;2016;Atacante
+3410;94767;Tuca Guimarães;316.0;6;2016;Tecnico
+3411;87887;Balbuena;264.0;3;2017;Zagueiro
+3412;68932;Renan Ribeiro;276.0;1;2014;Goleiro
+3413;60969;Patric;292.0;2;2014;Lateral
+3414;50292;Paulinho Dias;293.0;4;2014;Meia
+3415;80189;Lucas Fonseca;265.0;3;2014;Zagueiro
+3416;83471;Paulinho;264.0;5;2014;Atacante
+3417;80536;Victor Andrade;277.0;5;2014;Atacante
+3418;63014;Gil;315.0;4;2015;Meia
+3419;90318;Joãozinho;317.0;2;2015;Lateral
+3420;90302;Pedro Rocha;284.0;5;2015;Atacante
+3421;50369;Carlos Eduardo;282.0;4;2016;Meia
+3422;83438;Guilherme Parede;294.0;5;2016;Atacante
+3423;95694;Victor Hugo;263.0;1;2016;Goleiro
+3424;84554;Lucão;276.0;3;2016;Zagueiro
+3425;93746;Lenis;292.0;5;2016;Atacante
+3426;38311;Márcio Araújo;262.0;4;2017;Meia
+3427;99894;Junior Brumado;265.0;5;2017;Atacante
+3428;88002;Serginho;277.0;4;2014;Meia
+3429;36934;Muricy Ramalho;276.0;6;2014;Tecnico
+3430;79887;Fabiano;315.0;2;2014;Lateral
+3431;70010;Spessato;284.0;2;2014;Lateral
+3432;69325;Aránguiz;285.0;4;2014;Meia
+3433;77827;Bruno Oliveira;275.0;2;2014;Lateral
+3434;38394;Thiago Heleno;316.0;3;2015;Zagueiro
+3435;63003;Uelliton;314.0;4;2015;Meia
+3436;91388;Rodrigo Ramos;264.0;2;2015;Lateral
+3437;38043;Alessandro;293.0;2;2015;Lateral
+3438;78422;Oswaldo;292.0;3;2016;Zagueiro
+3439;42145;Egídio;275.0;2;2016;Lateral
+3440;69177;Léo;294.0;2;2017;Lateral
+3441;69249;Martín Silva;267.0;1;2017;Goleiro
+3442;80363;Ariel Cabral;283.0;4;2017;Meia
+3443;96524;Victor Lindenberg;263.0;2;2017;Lateral
+3444;60948;Diones;315.0;4;2014;Meia
+3445;87191;Jorge Eduardo;277.0;5;2014;Atacante
+3446;38162;Fred;266.0;5;2014;Atacante
+3447;69304;Lodeiro;264.0;4;2014;Meia
+3448;50369;Carlos Eduardo;262.0;4;2014;Meia
+3449;72084;França;316.0;4;2015;Meia
+3450;87741;Joelinton;292.0;5;2015;Atacante
+3451;78012;Yuri Mamute;284.0;5;2015;Atacante
+3452;78407;Douglas Grolli;283.0;3;2015;Zagueiro
+3453;88780;Leandro;285.0;5;2015;Atacante
+3454;91001;Evandro;292.0;2;2016;Lateral
+3455;70742;Seijas;285.0;4;2016;Meia
+3456;80330;Jocinei;316.0;4;2016;Meia
+3457;36650;Magno Alves;266.0;5;2016;Atacante
+3458;90679;Marlon;316.0;2;2016;Lateral
+3459;70987;Pablo Diogo;282.0;5;2016;Atacante
+3460;96591;Renan Lodi;293.0;2;2016;Lateral
+3461;80076;Zé Roberto;303.0;5;2016;Atacante
+3462;90540;Diego;285.0;5;2016;Atacante
+3463;38509;Diego Alves;262.0;1;2017;Goleiro
+3464;78715;Ramiro;284.0;4;2017;Meia
+3465;79973;Helton Leite;263.0;1;2017;Goleiro
+3466;87028;Beto da Silva;284.0;5;2017;Atacante
+3467;79947;Marion;282.0;5;2014;Atacante
+3468;38100;Durval;292.0;3;2014;Zagueiro
+3469;36790;Josué;282.0;4;2014;Meia
+3470;87009;Nathan;293.0;4;2014;Meia
+3471;87746;Luizinho Vieira;288.0;6;2014;Tecnico
+3472;87229;Donato;282.0;3;2014;Zagueiro
+3473;72099;Wiliam Barbio;315.0;5;2015;Atacante
+3474;79826;Douglas Santos;282.0;2;2015;Lateral
+3475;68821;Rafael Galhardo;284.0;2;2015;Lateral
+3476;69143;Diego Ivo;303.0;3;2015;Zagueiro
+3477;82466;Bruno Pelissari;293.0;4;2015;Meia
+3478;37623;Rafael Marques;294.0;3;2016;Zagueiro
+3479;95022;Thalis ;282.0;4;2016;Meia
+3480;51299;Emerson Silva;263.0;3;2016;Zagueiro
+3481;38100;Durval;292.0;3;2017;Zagueiro
+3482;71704;Manga Escobar;267.0;5;2017;Atacante
+3483;85121;Robert ;266.0;4;2017;Meia
+3484;90634;Lucas Mineiro;315.0;4;2017;Meia
+3485;94968;Juninho Capixaba;265.0;2;2017;Lateral
+3486;97452;Marcos Calazans;266.0;5;2017;Atacante
+3487;37705;Juan;287.0;2;2014;Lateral
+3488;71593;Henrique Mattos;292.0;3;2014;Zagueiro
+3489;69022;Marcelo;293.0;5;2014;Atacante
+3490;54189;Tiago Saletti;315.0;3;2014;Zagueiro
+3491;68892;Everton;288.0;4;2014;Meia
+3492;89467;Erick Samuel;284.0;5;2015;Atacante
+3493;82791;Toshi;314.0;4;2015;Meia
+3494;89696;Rômulo;314.0;5;2015;Atacante
+3495;91921;Jatobá;316.0;3;2015;Zagueiro
+3496;38140;Fernando Prass;275.0;1;2016;Goleiro
+3497;37770;Marcelo Grohe;284.0;1;2016;Goleiro
+3498;68697;Bernardo;294.0;4;2016;Meia
+3499;71593;Henrique Mattos;292.0;3;2016;Zagueiro
+3500;68904;Vítor;344.0;2;2016;Lateral
+3501;68951;Josimar;315.0;4;2016;Meia
+3502;73476;Marcão;266.0;6;2016;Tecnico
+3503;38421;Rafinha;283.0;4;2017;Meia
+3504;72037;Renan Fonseca;263.0;3;2017;Zagueiro
+3505;72079;Bruno Cortez;284.0;2;2017;Lateral
+3506;84847;Luan Peres ;303.0;3;2017;Zagueiro
+3507;93414;Joel Carli;263.0;3;2017;Zagueiro
+3508;100762;Bissoli;276.0;5;2017;Atacante
+3509;73957;Ewerton Páscoa ;292.0;4;2014;Meia
+3510;38311;Márcio Araújo;262.0;4;2014;Meia
+3511;88867;Guido;265.0;1;2014;Goleiro
+3512;82630;Calyson;294.0;4;2014;Meia
+3513;71575;Danilo Tarracha;287.0;2;2014;Lateral
+3514;71636;Guilherme;264.0;4;2014;Meia
+3515;37608;Cristian;264.0;4;2015;Meia
+3516;85040;Gabriel Xavier;283.0;4;2015;Meia
+3517;82703;Matheus Biteco;284.0;4;2015;Meia
+3518;85591;Artur;285.0;2;2015;Lateral
+3519;74067;Charles ;267.0;1;2015;Goleiro
+3520;72290;Jailson;275.0;1;2015;Goleiro
+3521;86760;Lucas Macanhan;293.0;1;2015;Goleiro
+3522;83811;William Cordeiro;316.0;2;2015;Lateral
+3523;70944;Bruno Henrique;264.0;4;2016;Meia
+3524;95623;Lucão;344.0;3;2016;Zagueiro
+3525;60752;Cristóvão Borges;264.0;6;2016;Tecnico
+3526;81148;Ronaldo Mendes;277.0;4;2016;Meia
+3527;79343;Doriva;344.0;6;2016;Tecnico
+3528;71479;Lucho González;293.0;4;2016;Meia
+3529;42222;Osvaldo;292.0;5;2017;Atacante
+3530;86519;Everton Felipe;292.0;4;2017;Meia
+3531;60819;Dedé;283.0;3;2014;Zagueiro
+3532;38432;Wendel;275.0;2;2014;Lateral
+3533;85067;Matheus Salustiano;287.0;3;2014;Zagueiro
+3534;87935;Cristiano;288.0;5;2014;Atacante
+3535;38695;David;290.0;4;2015;Meia
+3536;50347;Alan Kardec;276.0;5;2015;Atacante
+3537;63194;Carlinhos;264.0;2;2015;Lateral
+3538;71381;Ruan;290.0;5;2015;Atacante
+3539;88917;Murilo Henrique;290.0;4;2015;Meia
+3540;77500;Yago;264.0;3;2015;Zagueiro
+3541;87482;Gimenez;315.0;2;2016;Lateral
+3542;93846;Rafael Fachin;294.0;1;2016;Goleiro
+3543;85241;Yerry Mina;275.0;3;2016;Zagueiro
+3544;84847;Luan Peres ;344.0;3;2016;Zagueiro
+3545;38523;Edílson;284.0;2;2016;Lateral
+3546;89976;Geferson;285.0;2;2016;Lateral
+3547;70696;Fábio Carille;264.0;6;2017;Tecnico
+3548;72376;Cléber;277.0;3;2017;Zagueiro
+3549;73896;Geuvânio;277.0;5;2014;Atacante
+3550;81091;Jair;285.0;4;2014;Meia
+3551;50294;Guilherme;282.0;5;2014;Atacante
+3552;85425;João Paulo;277.0;1;2014;Goleiro
+3553;52253;Réver;282.0;3;2014;Zagueiro
+3554;72768;Muralha;262.0;4;2014;Meia
+3555;73948;Ricardo Gareca;275.0;6;2014;Tecnico
+3556;38140;Fernando Prass;275.0;1;2015;Goleiro
+3557;50324;Hudson;276.0;4;2015;Meia
+3558;93153;Pachequinho;;6;2015;Tecnico
+3559;78855;Thiago Santos;275.0;4;2016;Meia
+3560;51318;Leandro Donizete;282.0;4;2016;Meia
+3561;90703;Matheusinho;316.0;4;2016;Meia
+3562;71123;Thiago Mendes;276.0;4;2017;Meia
+3563;94214;Léo Duarte;262.0;3;2017;Zagueiro
+3564;96089;Machado;284.0;4;2017;Meia
+3565;82896;Alisson Becker;285.0;1;2014;Goleiro
+3566;68873;Paulo Victor;262.0;1;2014;Goleiro
+3567;78715;Ramiro;284.0;4;2014;Meia
+3568;78458;João Afonso;285.0;4;2014;Meia
+3569;84190;Guilherme;293.0;5;2014;Atacante
+3570;38139;Bobô;;5;2015;Atacante
+3571;38617;Danilinho;266.0;5;2016;Atacante
+3572;71707;Michael Ortega;316.0;4;2016;Meia
+3573;62104;Robinho;283.0;4;2016;Meia
+3574;95651;Filipinho;282.0;5;2016;Atacante
+3575;84926;Yago;282.0;4;2016;Meia
+3576;86323;Walterson;277.0;5;2016;Atacante
+3577;92901;Felipe Moreira;303.0;6;2016;Tecnico
+3578;97433;Guilherme  ;327.0;5;2016;Atacante
+3579;37674;Wagner;267.0;4;2017;Meia
+3580;78371;Miller Bolaños;284.0;5;2017;Atacante
+3581;87552;Vitor Bueno;277.0;4;2017;Meia
+3582;89273;João Pedro ;315.0;2;2017;Lateral
+3583;69040;Vladimir;277.0;1;2014;Goleiro
+3584;38482;Marcos Aurélio;265.0;5;2014;Atacante
+3585;78694;Guillermo Beltrán;287.0;5;2014;Atacante
+3586;89468;Erik;284.0;5;2014;Atacante
+3587;80456;Diego Felipe;265.0;4;2014;Meia
+3588;86792;Mauri;287.0;4;2014;Meia
+3589;80321;Neílson;315.0;5;2014;Atacante
+3590;89914;Gabriel ;288.0;4;2014;Meia
+3591;37919;Luis Fabiano;276.0;5;2015;Atacante
+3592;62136;Marcelo Oliveira;283.0;6;2015;Tecnico
+3593;50382;Charles;283.0;4;2015;Meia
+3594;69047;Paulo Roberto;316.0;4;2015;Meia
+3595;88307;Marcos Serrato;;4;2015;Meia
+3596;71719;Elton;;4;2015;Meia
+3597;80338;Tony ;;2;2015;Lateral
+3598;68950;Ronaldo Alves;292.0;3;2016;Zagueiro
+3599;88140;Isaac;264.0;5;2016;Atacante
+3600;93869;Lucas França;283.0;1;2016;Goleiro
+3601;49651;Ernando;285.0;3;2016;Zagueiro
+3602;96524;Victor Lindenberg;263.0;2;2016;Lateral
+3603;37770;Marcelo Grohe;284.0;1;2017;Goleiro
+3604;37934;Roger Bernardo;282.0;4;2017;Meia
+3605;86740;João Lucas;303.0;2;2017;Lateral
+3606;90535;Alex;283.0;4;2017;Meia
+3607;97538;Marcio;294.0;3;2017;Zagueiro
+3608;62023;D'Alessandro;285.0;4;2015;Meia
+3609;84554;Lucão;276.0;3;2015;Zagueiro
+3610;91741;Luiz Meneses;317.0;4;2015;Meia
+3611;92081;Richarlison ;266.0;5;2016;Atacante
+3612;95622;Marcus Vinicius;316.0;4;2016;Meia
+3613;95023;Luis Guilherme;282.0;5;2016;Atacante
+3614;89815;Gustavo Ferrareis;285.0;4;2016;Meia
+3615;84266;Alisson;316.0;1;2016;Goleiro
+3616;86757;Everton;284.0;5;2016;Atacante
+3617;86745;Lucas Rex;284.0;3;2016;Zagueiro
+3618;93146;Yan;287.0;4;2016;Meia
+3619;90872;Wagner;344.0;4;2016;Meia
+3620;42116;Willian;275.0;5;2017;Atacante
+3621;90899;Lucas Fernandes;266.0;5;2017;Atacante
+3622;94119;Lucas Rocha;267.0;3;2017;Zagueiro
+3623;82635;Igor;292.0;2;2014;Lateral
+3624;68930;Kieza;265.0;5;2014;Atacante
+3625;70929;Negueba;262.0;5;2014;Atacante
+3626;73055;Bruno Fornaroli;316.0;5;2014;Atacante
+3627;87008;Léo;284.0;1;2014;Goleiro
+3628;84098;Gustavo;293.0;5;2014;Atacante
+3629;80664;Michel;282.0;2;2014;Lateral
+3630;89256;Gerson;266.0;4;2015;Meia
+3631;78715;Ramiro;284.0;4;2015;Meia
+3632;50313;Elicarlos;315.0;4;2015;Meia
+3633;91468;Mateus Silva;317.0;5;2015;Atacante
+3634;37688;Cícero;;4;2015;Meia
+3635;60794;Pablo;327.0;2;2016;Lateral
+3636;95693;Rodney Wallace;292.0;5;2016;Atacante
+3637;85931;Hyoran;315.0;4;2016;Meia
+3638;80399;Higor Leite;266.0;4;2016;Meia
+3639;80576;Renato;316.0;4;2016;Meia
+3640;82639;Marcelo Hermes;284.0;2;2016;Lateral
+3641;63058;Willian Farias;287.0;4;2017;Meia
+3642;72893;Eduardo da Silva;293.0;5;2017;Atacante
+3643;88379;Jean Patrick;303.0;2;2017;Lateral
+3644;95660;Araruna;276.0;4;2017;Meia
+3645;97502;Filigrana;294.0;5;2017;Atacante
+3646;63219;Luan;282.0;5;2014;Atacante
+3647;70934;Jackson;290.0;3;2014;Zagueiro
+3648;89467;Erick Samuel;284.0;4;2014;Meia
+3649;72742;Wagner Lopes;288.0;6;2014;Tecnico
+3650;37917;Elano;262.0;4;2014;Meia
+3651;84791;Kenedy;266.0;5;2015;Atacante
+3652;38959;Vagner Love;264.0;5;2015;Atacante
+3653;37837;Cristian;;4;2015;Meia
+3654;68808;Nino Paraíba;303.0;2;2016;Lateral
+3655;79077;Daniel Costa;344.0;4;2016;Meia
+3656;50324;Hudson;276.0;4;2016;Meia
+3657;82740;Artur;327.0;3;2016;Zagueiro
+3658;37306;Gilson Kleina;303.0;6;2017;Tecnico
+3659;38062;Lugano;276.0;3;2017;Zagueiro
+3660;89885;Leandrinho;263.0;4;2017;Meia
+3661;89883;Dodi;288.0;4;2014;Meia
+3662;70925;Wescley;315.0;4;2014;Meia
+3663;62056;Kempes;317.0;5;2015;Atacante
+3664;36443;Dida;285.0;1;2015;Goleiro
+3665;52674;Gilson;303.0;2;2015;Lateral
+3666;82636;Jefferson Recife;;2;2015;Lateral
+3667;92497;Douglas;;4;2015;Meia
+3668;91387;Sinho;292.0;2;2016;Lateral
+3669;87402;Messias;327.0;3;2016;Zagueiro
+3670;97443;Romercio;294.0;3;2016;Zagueiro
+3671;61985;Airton;263.0;4;2017;Meia
+3672;78991;Moisés Ribeiro;315.0;4;2017;Meia
+3673;86759;Luan;284.0;5;2017;Atacante
+3674;86932;Gustavo;265.0;5;2017;Atacante
+3675;96870;Emerson;303.0;2;2017;Lateral
+3676;100840;Emanuel;284.0;3;2017;Zagueiro
+3677;100843;Felipe;284.0;2;2017;Lateral
+3678;87585;Mailson;315.0;5;2014;Atacante
+3679;62023;D'Alessandro;285.0;4;2014;Meia
+3680;88368;Gabriel Dias;275.0;3;2014;Zagueiro
+3681;38695;David;290.0;4;2014;Meia
+3682;36802;Ronaldinho Gaúcho;282.0;4;2014;Meia
+3683;38530;Cleiton Xavier;275.0;4;2015;Meia
+3684;84557;Montoya ;267.0;4;2015;Meia
+3685;51299;Emerson;314.0;3;2015;Zagueiro
+3686;86512;Bruno Gomes;285.0;5;2015;Atacante
+3687;82640;Paulinho;;5;2015;Atacante
+3688;95831;Caíque;276.0;2;2016;Lateral
+3689;83772;Neilton;263.0;5;2016;Atacante
+3690;96076;Luciano Cabral;293.0;5;2016;Atacante
+3691;63110;Alan Ruschel;315.0;2;2017;Lateral
+3692;80188;Marcos Junior;266.0;5;2017;Atacante
+3693;87486;Matheus Reis;265.0;2;2017;Lateral
+3694;91201;Pepê;284.0;5;2017;Atacante
+3695;62127;Wallyson;263.0;5;2014;Atacante
+3696;86757;Everton;284.0;5;2014;Atacante
+3697;68958;Wallace;262.0;3;2014;Zagueiro
+3698;73563;Lúcio Maranhão;316.0;5;2014;Atacante
+3699;68807;Neto Berola;282.0;5;2014;Atacante
+3700;38908;Renato;277.0;4;2015;Meia
+3701;78968;Leandro Pereira;275.0;5;2015;Atacante
+3702;61106;Cicinho;277.0;2;2015;Lateral
+3703;42474;Eltinho;314.0;2;2015;Lateral
+3704;91711;Péricles;290.0;4;2015;Meia
+3705;87158;Clebinho;;4;2015;Meia
+3706;90634;Lucas Mineiro;315.0;4;2016;Meia
+3707;77809;William Pottker;303.0;5;2016;Atacante
+3708;94143;Luiz Miller;344.0;1;2016;Goleiro
+3709;71116;Roberto;344.0;2;2016;Lateral
+3710;81684;Andrés Ríos;267.0;5;2017;Atacante
+3711;86935;Rodrigo;292.0;4;2017;Meia
+3712;83615;Thiago Martins;275.0;3;2014;Zagueiro
+3713;81031;Marquinhos Santos;294.0;6;2014;Tecnico
+3714;69329;Cereceda;316.0;2;2014;Lateral
+3715;75295;Paolo Guerrero;264.0;5;2015;Atacante
+3716;70915;Luis Felipe;317.0;2;2015;Lateral
+3717;85418;Uilson;282.0;1;2015;Goleiro
+3718;36591;Leonardo;344.0;3;2016;Zagueiro
+3719;94286;Perotti;315.0;5;2016;Atacante
+3720;80337;Arthur ;344.0;5;2016;Atacante
+3721;82463;Otávio;293.0;4;2016;Meia
+3722;97445;Matheus Iacovelli;275.0;5;2016;Atacante
+3723;69010;João Carlos;303.0;1;2017;Goleiro
+3724;78840;Pedro Castro;314.0;4;2017;Meia
+3725;84382;Danilo Barcelos;282.0;4;2017;Meia
+3726;86765;Bruno Mota;293.0;4;2017;Meia
+3727;86863;Luiz Otávio ;315.0;3;2017;Zagueiro
+3728;90061;Bruno Pacheco;373.0;2;2017;Lateral
+3729;83688;Luan;316.0;4;2014;Meia
+3730;78839;Gabriel Gasparotto;277.0;1;2014;Goleiro
+3731;68893;André Lima;294.0;5;2014;Atacante
+3732;82768;Danilo;315.0;1;2015;Goleiro
+3733;37655;Rafael Moura;285.0;5;2015;Atacante
+3734;38365;Henrique;266.0;3;2015;Zagueiro
+3735;68928;Rafael;283.0;1;2015;Goleiro
+3736;84794;Matteus ;293.0;4;2015;Meia
+3737;53189;Alexandro;;5;2015;Atacante
+3738;94214;Léo Duarte;262.0;3;2016;Zagueiro
+3739;90399;Fernandes;263.0;4;2016;Meia
+3740;37604;Paulo André;293.0;3;2016;Zagueiro
+3741;38545;Felipe Melo;275.0;4;2017;Meia
+3742;99625;Conrado;284.0;4;2017;Meia
+3743;50361;Rafael Lima;315.0;3;2014;Zagueiro
+3744;85629;Daniel;263.0;4;2014;Meia
+3745;85930;Aylon;285.0;5;2014;Atacante
+3746;84585;Allione;275.0;4;2014;Meia
+3747;89253;Andreazzi;263.0;4;2014;Meia
+3748;68907;Wellington;275.0;3;2014;Zagueiro
+3749;62047;Jean;266.0;4;2015;Meia
+3750;37652;Carlos Alberto;316.0;4;2015;Meia
+3751;42499;Bruno;276.0;2;2015;Lateral
+3752;38074;Ygor;290.0;4;2015;Meia
+3753;83511;Érico Júnior;292.0;5;2015;Atacante
+3754;80192;Hugo Gumiero;293.0;1;2015;Goleiro
+3755;37784;Herrera;;5;2015;Atacante
+3756;87552;Vitor Bueno;;4;2015;Meia
+3757;92841;Fernando Medeiros;;4;2015;Meia
+3758;91102;Flávio;287.0;4;2016;Meia
+3759;95837;Fabián Noguera;277.0;3;2016;Zagueiro
+3760;86842;Ewandro;293.0;5;2016;Atacante
+3761;79702;Antonio Carlos ;303.0;3;2016;Zagueiro
+3762;37607;Michel Bastos;275.0;4;2017;Meia
+3763;62974;Werley;294.0;3;2017;Zagueiro
+3764;63422;Jucilei;276.0;4;2017;Meia
+3765;72595;Mauricio Kozlinski;314.0;1;2017;Goleiro
+3766;86486;Milton Mendes;267.0;6;2017;Tecnico
+3767;87437;Caíque Sá;287.0;2;2017;Lateral
+3768;95550;Pedro;373.0;5;2017;Atacante
+3769;73445;Denner;294.0;4;2014;Meia
+3770;73540;Rogério;263.0;5;2014;Atacante
+3771;88064;Marcos Vinícius;282.0;5;2014;Atacante
+3772;71039;Leandro;290.0;4;2014;Meia
+3773;70054;Marcos Paulo;294.0;4;2014;Meia
+3774;36540;Juan;285.0;3;2015;Zagueiro
+3775;80374;Norberto ;264.0;2;2015;Lateral
+3776;77529;Leandro Silva;316.0;2;2015;Lateral
+3777;87732;Carlos Henrique;316.0;5;2015;Atacante
+3778;77551;Thomás;303.0;4;2015;Meia
+3779;88309;Renato;314.0;4;2015;Meia
+3780;71603;Luiz Eduardo;276.0;3;2016;Zagueiro
+3781;38928;Dudu Cearense;263.0;4;2016;Meia
+3782;42232;Amaral;294.0;4;2016;Meia
+3783;39850;Vagner Mancini;287.0;6;2016;Tecnico
+3784;93795;Matheus Cabral;263.0;1;2016;Goleiro
+3785;68887;Gum;266.0;3;2017;Zagueiro
+3786;72745;Escudero;267.0;4;2017;Meia
+3787;84861;Alex Silva;282.0;2;2017;Lateral
+3788;97341;Rogério Ceni;276.0;6;2017;Tecnico
+3789;68911;Diego Souza;292.0;4;2014;Meia
+3790;37652;Carlos Alberto;263.0;4;2014;Meia
+3791;80568;Willie;287.0;5;2014;Atacante
+3792;51413;Walter;264.0;1;2014;Goleiro
+3793;73620;Bruno Alves;316.0;3;2014;Zagueiro
+3794;89156;Nathan;275.0;3;2014;Zagueiro
+3795;69177;Léo;262.0;2;2014;Lateral
+3796;86936;Ray;290.0;4;2014;Meia
+3797;62128;Walter;293.0;5;2015;Atacante
+3798;83266;Marcos Guilherme ;293.0;4;2015;Meia
+3799;73465;Luccas Claro;264.0;3;2015;Zagueiro
+3800;51779;Pedro Botelho;282.0;2;2015;Lateral
+3801;73421;Rafael Vaz;267.0;3;2015;Zagueiro
+3802;78994;Eduardo;282.0;4;2015;Meia
+3803;87486;Matheus;;2;2015;Lateral
+3804;36856;Celso Roth;;6;2015;Tecnico
+3805;92500;Rafael Dumas;;3;2015;Zagueiro
+3806;92504;Batista;284.0;5;2016;Atacante
+3807;38279;Wellington Paulista;303.0;5;2016;Atacante
+3808;81241;Oswaldo Henríquez;292.0;3;2016;Zagueiro
+3809;38279;Wellington Paulista;315.0;5;2017;Atacante
+3810;85149;Ronaldo;292.0;4;2017;Meia
